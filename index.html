@@ -1,172 +1,1973 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A public briefing on the Iran conflict from February 28, 2026 through May 19, 2026, using ISW/CTP reports and Trump Truth Social posts.">
-    <title>Iran Conflict Brief</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,700;6..72,800&family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
-    <a class="skip-link" href="#brief">Skip to briefing</a>
 
-    <header class="site-header" id="top">
-      <nav class="nav-shell" aria-label="Primary">
-        <a class="brand-lockup" href="#top" aria-label="Iran conflict brief home">
-          <span class="brand-mark" aria-hidden="true"></span>
-          <span>Strait Control Room</span>
-        </a>
-        <div class="nav-links">
-          <a href="#brief">Brief</a>
-          <a href="#timeline">Timeline</a>
-          <a href="#phases">Phases</a>
-          <a href="#sources">Sources</a>
-        </div>
-      </nav>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The 2026 Iran War — Full Explainer</title>
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
 
-      <section class="hero" aria-labelledby="page-title">
-        <div class="hero-copy">
-          <p class="eyebrow">Public conflict briefing</p>
-          <h1 id="page-title">Iran War, Strait Pressure, Nuclear Ultimatum</h1>
-          <p class="hero-verdict">From February 28 to May 19, the conflict moved from decapitation strikes and missile retaliation into a maritime control fight, a nuclear bargaining impasse, and a paused strike order.</p>
-        </div>
+        :root {
+            --bg: #0a0c10;
+            --surface: #111520;
+            --surface2: #181d2a;
+            --border: #1e2438;
+            --accent: #e05c1a;
+            --accent2: #3b8beb;
+            --gold: #c9a227;
+            --text: #d4daea;
+            --muted: #6b7590;
+            --green: #2ecc71;
+            --red: #e74c3c;
+            --yellow: #f39c12;
+        }
 
-        <aside class="hero-board" aria-label="Current evidence range">
-          <div class="board-row">
-            <span>Coverage</span>
-            <strong>Feb. 28 to May 19, 2026</strong>
-          </div>
-          <div class="board-row">
-            <span>Latest ISW/CTP report</span>
-            <strong>May 18, 2026</strong>
-          </div>
-          <div class="board-row">
-            <span>Latest Trump post in file</span>
-            <strong>May 19, 2026</strong>
-          </div>
-          <div class="board-signal">
-            <span class="pulse-dot" aria-hidden="true"></span>
-            <span>May 19 strike canceled on May 18. Military held on alert.</span>
-          </div>
-        </aside>
-      </section>
-    </header>
+        html {
+            scroll-behavior: smooth;
+        }
 
-    <main id="brief">
-      <section class="at-glance section-shell" aria-labelledby="glance-title">
-        <div class="section-kicker">War at a glance</div>
-        <div class="section-heading">
-          <h2 id="glance-title">The shape of the conflict</h2>
-          <p>Read this as a map board. Military pressure, maritime leverage, nuclear demands, and public messaging move on separate tracks until May 18, when they collide.</p>
-        </div>
-        <div class="stat-grid" id="stats-grid"></div>
-      </section>
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            font-size: 15px;
+            line-height: 1.7;
+        }
 
-      <section class="control-panel section-shell" aria-label="Timeline controls">
-        <div class="control-heading">
-          <div>
-            <div class="section-kicker">Timeline controls</div>
-            <h2>Filter the record</h2>
-          </div>
-          <p id="result-count" aria-live="polite"></p>
-        </div>
-        <div class="controls-row" id="category-filters" aria-label="Filter by category"></div>
-        <div class="source-search-row">
-          <div class="source-toggle" id="source-filters" aria-label="Filter by source"></div>
-          <label class="search-field">
-            <span>Search</span>
-            <input id="timeline-search" type="search" placeholder="Try Hormuz, Hezbollah, HEU, May 18">
-          </label>
-        </div>
-        <div class="record-row">
-          <div class="record-toggle" id="record-toggle" aria-label="Timeline density"></div>
-          <button class="clear-date" id="clear-date" type="button" hidden>Clear date</button>
-        </div>
-        <div class="coverage-shell" aria-label="Daily ISW/CTP coverage from February 28 through May 18">
-          <div class="coverage-topline">
-            <span>Daily source index</span>
-            <strong id="coverage-count"></strong>
-          </div>
-          <div class="coverage-strip" id="coverage-strip"></div>
-        </div>
-      </section>
+        /* ─── HERO ─────────────────────────────────── */
+        .hero {
+            background: linear-gradient(160deg, #0d1428 0%, #0a0c10 60%);
+            border-bottom: 1px solid var(--border);
+            padding: 80px 24px 60px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
 
-      <section class="timeline-section" id="timeline" aria-labelledby="timeline-title">
-        <div class="section-shell timeline-heading">
-          <div>
-            <div class="section-kicker">Chronology</div>
-            <h2 id="timeline-title">From opening strike to suspended strike</h2>
-          </div>
-          <p>The timeline opens with major events. Switch to the expanded record or tap a date in the source index to inspect the wider chain.</p>
-        </div>
-        <div class="timeline-rail-wrap">
-          <div class="timeline-rail" id="timeline-rail" tabindex="0" aria-label="Filtered timeline events"></div>
-        </div>
-      </section>
+        .hero::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse 60% 40% at 50% 0%, rgba(224, 92, 26, 0.12) 0%, transparent 70%);
+            pointer-events: none;
+        }
 
-      <section class="section-shell split-brief" id="phases" aria-labelledby="phases-title">
-        <div class="section-heading">
-          <div class="section-kicker">Phase breakdown</div>
-          <h2 id="phases-title">Six turns in the war</h2>
-        </div>
-        <div class="phase-grid" id="phase-grid"></div>
-      </section>
+        .hero-eyebrow {
+            display: inline-block;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--accent);
+            border: 1px solid rgba(224, 92, 26, 0.4);
+            padding: 4px 14px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+        }
 
-      <section class="section-shell compare-section" id="compare" aria-labelledby="compare-title">
-        <div class="section-heading">
-          <div class="section-kicker">Trump versus ISW/CTP</div>
-          <h2 id="compare-title">Same events, different frames</h2>
-          <p>Trump posts show public posture. ISW/CTP reports show the diplomatic, military, and maritime environment around those claims.</p>
-        </div>
-        <div class="compare-grid" id="compare-grid"></div>
-      </section>
+        .hero h1 {
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 800;
+            line-height: 1.15;
+            color: #fff;
+            max-width: 800px;
+            margin: 0 auto 16px;
+        }
 
-      <section class="focus-band" id="maritime" aria-labelledby="maritime-title">
-        <div class="section-shell focus-layout">
-          <div>
-            <div class="section-kicker">Maritime focus</div>
-            <h2 id="maritime-title">The Strait became the pressure point</h2>
-            <p>Iran's effort to regulate, charge, delay, and narrate traffic through the Strait of Hormuz became central to the war. The United States answered with blockade language, interdictions, mine-clearing, escorts, and Project Freedom.</p>
-          </div>
-          <div class="maritime-board" id="maritime-board"></div>
-        </div>
-      </section>
+        .hero h1 span {
+            color: var(--accent);
+        }
 
-      <section class="section-shell nuclear-track" id="nuclear" aria-labelledby="nuclear-title">
-        <div class="section-heading">
-          <div class="section-kicker">Nuclear track</div>
-          <h2 id="nuclear-title">The demand did not soften</h2>
-          <p>The record repeatedly returns to one threshold: no Iranian nuclear weapon, with US demands centered on highly enriched uranium, enrichment suspension, and facility dismantlement.</p>
-        </div>
-        <div class="nuclear-grid" id="nuclear-grid"></div>
-      </section>
+        .hero-sub {
+            font-size: 1.05rem;
+            color: var(--muted);
+            max-width: 600px;
+            margin: 0 auto 32px;
+        }
 
-      <section class="section-shell source-ledger" id="sources" aria-labelledby="sources-title">
-        <div class="section-heading">
-          <div class="section-kicker">Source ledger</div>
-          <h2 id="sources-title">Evidence used</h2>
-          <p>Each event card carries its own source tag. This ledger lists the core files and report URLs used for the public briefing.</p>
+        .hero-meta {
+            display: flex;
+            justify-content: center;
+            gap: 32px;
+            flex-wrap: wrap;
+        }
+
+        .hero-meta-item {
+            text-align: center;
+        }
+
+        .hero-meta-item .val {
+            display: block;
+            font-size: 1.7rem;
+            font-weight: 800;
+            color: var(--accent);
+            line-height: 1;
+        }
+
+        .hero-meta-item .lbl {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--muted);
+        }
+
+        /* ─── NAV ──────────────────────────────────── */
+        .nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(10, 12, 16, 0.95);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            gap: 0;
+            overflow-x: auto;
+            scrollbar-width: none;
+            padding: 0 16px;
+        }
+
+        .nav::-webkit-scrollbar {
+            display: none;
+        }
+
+        .nav-btn {
+            padding: 14px 18px;
+            background: none;
+            border: none;
+            border-bottom: 2px solid transparent;
+            color: var(--muted);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s;
+        }
+
+        .nav-btn:hover {
+            color: var(--text);
+        }
+
+        .nav-btn.active {
+            color: var(--accent);
+            border-bottom-color: var(--accent);
+        }
+
+        /* ─── LAYOUT ───────────────────────────────── */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        section {
+            display: none;
+            padding: 48px 0 64px;
+        }
+
+        section.active {
+            display: block;
+        }
+
+        .section-title {
+            font-size: 1.6rem;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+
+        .section-desc {
+            color: var(--muted);
+            margin-bottom: 36px;
+            max-width: 680px;
+        }
+
+        /* ─── CARDS ────────────────────────────────── */
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 24px;
+            margin-bottom: 16px;
+        }
+
+        .card-title {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+
+        .card p {
+            color: var(--text);
+            margin-bottom: 10px;
+        }
+
+        .card p:last-child {
+            margin-bottom: 0;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+            margin-bottom: 16px;
+        }
+
+        .card-grid .card {
+            margin-bottom: 0;
+        }
+
+        /* ─── STAT BOXES ───────────────────────────── */
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 14px;
+            margin-bottom: 32px;
+        }
+
+        .stat-box {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 18px;
+            text-align: center;
+        }
+
+        .stat-box .num {
+            font-size: 1.9rem;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .stat-box .label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--muted);
+        }
+
+        .stat-box.red .num {
+            color: var(--red);
+        }
+
+        .stat-box.orange .num {
+            color: var(--accent);
+        }
+
+        .stat-box.blue .num {
+            color: var(--accent2);
+        }
+
+        .stat-box.gold .num {
+            color: var(--gold);
+        }
+
+        .stat-box.green .num {
+            color: var(--green);
+        }
+
+        /* ─── TIMELINE ─────────────────────────────── */
+        .timeline {
+            position: relative;
+            padding-left: 28px;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 9px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--border);
+        }
+
+        .tl-item {
+            position: relative;
+            margin-bottom: 28px;
+            cursor: pointer;
+        }
+
+        .tl-dot {
+            position: absolute;
+            left: -24px;
+            top: 6px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 2px solid var(--bg);
+            transition: transform 0.2s;
+        }
+
+        .tl-item:hover .tl-dot {
+            transform: scale(1.4);
+        }
+
+        .tl-dot.blue {
+            background: var(--accent2);
+        }
+
+        .tl-dot.gold {
+            background: var(--gold);
+        }
+
+        .tl-dot.red {
+            background: var(--red);
+        }
+
+        .tl-dot.green {
+            background: var(--green);
+        }
+
+        .tl-date {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--muted);
+            margin-bottom: 4px;
+        }
+
+        .tl-title {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 6px;
+        }
+
+        .tl-body {
+            font-size: 0.9rem;
+            color: var(--text);
+            display: none;
+            margin-top: 8px;
+            padding: 12px;
+            background: var(--surface2);
+            border-radius: 8px;
+            border-left: 3px solid var(--accent);
+        }
+
+        .tl-item.open .tl-body {
+            display: block;
+        }
+
+        .tl-toggle {
+            font-size: 11px;
+            color: var(--accent);
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        /* ─── FACTION TABLE ────────────────────────── */
+        .faction-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+
+        @media (max-width: 680px) {
+            .faction-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .faction-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .faction-header {
+            padding: 14px 20px;
+            font-weight: 800;
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .faction-header .flag {
+            font-size: 1.4rem;
+        }
+
+        .faction-header.us {
+            background: rgba(59, 139, 235, 0.15);
+            color: var(--accent2);
+        }
+
+        .faction-header.iran {
+            background: rgba(224, 92, 26, 0.15);
+            color: var(--accent);
+        }
+
+        .faction-header.proxy {
+            background: rgba(201, 162, 39, 0.15);
+            color: var(--gold);
+        }
+
+        .faction-header.russia {
+            background: rgba(231, 76, 60, 0.2);
+            color: var(--red);
+        }
+
+        .faction-body {
+            padding: 16px 20px;
+        }
+
+        .faction-body ul {
+            list-style: none;
+        }
+
+        .faction-body ul li {
+            padding: 5px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.88rem;
+            color: var(--text);
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+        }
+
+        .faction-body ul li:last-child {
+            border-bottom: none;
+        }
+
+        .faction-body ul li::before {
+            content: '›';
+            color: var(--muted);
+            flex-shrink: 0;
+            margin-top: 1px;
+        }
+
+        /* ─── PILL TAGS ────────────────────────────── */
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 10px 0;
+        }
+
+        .tag {
+            font-size: 11px;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .tag.red {
+            background: rgba(231, 76, 60, 0.15);
+            color: var(--red);
+            border: 1px solid rgba(231, 76, 60, 0.3);
+        }
+
+        .tag.blue {
+            background: rgba(59, 139, 235, 0.15);
+            color: var(--accent2);
+            border: 1px solid rgba(59, 139, 235, 0.3);
+        }
+
+        .tag.orange {
+            background: rgba(224, 92, 26, 0.15);
+            color: var(--accent);
+            border: 1px solid rgba(224, 92, 26, 0.3);
+        }
+
+        .tag.gold {
+            background: rgba(201, 162, 39, 0.15);
+            color: var(--gold);
+            border: 1px solid rgba(201, 162, 39, 0.3);
+        }
+
+        .tag.green {
+            background: rgba(46, 204, 113, 0.15);
+            color: var(--green);
+            border: 1px solid rgba(46, 204, 113, 0.3);
+        }
+
+        /* ─── ALERT BOX ────────────────────────────── */
+        .alert {
+            border-radius: 8px;
+            padding: 14px 18px;
+            margin-bottom: 16px;
+            font-size: 0.9rem;
+            border-left: 4px solid;
+        }
+
+        .alert.warning {
+            background: rgba(243, 156, 18, 0.1);
+            border-color: var(--yellow);
+            color: #f0d080;
+        }
+
+        .alert.danger {
+            background: rgba(231, 76, 60, 0.1);
+            border-color: var(--red);
+            color: #f09090;
+        }
+
+        .alert.info {
+            background: rgba(59, 139, 235, 0.1);
+            border-color: var(--accent2);
+            color: #90b8f0;
+        }
+
+        .alert strong {
+            font-weight: 700;
+        }
+
+        /* ─── DIVIDER ──────────────────────────────── */
+        .divider {
+            height: 1px;
+            background: var(--border);
+            margin: 28px 0;
+        }
+
+        /* ─── PROGRESS BARS ────────────────────────── */
+        .progress-list {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            margin-bottom: 20px;
+        }
+
+        .progress-item {}
+
+        .progress-label {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            margin-bottom: 5px;
+            color: var(--text);
+        }
+
+        .progress-bar {
+            height: 8px;
+            background: var(--border);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 1s ease;
+        }
+
+        .progress-fill.red {
+            background: var(--red);
+        }
+
+        .progress-fill.orange {
+            background: var(--accent);
+        }
+
+        .progress-fill.blue {
+            background: var(--accent2);
+        }
+
+        /* ─── KILLS TABLE ──────────────────────────── */
+        .kills-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.88rem;
+        }
+
+        .kills-table th {
+            text-align: left;
+            padding: 10px 14px;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--muted);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .kills-table td {
+            padding: 10px 14px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text);
+            vertical-align: top;
+        }
+
+        .kills-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .kills-table tr:hover td {
+            background: var(--surface2);
+        }
+
+        .kills-table .name {
+            font-weight: 700;
+            color: #fff;
+        }
+
+        /* ─── FOOTER ───────────────────────────────── */
+        footer {
+            background: var(--surface);
+            border-top: 1px solid var(--border);
+            padding: 24px;
+            text-align: center;
+            font-size: 0.82rem;
+            color: var(--muted);
+        }
+
+        /* ─── RESPONSIVE ────────────────────────────── */
+        @media (max-width: 600px) {
+            .hero {
+                padding: 60px 16px 40px;
+            }
+
+            .hero-meta {
+                gap: 20px;
+            }
+
+            .container {
+                padding: 0 16px;
+            }
+        }
+
+        /* ─── SKIP + PROVENANCE + NAV CONTEXT ───────────────── */
+        .skip-link {
+            position: absolute;
+            left: -9999px;
+            top: 12px;
+            z-index: 200;
+            padding: 10px 16px;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 700;
+            font-size: 0.9rem;
+            border-radius: 6px;
+            text-decoration: none;
+        }
+
+        .skip-link:focus {
+            left: 16px;
+            outline: 2px solid #fff;
+            outline-offset: 2px;
+        }
+
+        .hero-provenance {
+            font-size: 0.78rem;
+            color: var(--muted);
+            max-width: 640px;
+            margin: 24px auto 0;
+            line-height: 1.5;
+            padding: 0 16px;
+        }
+
+        .campaign-source-note {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin: -16px 0 28px;
+            max-width: 720px;
+        }
+
+        .nav-current {
+            display: none;
+            padding: 8px 16px 10px;
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--muted);
+            background: rgba(10, 12, 16, 0.98);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .nav-current .here-label {
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 10px;
+            color: var(--muted);
+            margin-right: 8px;
+        }
+
+        .nav-current .here-title {
+            color: var(--accent);
+        }
+
+        @media (max-width: 680px) {
+            .nav-current {
+                display: block;
+            }
+        }
+
+        .nav-btn:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        .tl-toggle:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+            border-radius: 4px;
+        }
+
+        .tl-item:focus-visible {
+            outline: 2px solid var(--accent2);
+            outline-offset: 4px;
+            border-radius: 6px;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+
+            html {
+                scroll-behavior: auto;
+            }
+
+            .progress-fill {
+                transition: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+
+    <!-- ───────────────── HERO ───────────────────────── -->
+    <div class="hero">
+        <div class="hero-eyebrow">Live Conflict Analysis</div>
+        <h1>The <span>2026 Iran War</span><br>Everything You Need to Know</h1>
+        <p class="hero-sub">
+            A comprehensive guide to the US-Israeli military campaign against Iran, covering every major development
+            from the opening strikes on February 28 through May 8, 2026.
+        </p>
+        <div class="hero-meta">
+            <div class="hero-meta-item">
+                <span class="val">Feb 28</span>
+                <span class="lbl">War started</span>
+            </div>
+            <div class="hero-meta-item">
+                <span class="val">70+</span>
+                <span class="lbl">Days of conflict</span>
+            </div>
+            <div class="hero-meta-item">
+                <span class="val">10,800+</span>
+                <span class="lbl">US-Israeli strikes</span>
+            </div>
+            <div class="hero-meta-item">
+                <span class="val">$13B</span>
+                <span class="lbl">Iranian oil blockaded</span>
+            </div>
+            <div class="hero-meta-item">
+                <span class="val">6</span>
+                <span class="lbl">Active front lines</span>
+            </div>
         </div>
-        <div class="ledger-grid" id="source-ledger"></div>
-      </section>
+        <p class="hero-provenance">Synthesized from ISW-CTP Iran Update Special Reports. Cumulative strike and sortie
+            figures follow IDF reporting as of April 10, 2026; narrative and blockade figures current through May 8,
+            2026.</p>
+    </div>
+
+    <!-- ───────────────── NAV ─────────────────────────── -->
+    <nav class="nav" id="mainNav" role="navigation" aria-label="War explainer sections">
+        <button type="button" class="nav-btn active" data-section="overview" aria-current="page">Overview</button>
+        <button type="button" class="nav-btn" data-section="timeline">Timeline</button>
+        <button type="button" class="nav-btn" data-section="campaign">Air Campaign</button>
+        <button type="button" class="nav-btn" data-section="iran-response">Iran's Response</button>
+        <button type="button" class="nav-btn" data-section="strait">Strait of Hormuz</button>
+        <button type="button" class="nav-btn" data-section="proxies">Proxy War</button>
+        <button type="button" class="nav-btn" data-section="leaders">Leaders &amp; Kills</button>
+        <button type="button" class="nav-btn" data-section="economy">Economy</button>
+        <button type="button" class="nav-btn" data-section="diplomacy">Diplomacy</button>
+        <button type="button" class="nav-btn" data-section="status">Current Status</button>
+    </nav>
+    <div class="nav-current" id="navCurrent" aria-live="polite">
+        <span class="here-label">Viewing</span>
+        <span class="here-title" id="navCurrentTitle">Overview</span>
+    </div>
+
+    <main id="main-content" role="main" tabindex="-1">
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: OVERVIEW                                   -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="overview" class="active">
+        <div class="container">
+            <div class="section-title">What Is This War?</div>
+            <p class="section-desc">The 2026 Iran War is a direct US-Israeli military conflict against Iran, launched on
+                February 28, 2026. It is the most significant US military engagement in the Middle East since the 2003
+                Iraq War.</p>
+
+            <div class="alert warning">
+                <strong>Important context:</strong> This conflict follows the June 2025 "12-Day War," in which Israel
+                struck Iran's nuclear enrichment infrastructure and ballistic missile sites. The current war is a far
+                larger and sustained campaign involving US forces.
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Why Did the War Start?</div>
+                    <p>The trigger was Iran's continued nuclear program, its ballistic missile capabilities, persistent
+                        proxy attacks across the region, and its stranglehold on the Strait of Hormuz — through which
+                        roughly 20% of global oil flows. The Trump administration, backed by Israel, decided diplomacy
+                        had failed.</p>
+                    <p>Iran had also violently suppressed mass protests in December 2025 and January 2026, with an
+                        estimated 30,000 protesters killed. This weakened the regime's domestic legitimacy and signaled
+                        to the US and Israel that the regime was vulnerable.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Who Is Fighting?</div>
+                    <p><strong>Coalition:</strong> The United States and Israel conduct coordinated air strikes. The US
+                        contributes strategic bombers, carrier strike groups, A-10s, Apaches, and F-35s. Israel conducts
+                        precision decapitation and surgical strikes.</p>
+                    <p><strong>Iran &amp; its "Axis of Resistance":</strong> Iran fires missiles and drones at Israel
+                        and Gulf states. Hezbollah (Lebanon), the Houthis (Yemen), and Iranian-backed Iraqi militias
+                        attack from multiple directions.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">What Are the War's Objectives?</div>
+                    <p><strong>US/Israel goals:</strong> Destroy Iran's nuclear program and weapons production
+                        capability; eliminate Iran's ability to disrupt shipping through the Strait of Hormuz; degrade
+                        Iran's missile and drone forces; potentially "create conditions for regime change."</p>
+                    <p><strong>Iran's goals:</strong> Survive the assault while retaining its nuclear program and
+                        asserting permanent control over the Strait of Hormuz as the centerpiece of future deterrence.
+                    </p>
+                </div>
+                <div class="card">
+                    <div class="card-title">What Phase Are We In? (May 8)</div>
+                    <p>The intensive air campaign has wound down into a ceasefire (roughly from April 7–14), but no
+                        formal peace deal exists. A US naval blockade of Iranian ports is in effect. Negotiations are
+                        stalled in Islamabad, Pakistan, with fundamental disagreements on Iran's nuclear program and
+                        Strait of Hormuz sovereignty blocking any deal.</p>
+                    <div class="tags">
+                        <span class="tag orange">Partial ceasefire</span>
+                        <span class="tag blue">Naval blockade active</span>
+                        <span class="tag red">Talks stalled</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="divider"></div>
+            <div class="section-title" style="font-size:1.1rem; margin-bottom:16px;">Key Context: Before the War</div>
+            <div class="card">
+                <div class="card-title">The Road to February 28, 2026</div>
+                <p><strong>June 2025 — The "12-Day War":</strong> Israel struck Iran's nuclear enrichment sites and
+                    ballistic missile infrastructure in a limited campaign. Iran retaliated but failed to stop Israel.
+                    Iran quietly began repairing and hiding its missile forces afterward.</p>
+                <p><strong>December 2025 – January 2026 — Mass Protests:</strong> A wave of anti-regime protests erupted
+                    across Iran. The IRGC and Basij killed approximately 30,000 protesters to suppress the uprising.
+                    Supreme Leader Ali Khamenei was reportedly incapacitated and effectively died around this time.</p>
+                <p><strong>The Succession Crisis:</strong> With Khamenei dead or dying, his son Mojtaba Khamenei was
+                    positioned as successor — a controversial move that set off fierce internal factional fighting
+                    between pragmatists and IRGC hardliners. Ali Larijani, the SNSC Secretary, was reportedly
+                    "effectively running the country" and lobbying to have a more moderate supreme leader selected.</p>
+                <p><strong>February 28, 2026:</strong> The US and Israel launched a coordinated air campaign. The war
+                    had begun.</p>
+            </div>
+
+            <div class="faction-grid">
+                <div class="faction-card">
+                    <div class="faction-header us"><span class="flag">🇺🇸🇮🇱</span> US-Israeli Coalition</div>
+                    <div class="faction-body">
+                        <ul>
+                            <li>US Central Command (CENTCOM) — strategic bombers, carrier strike groups, F-35s, A-10s,
+                                AH-64 Apaches</li>
+                            <li>Israel Defense Forces (IDF) — precision airstrikes, intelligence-driven decapitation
+                                campaign</li>
+                            <li>UK — air defense operations over Cyprus, Qatar, UAE, Bahrain; one French soldier killed
+                                in Iraq</li>
+                            <li>Australia — Al Minhad Air Base (UAE) as regional headquarters</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="faction-card">
+                    <div class="faction-header iran"><span class="flag">🇮🇷</span> Iran &amp; Axis of Resistance</div>
+                    <div class="faction-body">
+                        <ul>
+                            <li>Iran — ballistic missiles, drones, naval mines, IRGC fast attack craft</li>
+                            <li>Hezbollah (Lebanon) — rockets, drones, FPV drones, ATGMs targeting northern Israel</li>
+                            <li>Houthis (Yemen) — ballistic missiles targeting southern Israel (joined March 28)</li>
+                            <li>Iraqi militias — Kataib Hezbollah, Asaib Ahl al Haq, Badr Organization, PMF groups —
+                                targeting US forces, embassy, airports</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="faction-card">
+                    <div class="faction-header proxy"><span class="flag">🇷🇺</span> Russia's Role</div>
+                    <div class="faction-body">
+                        <ul>
+                            <li>Providing satellite imagery of US bases (Prince Sultan, Diego Garcia, Incirlik, Al
+                                Udeid) to Iran</li>
+                            <li>Supplying modified Shahed drone components to Iran — improved navigation and guidance
+                            </li>
+                            <li>Advising Iran on drone strike altitude and swarm tactics</li>
+                            <li>Confidential documents: Russia proposed supplying Iran 5,000 fiber-optic FPV drones</li>
+                            <li>Iran supplies Russia artillery shells for Ukraine; both use Caspian Sea trade route</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="faction-card">
+                    <div class="faction-header" style="background:rgba(255,255,255,0.05); color:#aaa;"><span
+                            class="flag">🇨🇳</span> China's Role</div>
+                    <div class="faction-body">
+                        <ul>
+                            <li>Iran secretly purchased Chinese TEE-01B reconnaissance satellite in 2024 ($36.6M) — used
+                                to target US military bases during the war</li>
+                            <li>China provided IRGC access to commercial satellite ground stations, evading Israeli
+                                strikes on Iranian satellite infrastructure</li>
+                            <li>Chinese vessels transit the Strait of Hormuz under Iranian-approved routes</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: TIMELINE                                   -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="timeline">
+        <div class="container">
+            <div class="section-title">Conflict Timeline</div>
+            <p class="section-desc">Click any event to expand the full detail.</p>
+
+            <div class="timeline" id="timelineEl"></div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: AIR CAMPAIGN                              -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="campaign">
+        <div class="container">
+            <div class="section-title">The US-Israeli Air Campaign</div>
+            <p class="section-desc">The most intensive air campaign against a single country since the 1991 Gulf War.
+                The combined force ran over 8,500 sorties and struck more than 4,000 targets across all of Iran's
+                military and security infrastructure, per Israeli Air Force figures cited in ISW-CTP reporting
+                <strong>as of April 10, 2026</strong> (cumulative totals may have grown afterward).</p>
+
+            <div class="stat-grid">
+                <div class="stat-box orange">
+                    <div class="num">8,500+</div>
+                    <div class="label">IAF sorties over Iran</div>
+                </div>
+                <div class="stat-box blue">
+                    <div class="num">18,000+</div>
+                    <div class="label">Munitions employed</div>
+                </div>
+                <div class="stat-box red">
+                    <div class="num">10,800+</div>
+                    <div class="label">Strikes executed</div>
+                </div>
+                <div class="stat-box gold">
+                    <div class="num">4,000+</div>
+                    <div class="label">Targets hit</div>
+                </div>
+                <div class="stat-box orange">
+                    <div class="num">85%</div>
+                    <div class="label">Iran SAMs destroyed</div>
+                </div>
+                <div class="stat-box red">
+                    <div class="num">90+</div>
+                    <div class="label">Targets on Kharg Island alone</div>
+                </div>
+            </div>
+            <p class="campaign-source-note">Cumulative sorties, munitions, strikes, and targets: IDF figures as reported
+                by ISW-CTP on April 10, 2026.</p>
+
+            <div class="card">
+                <div class="card-title">Target Categories</div>
+                <div class="progress-list">
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Ballistic missile infrastructure (launch bases, tunnels,
+                                production)</span><span>Very High</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill red" style="width:95%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Air defense systems (SAMs, radars)</span><span>~85%
+                                destroyed</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill red" style="width:85%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Internal security apparatus (Basij, IRGC,
+                                LEC)</span><span>Extensive</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill orange" style="width:75%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Defense industrial sites (drones, missiles,
+                                electronics)</span><span>Severe damage</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill orange" style="width:80%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Naval assets and ports (Bandar Abbas, Caspian Sea, Bandar
+                                Anzali)</span><span>High</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill blue" style="width:70%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Nuclear-related sites (SPND, weaponization
+                                facilities)</span><span>Significant</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill blue" style="width:65%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-label"><span>Energy infrastructure (South Pars gas field, Kharg
+                                Island)</span><span>Targeted selectively</span></div>
+                        <div class="progress-bar">
+                            <div class="progress-fill orange" style="width:50%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Missile Production — Destroyed</div>
+                    <p>Four key facilities that produced the bulk of Iran's ballistic missiles were severely damaged,
+                        halting Iran's ability to manufacture short- and medium-range ballistic missiles:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; color:var(--text);">
+                        <li><strong>Khojir Complex (Tehran Province)</strong> — 88+ structures destroyed</li>
+                        <li><strong>Shahroud Complex (Semnan)</strong> — 28+ structures, planetary mixer buildings</li>
+                        <li><strong>Parchin Complex (Tehran)</strong> — 12+ structures including nuclear-linked Taleghan
+                            2</li>
+                        <li><strong>Hakimiyeh Complex (Tehran)</strong> — 19+ structures, liquid propellant production
+                        </li>
+                    </ul>
+                    <div class="tags" style="margin-top:12px;"><span class="tag red">Production halted</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">Tunnel Entrances &amp; Missile Bases</div>
+                    <p>The combined force struck 29+ missile launch bases and blocked access to underground launchers by
+                        collapsing tunnel entrances. CNN analyzed 107 Iranian tunnel entrances and found 77% were
+                        struck.</p>
+                    <p>Iran tried to use bulldozers during a ceasefire to clear rubble from entrances. The combined
+                        force struck a bulldozer mid-operation at the Dezful Missile Base. As of April 14, US
+                        intelligence assessed roughly half of Iran's missile launchers remain operational.</p>
+                    <div class="tags"><span class="tag orange">50% launchers intact</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">Air Defenses: Functionally Defeated</div>
+                    <p>Defense Secretary Pete Hegseth declared on March 13 that "Iran has no air defenses." By March 19,
+                        the IDF confirmed destruction of approximately 85% of Iran's surface-to-air missiles.</p>
+                    <p>The combined force achieved near-total air superiority over large parts of Iran, enabling
+                        continued precision strikes throughout the campaign. US F-35s flew combat missions over Iran,
+                        with one struck by residual Iranian anti-aircraft fire and forced into an emergency landing.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Naval Campaign</div>
+                    <p>The combined force decimated Iran's naval forces across three seas:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; color:var(--text);">
+                        <li>Bandar Abbas Port: IRGC Navy HQ, multiple warships struck</li>
+                        <li>Caspian Sea (Bandar Anzali): Russia-Iran supply route severed; frigate IRIS Deylaman hit,
+                            dozens of vessels struck</li>
+                        <li>Persian Gulf: 16 Iranian mine-laying vessels destroyed by CENTCOM</li>
+                        <li>Kharg Island: 90+ targets including naval mine storage, missile storage, radars</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <div class="card-title">Internal Security Targeting</div>
+                    <p>A unique feature of this campaign: the combined force deliberately targeted Iran's internal
+                        repression machinery — Basij checkpoints, police stations, LEC logistics divisions, and IRGC
+                        patrol units — down to motorcycle units used to suppress protests.</p>
+                    <p>At least 2,200 munitions struck IRGC/Basij/LEC targets. Israeli drones disrupted Basij and LEC
+                        patrols during Chaharshanbe Suri celebrations, effectively providing "an air umbrella" for
+                        Iranian civilians. Security forces began sleeping under bridges and in vehicles to avoid
+                        targeting.</p>
+                    <div class="tags"><span class="tag gold">Psychological impact</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">Nuclear Program Degraded</div>
+                    <p>US and Israeli strikes in 2026 targeted Iran's nuclear weaponization infrastructure. The
+                        Institute for Science and International Security confirmed hits on six nuclear-related SPND
+                        sites covering metallurgy, explosives research, neutronics, and diagnostics.</p>
+                    <p>Key scientists were killed. The tunnel complex at the Esfahan Nuclear Technology Center remains
+                        sealed with new concrete berms. No reconstruction at 2025-bombed enrichment sites has been
+                        detected. Combined effect of June 2025 and 2026 strikes: significantly increased the time and
+                        uncertainty for Iran to build a nuclear weapon.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: IRAN RESPONSE                             -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="iran-response">
+        <div class="container">
+            <div class="section-title">Iran's Retaliation</div>
+            <p class="section-desc">Iran fought back on multiple fronts — missile barrages against Israel, drone and
+                missile attacks on Gulf states, naval mines in the strait, attacks on US forces, and economic warfare
+                through energy infrastructure targeting.</p>
+
+            <div class="alert danger">
+                <strong>Scale:</strong> Iran launched hundreds of ballistic missiles and thousands of drones at Israel
+                and Gulf states over the course of the war. The UAE alone intercepted 327 ballistic missiles, 15 cruise
+                missiles, and 1,699 drones before the ceasefire.
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Attacks on Israel</div>
+                    <p>Iran launched dozens of ballistic missile salvoes at Israel throughout the war, using
+                        Khorramshahr-4, Ghadr, Emad, and Kheibar Shekan missiles — many armed with cluster munitions.
+                        Iranian cluster munitions struck central Israel multiple times, killing and injuring civilians.
+                    </p>
+                    <p>The heaviest days of Iranian fire at Israel came early in the campaign (on the order of dozens to
+                        roughly 90 missiles on February 28 and about 60 on March 1, per ISW-CTP tracking). Later, Iran
+                        shifted toward smaller salvoes spread across the day; by late March the IDF described an average
+                        of about 10 missiles per day to Israel (a daily rate, not one volley). In early April one salvo
+                        included 10 missiles and was described as among the largest of that later phase. Iranian missiles
+                        killed civilians in Ramat Gan and struck near the Orot Rabin power plant and Tel Aviv's Savidor
+                        Central railway station. Israel's air defenses (Iron Dome, Arrow, David's Sling) intercepted the
+                        vast majority.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Attacks on Gulf States</div>
+                    <p>Iran attacked all six Gulf Cooperation Council states simultaneously, seeking to punish them for
+                        hosting US bases and to destabilize global energy markets:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem;">
+                        <li><strong>Qatar:</strong> Two Iranian missiles struck Ras Laffan Industrial City; 17% of LNG
+                            export capacity destroyed, repairs expected to take up to 5 years</li>
+                        <li><strong>UAE:</strong> Largest target — 327 BMs, 15 CMs, 1,699 drones intercepted. 2 Emirati
+                            soldiers and 6 civilians killed</li>
+                        <li><strong>Saudi Arabia:</strong> Prince Sultan Air Base hit, 5 US KC-135 tankers damaged;
+                            SAMREF Refinery drone struck</li>
+                        <li><strong>Kuwait:</strong> Fuel tanks at Kuwait Airport struck by drone; two oil refineries
+                            hit</li>
+                        <li><strong>Bahrain:</strong> Citibank building struck; telecommunications company building
+                            targeted</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <div class="card-title">Maritime Warfare</div>
+                    <p>Iran deployed naval mines in the Strait of Hormuz (fewer than 10), severely chilling commercial
+                        shipping. An Iranian unmanned surface vessel struck the Egyptian-Maltese container ship Safeen
+                        Prestige. Iran struck the Qatari state-leased tanker AQUA 1 northwest of Ras Laffan.</p>
+                    <p>Traffic through the Strait collapsed from ~138 vessels per day to just ~2 per day at the peak of
+                        the conflict. Iran established an "Iranian-approved route" requiring IRGC coordination —
+                        effectively asserting toll-road sovereignty over an international waterway.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Attacks on US Forces</div>
+                    <p>Iranian-backed Iraqi militias conducted hundreds of attacks against US forces and diplomatic
+                        facilities, including:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem;">
+                        <li>Repeated drone strikes on the US Embassy in Baghdad</li>
+                        <li>Attacks on Erbil International Airport and US consulate</li>
+                        <li>Drone ambush of US Embassy personnel near Baghdad Airport (FPV drones, April 8)</li>
+                        <li>Attacks on US bases in Syria (Qasrak Base, Hasakah)</li>
+                        <li>Strikes on UK-owned energy infrastructure in Erbil</li>
+                    </ul>
+                    <div class="tags"><span class="tag red">Fiber-optic FPV drones deployed</span></div>
+                </div>
+            </div>
+
+            <div class="divider"></div>
+            <div class="section-title" style="font-size:1.1rem; margin-bottom:16px;">Energy Infrastructure Targeting
+                (Iran vs. Gulf)</div>
+            <div class="card">
+                <div class="card-title">Iran Targets the Gulf Economy</div>
+                <p>Iran deliberately attacked Gulf energy infrastructure to impose economic costs and coerce Gulf states
+                    to pressure the US and Israel to halt strikes. Targets included Ras Laffan LNG (Qatar), SAMREF
+                    Refinery (Saudi Arabia), Emirates Global Aluminum (UAE), ALBA Aluminum (Bahrain), Kuwait oil
+                    refineries, and the Fujairah export terminal (UAE).</p>
+                <p>In response to combined force strikes on Iranian steel factories, Iran struck Gulf aluminum
+                    facilities — explicit "tit-for-tat" economic warfare targeting industrial supply chains.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: STRAIT OF HORMUZ                          -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="strait">
+        <div class="container">
+            <div class="section-title">The Strait of Hormuz — Iran's Ultimate Card</div>
+            <p class="section-desc">The Strait of Hormuz is the single most important piece of the entire conflict.
+                Understanding Iran's strategy here is key to understanding everything.</p>
+
+            <div class="alert info">
+                <strong>Why it matters:</strong> Roughly 20% of global oil — and 30% of global LNG — passes through the
+                Strait of Hormuz. An Iranian advisor to the Supreme Leader compared Iran's control over the strait to
+                "the strategic value of a nuclear weapon."
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Iran's Strategy</div>
+                    <p>Iran does not need to sink ships to control the strait. Simply threatening to do so is enough to
+                        crater global shipping confidence. Iran established an "Iranian-approved route" requiring vessel
+                        operators to contact IRGC intermediaries before transiting — a de facto toll system on an
+                        international waterway.</p>
+                    <p>Iran allows "friendly" vessels (Chinese, Greek, Iranian, Pakistani) to transit while blocking
+                        vessels from the US, Israel, and allied nations. By March 25, at least 26 vessels were using the
+                        Iranian-approved route, and 92% of strait traffic was Iranian, Greek, or Chinese.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Why This Is the Core Dispute</div>
+                    <p>Iran views the strait as its replacement deterrent. Having lost 85% of its air defenses, most of
+                        its missile production facilities, and much of its proxy infrastructure, the IRGC calculates
+                        that the ability to shut down 20% of global oil at any moment is Iran's best long-term security
+                        guarantee.</p>
+                    <p>Senior IRGC Commander Ahmad Vahidi and hardliners are reportedly willing to continue the war
+                        rather than cede "sovereignty" over the strait. Iranian Parliament is drafting a bill to
+                        formally codify Iranian control into law.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">US Response — Naval Blockade</div>
+                    <p>On April 13, the US imposed a full naval blockade of Iranian ports. CENTCOM announced it would
+                        prevent vessels from entering or exiting Iranian ports and that all Iranian vessels and
+                        sanctioned vessels are subject to stop and search anywhere in international waters.</p>
+                    <p>By May 8, CENTCOM has redirected 57 vessels, disabled two Iranian tankers (Sea Star III and
+                        Sevda), and is preventing 70+ tankers from entering or departing Iranian ports — holding 166
+                        million barrels of Iranian oil worth at least $13 billion.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">The Impasse</div>
+                    <p>The US demands Iran fully reopen the strait before negotiations proceed. Iran demands the US end
+                        all attacks and the naval blockade before it will discuss the strait. Iran's latest proposal
+                        calls for discussing "Tehran's conditions for opening the Strait of Hormuz" simultaneously with
+                        US guarantees to end attacks.</p>
+                    <p>Trump's response on May 8: warned the US could resume strikes if Iran does not quickly accept a
+                        deal. As of May 8, Iran is "still reviewing" the US proposal.</p>
+                    <div class="tags"><span class="tag red">Fundamental impasse</span></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Key Data Points on Strait of Hormuz</div>
+                <ul style="padding-left:18px; font-size:0.9rem; color:var(--text); line-height:2;">
+                    <li>Normal traffic: ~138 vessels per day. At war peak: ~2 per day</li>
+                    <li>20+ confirmed maritime incidents involving commercial vessels since March 1</li>
+                    <li>IRGC announced that "non-hostile" ships can transit if they coordinate with Iran; "hostile"
+                        ships (US/Israel/allies) cannot</li>
+                    <li>Iran seized the Chinese-owned vessel JIN LI on May 8 for attempting to transit without
+                        coordination</li>
+                    <li>US Treasury warned on May 1 it could sanction vessels that pay tolls to Iran</li>
+                    <li>IRGC Commander said the strait "will never return to its pre-war state"</li>
+                    <li>Iranian Parliament National Security chair stated Iran will "never" give up control of the
+                        strait and it will be "signed into law"</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: PROXY WAR                                 -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="proxies">
+        <div class="container">
+            <div class="section-title">The Multi-Front Proxy War</div>
+            <p class="section-desc">Iran activated its entire "Axis of Resistance" network — Hezbollah in Lebanon,
+                Houthis in Yemen, and Iraqi militias — opening multiple fronts against the US and Israel simultaneously.
+            </p>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">🇱🇧 Hezbollah (Lebanon)</div>
+                    <p>Hezbollah formally joined the war on March 1–2, launching rockets at northern Israel. By late
+                        March, Hezbollah was conducting up to 79 attacks per day — its highest ever. The IDF reported
+                        1,400+ Hezbollah fighters killed in Lebanon since the start of its campaign on March 2 (per
+                        ISW-CTP reporting, April 10, 2026).</p>
+                    <p><strong>Weapons used:</strong> Rockets, anti-tank guided missiles (ATGMs) against Merkava tanks,
+                        Merkava tank engagements, drones, and increasingly — fiber-optic FPV drones (immune to jamming).
+                        Hezbollah flew FPV drones near Israeli forces 10+ times per day by late April.</p>
+                    <p><strong>Key development:</strong> Hezbollah launched "Operation Khyber 1" (March 17), fired a
+                        Paveh long-range cruise missile targeting northern Israel (April 14), and by late April was
+                        regularly striking IDF vehicles with FPV drones in southern Lebanon.</p>
+                    <div class="tags"><span class="tag gold">Ceasefire April 16</span><span class="tag red">FPV drones
+                            expanding</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">🇾🇪 Houthis (Yemen)</div>
+                    <p>The Houthis entered the conflict on March 28, 2026 — launching ballistic missiles at southern
+                        Israel. By April 1 they had attacked four times, coordinating with Iran and Hezbollah in a
+                        stated unified strike campaign.</p>
+                    <p>US forces have continued striking Houthi targets in Yemen throughout the conflict. The Houthis'
+                        continued ability to fire long-range ballistic missiles at Israel (~2,000km range) stretches
+                        Israeli air defenses and forces Israel to keep interceptors in reserve.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">🇮🇶 Iraqi Militias</div>
+                    <p>Iranian-backed Iraqi militias (Kataib Hezbollah, Asaib Ahl al Haq, Badr Organization, PMF
+                        brigades) conducted hundreds of drone and rocket attacks during the war. Key targets: US Embassy
+                        Baghdad, Erbil International Airport, US bases in Syria.</p>
+                    <p><strong>FPV drone escalation:</strong> Fiber-optic FPV drones were used to conduct a drone ambush
+                        of US Embassy personnel on April 8 and attack Kuwaiti border posts in April. An IRGC officer was
+                        arrested by Iraqi authorities for directing drone attacks on Baghdad Airport — confirming direct
+                        IRGC command of these operations.</p>
+                    <p>Iranian-backed militias also attacked British energy infrastructure in Iraqi Kurdistan, a French
+                        base (killing one French soldier), and UAE/Saudi consulates in Erbil.</p>
+                    <div class="tags"><span class="tag red">IRGC-directed</span><span class="tag orange">FPV drones
+                            used</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">Combined Force Response to Proxies</div>
+                    <p>The US-Israeli combined force struck Iranian-backed militias throughout Iraq, Syria, and Lebanon
+                        simultaneously with the Iran campaign:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem;">
+                        <li>Kataib Hezbollah's Jurf al Sakhr stronghold repeatedly struck</li>
+                        <li>Abu Hussein al Hamidawi (Kataib Hezbollah head) targeted in Baghdad</li>
+                        <li>Security chief Abu Ali al Askari killed March 16</li>
+                        <li>PMF bases in Anbar, Kirkuk, Salah al Din, Ninewa struck repeatedly</li>
+                        <li>Hezbollah: 1,400+ fighters killed, 200+ rocket launchers destroyed, 1,300+ launch tubes</li>
+                        <li>IDF conducted 120+ strikes per day in Lebanon at peak</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">FPV Drone Proliferation — The New Threat</div>
+                <p>One of the most significant new developments in this war is the widespread use of fiber-optic
+                    first-person view (FPV) drones — drones guided by a physical fiber-optic cable rather than radio
+                    signals, making them completely immune to electronic jamming. Russia pioneered these in Ukraine and
+                    appears to have transferred the technology to Iran, which has disseminated it to Hezbollah and Iraqi
+                    militias.</p>
+                <p>Hezbollah is flying FPV drones at Israeli forces 10+ times per day in southern Lebanon. Israel has
+                    shot down at least 27 FPV drones with Iron Dome as of May 1, 2026 (Israeli media, via ISW-CTP), but has not found a reliable counter-system. PM
+                    Netanyahu acknowledged it "will take time" to solve the FPV threat. The confidential Russian
+                    proposal to give Iran 5,000 such drones would dramatically escalate this threat across the entire
+                    Axis of Resistance network.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: LEADERS & KILLS                           -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="leaders">
+        <div class="container">
+            <div class="section-title">Leadership Eliminations</div>
+            <p class="section-desc">The combined force ran a systematic decapitation campaign targeting Iran's
+                political, military, intelligence, and internal security leadership — from the Supreme Leader downward.
+            </p>
+
+            <div class="alert warning">
+                <strong>Strategic note:</strong> The killing of Ali Khamenei (Supreme Leader) created a succession
+                crisis, with his son Mojtaba attempting to consolidate power while the IRGC seized control of
+                decision-making. This internal fragmentation is a primary reason why Iran cannot negotiate with a
+                unified voice.
+            </div>
+
+            <div style="overflow-x:auto;">
+                <table class="kills-table">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Position</th>
+                            <th>Date Killed</th>
+                            <th>Significance</th>
+                        </tr>
+                    </thead>
+                    <tbody id="killsTableBody"></tbody>
+                </table>
+            </div>
+
+            <div class="divider"></div>
+            <div class="card">
+                <div class="card-title">Psychological Impact of Decapitation Strikes</div>
+                <p>The effect of Israeli strikes on Iran's internal security apparatus has been documented across
+                    multiple reporting sources:</p>
+                <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; line-height:2;">
+                    <li>Security forces abandoned established headquarters and set up improvised tent-based command
+                        posts</li>
+                    <li>Police stations across Tehran were abandoned by rank-and-file officers</li>
+                    <li>Forces hid under bridges, in vehicles, mosques, and sports facilities to avoid aerial
+                        surveillance</li>
+                    <li>The Basij Organization Commander was reportedly operating from a tent in a wooded area before
+                        being killed</li>
+                    <li>Israel deployed individual phone calls to Iranian commanders, warning them to stand aside</li>
+                    <li>Tips from ordinary Iranian civilians helped Israeli intelligence locate security personnel</li>
+                    <li>Qatar's state media reported civilian Iranians celebrating strikes that killed
+                        protest-suppression forces</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: ECONOMY                                   -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="economy">
+        <div class="container">
+            <div class="section-title">Iran's Economic Collapse</div>
+            <p class="section-desc">The war has accelerated Iran's already fragile economy toward crisis. US sanctions,
+                the naval blockade, physical destruction of industrial capacity, and an internet blackout are
+                compounding the damage.</p>
+
+            <div class="stat-grid">
+                <div class="stat-box red">
+                    <div class="num">1.8M</div>
+                    <div class="label">Rials per US dollar (record low, April 29)</div>
+                </div>
+                <div class="stat-box orange">
+                    <div class="num">42+</div>
+                    <div class="label">Days of internet blackout</div>
+                </div>
+                <div class="stat-box blue">
+                    <div class="num">$37M</div>
+                    <div class="label">Lost per day from internet shutdown</div>
+                </div>
+                <div class="stat-box red">
+                    <div class="num">$344M</div>
+                    <div class="label">Cryptocurrency frozen by US Treasury</div>
+                </div>
+                <div class="stat-box gold">
+                    <div class="num">$13B</div>
+                    <div class="label">Iranian oil blockaded (166M barrels)</div>
+                </div>
+                <div class="stat-box orange">
+                    <div class="num">57</div>
+                    <div class="label">Vessels redirected by US Navy blockade</div>
+                </div>
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Energy Infrastructure Damage</div>
+                    <p>The combined force struck Iran's most critical energy assets. Israel attacked the South Pars
+                        natural gas field (the world's largest, shared with Qatar) on March 18, damaging up to one-fifth
+                        of Iran's gas processing capacity.</p>
+                    <p>Iranian gas flows to Iraq stopped completely following the strikes, depriving Iraq of over
+                        one-third of its gas and electricity. Oil terminal infrastructure on Kharg Island, Lavan Island,
+                        and at multiple refineries was also struck. Iran's shadow oil fleet has been disrupted by the US
+                        naval blockade.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Banking System Crisis</div>
+                    <p>Iranian Parliament Budget Committee member Mehrdad Lahouti warned in April that Iranian banks are
+                        "in poor condition" and risk "crisis or bankruptcy." Production has "practically stalled,"
+                        exporters have halted activity, and hotel closures in Tehran are spreading.</p>
+                    <p>The US Treasury designated 35+ entities in Iran's "shadow banking" network (worth tens of
+                        billions annually) and three additional banking networks in May. The US warned banks in Oman,
+                        UAE, Hong Kong, and China against facilitating Iranian funds.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Industrial Strikes</div>
+                    <p>The combined force targeted Iran's steel industry — key both for the economy and for missile
+                        manufacturing:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem;">
+                        <li>Mobarakeh Steel Company (Esfahan) — struck twice</li>
+                        <li>Khuzestan Steel Company (Ahvaz) — struck twice</li>
+                        <li>Sefid Dasht Industrial Zone (Boroujen) — struck</li>
+                    </ul>
+                    <p>Combined with missile production facility destruction, Iran's defense industrial base has been
+                        severely degraded across multiple key sectors.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Political Consequences</div>
+                    <p>President Masoud Pezeshkian warned in late March that the IRGC's actions were pushing the economy
+                        toward collapse within 3–4 weeks if no ceasefire was reached. The IRGC dismissed his concerns
+                        and sidelined his government entirely.</p>
+                    <p>A "military council" of senior IRGC officers has assumed control of the regime's core
+                        decision-making apparatus and has established a security perimeter around Supreme Leader Mojtaba
+                        Khamenei — blocking even the president from getting a meeting. Iran's rial hit its all-time low
+                        (1.8 million per dollar) by April 29.</p>
+                    <div class="tags"><span class="tag red">Regime economic failure</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: DIPLOMACY                                  -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="diplomacy">
+        <div class="container">
+            <div class="section-title">Diplomacy &amp; Negotiations</div>
+            <p class="section-desc">Multiple rounds of diplomacy — directly between US and Iran, and on the Lebanon
+                front — have produced ceasefires but no lasting agreement. The core issues remain unresolved.</p>
+
+            <div class="card">
+                <div class="card-title">US 15-Point Proposal (March 24)</div>
+                <p>The US delivered a 15-point proposal to Iran via Pakistani Army Commander Asim Munir, who has served
+                    as the key intermediary. The proposal required:</p>
+                <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; line-height:1.9;">
+                    <li>Dismantlement of Iran's nuclear program</li>
+                    <li>End to uranium enrichment</li>
+                    <li>Handover of Iran's highly enriched uranium (HEU) stockpile</li>
+                    <li>Full IAEA access to all nuclear facilities</li>
+                    <li>Limits on Iran's missile capabilities</li>
+                    <li>Cessation of support for the Axis of Resistance (Hezbollah, Houthis, Iraqi militias)</li>
+                    <li>Freedom of navigation through the Strait of Hormuz</li>
+                </ul>
+                <div class="tags" style="margin-top:12px;"><span class="tag red">Iran: No formal response</span></div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Iran's Counter-Demands</div>
+                <p>Iran proposed five conditions for a ceasefire and has continued to signal inflexibility on core
+                    issues:</p>
+                <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; line-height:1.9;">
+                    <li>Complete cessation of all US and Israeli attacks</li>
+                    <li>Mechanism to prevent renewed conflict (effectively a guarantee the US/Israel will never attack
+                        again)</li>
+                    <li>Compensation for wartime damages</li>
+                    <li>End to attacks on the Axis of Resistance</li>
+                    <li>International recognition of Iran's "authority" over the Strait of Hormuz</li>
+                    <li>Nuclear discussions postponed to a "later stage" — the nuclear file is "closed" for now</li>
+                </ul>
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Islamabad Talks (April 11–12)</div>
+                    <p>US VP JD Vance, Jared Kushner, and Steve Witkoff met with Iranian Parliament Speaker Mohammad
+                        Bagher Ghalibaf and Foreign Minister Abbas Araghchi in Islamabad, Pakistan.</p>
+                    <p>The talks lasted 21 hours before collapsing. Hardliner SNSC Secretary Zolghadr was reportedly
+                        furious that Araghchi appeared open to compromising on Iran's support for the Axis of
+                        Resistance. Zolghadr alerted senior IRGC leaders, who ordered the delegation home.</p>
+                    <p>US officials later said: "we aren't sure who's in charge and neither do they."</p>
+                    <div class="tags"><span class="tag red">Collapsed after 21 hours</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">Iran's Fragmented Negotiating Team</div>
+                    <p>The fundamental problem: Iran does not have a single negotiating authority. Four competing power
+                        centers each hold different red lines:</p>
+                    <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; line-height:1.9;">
+                        <li><strong>IRGC Cmdr. Ahmad Vahidi</strong> — holds ultimate veto power; refuses to discuss
+                            missiles; opposes concessions; only official with access to Supreme Leader</li>
+                        <li><strong>Parliament Speaker Ghalibaf</strong> — led delegation; pragmatist; publicly supports
+                            negotiations but lacks military command authority</li>
+                        <li><strong>FM Abbas Araghchi</strong> — most flexible; faces protest from IRGC affiliates
+                            outside the Foreign Ministry</li>
+                        <li><strong>SNSC Sec. Zolghadr</strong> — hardline IRGC veteran; was furious at any Axis of
+                            Resistance concession; called delegation home</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Israel-Lebanon Diplomacy</div>
+                <p>Parallel to the Iran negotiations, the US has brokered direct talks between Israel and Lebanon — the
+                    first direct talks between the two countries in over 30 years. The meetings happened on April 14 in
+                    Washington, DC, with a second round on April 23. A temporary 10-day ceasefire in Lebanon took effect
+                    April 16 and has been extended.</p>
+                <p>Lebanon's position: LAF to deploy south, Israeli withdrawal from Lebanese territory, no Hezbollah
+                    representative on the delegation. France has proposed a four-stage peace plan that would result in
+                    Lebanon normalizing relations with Israel. Hezbollah is attempting to pressure US and Israel to
+                    extend the ceasefire further while maintaining forces "with fingers on the trigger."</p>
+                <div class="tags"><span class="tag green">Temporary ceasefire (April 16)</span><span
+                        class="tag gold">Direct talks ongoing</span></div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Mediators</div>
+                <p><strong>Pakistan</strong> — the primary US-Iran intermediary. Army Commander Asim Munir delivered the
+                    US 15-point proposal and hosted both rounds of Islamabad talks. Pakistan also brokered Iranian gas
+                    transit agreements for Pakistani vessels.</p>
+                <p><strong>Oman &amp; Egypt</strong> — early ceasefire mediators; rejected by both sides. Trump said in
+                    March he was "not interested" in their diplomatic efforts.</p>
+                <p><strong>France</strong> — proposed the Israel-Lebanon peace plan; willing to host talks in Paris.</p>
+                <p><strong>US Envoys</strong> — Steve Witkoff (Middle East Special Envoy), Jared Kushner, and JD Vance
+                    (direct negotiations). Ron Dermer has handled the "Lebanese file" for Israel.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION: CURRENT STATUS                            -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section id="status">
+        <div class="container">
+            <div class="section-title">Current Situation — May 8, 2026</div>
+            <p class="section-desc">Where things stand right now across every dimension of the conflict.</p>
+
+            <div class="alert danger">
+                <strong>No deal in sight.</strong> Trump warned on May 8 that the US could resume strikes if Iran does
+                not quickly accept a deal. Iran is "still reviewing" the latest US proposal and has delayed responding
+                due to internal disagreements.
+            </div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-title">Military Situation</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag gold">Ceasefire (partial)</span>
+                    </div>
+                    <p>The active air campaign against Iran has paused under an informal ceasefire since early to
+                        mid-April. However, the ceasefire has no written document and its terms are disputed. Iran's
+                        IRGC is exploiting the ceasefire to try to unblock tunnel entrances at missile bases and recover
+                        buried weapons. Approximately 50% of Iran's missile launchers are assessed as still operational.
+                    </p>
+                    <p>The US Navy blockade of Iranian ports remains in full effect. 57 vessels redirected, 70+ tankers
+                        blocked, Sea Star III and Sevda disabled on May 8.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Lebanon</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag green">10-day ceasefire
+                            extended</span></div>
+                    <p>Israel-Lebanon ceasefire has been in effect since April 16. Israel continues limited operations
+                        in southern Lebanon under "self-defense" provisions. Hezbollah is increasingly using fiber-optic
+                        FPV drones against IDF forces — 10+ attacks per day. IDF struck 40+ Hezbollah sites overnight
+                        April 30/May 1 (highest single-day strike count since the ceasefire).</p>
+                    <p>On May 6, Israel killed Hezbollah Radwan Force Commander Ahmad Ghaleb "Malik" Balout in Beirut's
+                        southern suburbs. Hezbollah retaliated May 8 by targeting the IDF's Golani Brigade HQ near
+                        Nahariya.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Negotiations</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag red">Stalled</span></div>
+                    <p>Iran submitted a new proposal via Pakistan on April 30. Trump said he is "not satisfied." Iran's
+                        proposal excludes nuclear issues, rules out missile discussions, and frames the Strait of Hormuz
+                        as a precondition for any deal. The US demands Iran reopen the strait and hand over its HEU
+                        stockpile before any sanctions relief.</p>
+                    <p>Iran has decided to pursue negotiations in a "new format" through Pakistan and has chosen not to
+                        enter nuclear talks "for the time being." State Dept's Rubio said the US "expects an Iranian
+                        response soon."</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Iran's Internal Situation</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag red">IRGC in control</span></div>
+                    <p>IRGC Commander Ahmad Vahidi effectively controls the regime. He is the only official with direct
+                        access to Supreme Leader Mojtaba Khamenei. President Pezeshkian has been completely sidelined. A
+                        "military council" of IRGC officers controls all major decisions.</p>
+                    <p>Iran's rial at record lows. Internet blackout exceeds 42 days. Banks near bankruptcy. Hotels
+                        closing in Tehran. SNSC meeting to discuss protest risk from economic collapse. Hardliners
+                        dismiss economic concerns as secondary to military objectives.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">The UAE Escalation</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag red">Active targeting</span></div>
+                    <p>Iran has escalated against the UAE specifically, framing it as a "hostile base" supporting
+                        US/Israeli operations. Supreme Leader advisor Mokhber stated the UAE "has been punished and will
+                        be punished more." Iran fired 2 ballistic missiles and 3 drones at the UAE on May 8. Iran seized
+                        the JIN LI vessel in the Gulf of Oman on May 8.</p>
+                    <p>Iran likely seeks to isolate the UAE from other Gulf states and punish it for hosting US forces
+                        and providing logistical support to the coalition.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Russia's Drone Escalation Threat</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag red">New threat</span></div>
+                    <p>Confidential Russian documents seen by The Economist reveal a Russian proposal to give Iran 5,000
+                        short-range fiber-optic FPV drones, longer-range satellite-guided drones with Starlink
+                        terminals, and Iranian operator training — specifically for use against a US amphibious landing
+                        force or Kharg Island seizure operation.</p>
+                    <p>If executed, this would dramatically expand fiber-optic drone capabilities across the entire Axis
+                        of Resistance network — a threat Israel has not yet solved.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Key Questions Going Forward</div>
+                <ul style="padding-left:18px; font-size:0.9rem; line-height:2.2; color:var(--text);">
+                    <li>Will Iran accept a deal, or will Trump resume strikes? Trump's May 8 warning suggests a deadline
+                        is approaching.</li>
+                    <li>Can Iran's fragmented leadership — with Vahidi as de facto ruler — produce a coherent
+                        negotiating position?</li>
+                    <li>Will the naval blockade force Iran's economy to collapse fast enough to change IRGC
+                        calculations?</li>
+                    <li>Will the Israel-Lebanon ceasefire hold, or will Hezbollah's FPV drone campaign escalate into a
+                        renewed ground operation?</li>
+                    <li>Will Russia actually supply Iran with 5,000 fiber-optic drones, and how would that change the
+                        military balance?</li>
+                    <li>Is Mojtaba Khamenei capable of governing, and can he arbitrate between the IRGC and pragmatist
+                        factions?</li>
+                    <li>Will economic collapse inside Iran trigger the protests the IRGC fears — and what would that
+                        mean for the regime?</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
     </main>
 
-    <footer class="site-footer">
-      <div>
-        <strong>Strait Control Room</strong>
-        <span>Evidence through May 19, 2026.</span>
-      </div>
-      <a href="#top">Back to top</a>
+    <footer>
+        <p>Analysis compiled from ISW-CTP Iran Update Special Reports (March 14 – May 8, 2026) | The Institute for the
+            Study of War &amp; The Critical Threats Project at AEI</p>
+        <p style="margin-top:6px;">This site is for informational and educational purposes only.</p>
     </footer>
 
-    <script src="data/config.js"></script>
-    <script src="data/events.js"></script>
-    <script src="data/coverage.js"></script>
-    <script src="data/sections.js"></script>
-    <script src="data/index.js"></script>
-    <script src="app.js"></script>
-  </body>
+    <script>
+        const SECTION_LABELS = {
+            overview: 'Overview',
+            timeline: 'Timeline',
+            campaign: 'Air Campaign',
+            'iran-response': 'Iran\'s Response',
+            strait: 'Strait of Hormuz',
+            proxies: 'Proxy War',
+            leaders: 'Leaders & Kills',
+            economy: 'Economy',
+            diplomacy: 'Diplomacy',
+            status: 'Current Status',
+        };
+
+        const navBtns = document.querySelectorAll('.nav-btn');
+        const sections = document.querySelectorAll('main section');
+        const navCurrentTitle = document.getElementById('navCurrentTitle');
+
+        const prefersReducedMotion = () =>
+            window.matchMedia?.('(prefers-reduced-motion: reduce)')?.matches;
+
+        function getSectionFromUrl() {
+            const params = new URLSearchParams(window.location.search);
+            const q = params.get('section');
+            if (q && document.getElementById(q)) return q;
+            const h = window.location.hash.slice(1);
+            if (h && document.getElementById(h)) return h;
+            return 'overview';
+        }
+
+        function updateNavCurrent(sectionId) {
+            if (navCurrentTitle) {
+                navCurrentTitle.textContent = SECTION_LABELS[sectionId] || sectionId;
+            }
+        }
+
+        function applySection(sectionId, options = {}) {
+            const {
+                scrollTop = true,
+                fromPopState = false,
+                skipHistory = false,
+            } = options;
+
+            if (!document.getElementById(sectionId)) sectionId = 'overview';
+
+            navBtns.forEach(b => {
+                const on = b.dataset.section === sectionId;
+                b.classList.toggle('active', on);
+                if (on) b.setAttribute('aria-current', 'page');
+                else b.removeAttribute('aria-current');
+            });
+            sections.forEach(s => s.classList.toggle('active', s.id === sectionId));
+
+            if (!fromPopState && !skipHistory) {
+                const u = new URL(window.location.href);
+                u.searchParams.set('section', sectionId);
+                u.hash = '';
+                history.replaceState({ section: sectionId }, '', `${u.pathname}${u.search}`);
+            }
+
+            updateNavCurrent(sectionId);
+
+            if (sectionId === 'campaign') {
+                const delay = prefersReducedMotion() ? 0 : 100;
+                setTimeout(animateBars, delay);
+            }
+
+            if (scrollTop && !fromPopState) {
+                window.scrollTo({
+                    top: 0,
+                    behavior: prefersReducedMotion() ? 'auto' : 'smooth',
+                });
+            }
+        }
+
+        const paramsOnLoad = new URLSearchParams(window.location.search);
+        const hasHash = window.location.hash.length > 1;
+        const skipInitialHistory =
+            !paramsOnLoad.has('section') && !hasHash && getSectionFromUrl() === 'overview';
+
+        applySection(getSectionFromUrl(), { scrollTop: false, skipHistory: skipInitialHistory });
+
+        window.addEventListener('popstate', () => {
+            applySection(getSectionFromUrl(), { scrollTop: false, fromPopState: true, skipHistory: true });
+        });
+
+        navBtns.forEach(btn => {
+            btn.addEventListener('click', () => applySection(btn.dataset.section));
+        });
+
+        // ─── TIMELINE DATA ──────────────────────────────────
+        const events = [
+            {
+                date: 'June 2025',
+                color: 'gold',
+                title: 'The 12-Day War',
+                summary: 'Israel conducts limited strikes on Iran\'s nuclear enrichment sites and ballistic missile infrastructure. The conflict lasts 12 days. Iran retaliates with ballistic missiles but fails to deter Israel. Iran begins secretly hiding and repairing its missile forces.',
+            },
+            {
+                date: 'Dec 2025 – Jan 2026',
+                color: 'red',
+                title: 'Mass Protests Suppressed',
+                summary: 'Massive anti-regime protests erupt across Iran. The IRGC and Basij kill an estimated 30,000 protesters in a brutal crackdown — including the use of chemical agents against schoolgirls. Supreme Leader Ali Khamenei is reportedly incapacitated. SNSC Secretary Ali Larijani begins "effectively running the country."',
+            },
+            {
+                date: 'February 28, 2026',
+                color: '',
+                title: 'WAR BEGINS — US & Israel Strike Iran',
+                summary: 'The US and Israel launch a coordinated air campaign against Iran. Day one targets include Iran\'s air defenses, missile infrastructure, military command centers, the Artesh Air Force, IRGC Aerospace Force bases, and key leadership. IRGC Khatam ol Anbia Central HQ Intelligence Chief Saleh Asadi is killed. The war begins in earnest.',
+            },
+            {
+                date: 'March 1–2, 2026',
+                color: 'gold',
+                title: 'Hezbollah Formally Joins the War',
+                summary: 'Hezbollah begins launching rockets and drones at northern Israel, claiming attacks at an unprecedented rate. The IDF reports ~100 rockets per day from Lebanon. IDF forces deploy to the northern border and begin airstrikes targeting Hezbollah infrastructure, rocket launchers, weapons depots, and commanders in Lebanon.',
+            },
+            {
+                date: 'March 10, 2026',
+                color: 'blue',
+                title: 'US Destroys 16 Iranian Mine-Laying Vessels',
+                summary: 'CENTCOM announces that US forces have destroyed 16 Iranian mine-laying vessels near the Strait of Hormuz. Iran has deployed fewer than 10 naval mines in the strait, but the threat collapses commercial shipping confidence. Traffic drops from 138 vessels/day to approximately 2/day.',
+            },
+            {
+                date: 'March 13–14, 2026',
+                color: '',
+                title: 'Kharg Island Struck — 90+ Targets',
+                summary: 'US forces conduct massive precision strikes on Kharg Island (Iran\'s primary oil export hub), destroying naval mine storage, missile storage, the air defense complex, and a long-range radar. Over 90 Iranian military targets struck. Trump warns the US could target oil infrastructure next if Iran continues to threaten the strait.',
+            },
+            {
+                date: 'March 17, 2026',
+                color: 'red',
+                title: 'Larijani Killed — Basij Commander Killed — Caspian Sea Struck',
+                summary: 'The IDF kills SNSC Secretary Ali Larijani, long regarded as the most powerful pragmatist in the regime who was lobbying to moderate the succession. Separately, Basij Commander Gholamreza Soleimani and his deputy are killed along with ~300 Basij commanders at a meeting in Tehran. The IDF simultaneously strikes Bandar Anzali Port on the Caspian Sea, destroying dozens of vessels and severing the Iran-Russia arms/goods supply route.',
+            },
+            {
+                date: 'March 18, 2026',
+                color: 'red',
+                title: 'Intelligence Minister Killed — South Pars Gas Field Hit — Qatar Attacked',
+                summary: 'The IDF kills Intelligence Minister Esmail Khatib. Israel strikes the South Pars natural gas field — Iran\'s most important — damaging up to 1/5 of Iran\'s gas processing capacity. Iran retaliates by firing ballistic missiles at the Ras Laffan Industrial City in Qatar, causing "extensive damage" including to LNG trains (17% export capacity destroyed, 5-year repair timeline). Trump threatens to destroy the entirety of South Pars if Iran attacks Qatar again. Qatar expels Iranian diplomats.',
+            },
+            {
+                date: 'March 19, 2026',
+                color: 'blue',
+                title: '85% of Iran\'s SAMs Destroyed — US F-35 Hit',
+                summary: 'The IDF confirms destruction of approximately 85% of Iran\'s surface-to-air missiles. US F-35 struck by residual Iranian anti-aircraft fire during a combat mission over Iran; makes emergency landing. CENTCOM deploys A-10s and AH-64 Apache helicopters to southern Iran to hunt fast attack craft and intercept drones.',
+            },
+            {
+                date: 'March 24–25, 2026',
+                color: 'blue',
+                title: 'US Delivers 15-Point Proposal to Iran',
+                summary: 'Pakistani Army Commander Asim Munir delivers the US 15-point proposal to Iran. It requires nuclear dismantlement, enrichment cessation, HEU handover, IAEA access, missile limits, end to Axis of Resistance support, and Strait of Hormuz freedom of navigation. Iran does not formally respond. Hezbollah conducts its highest single-day attack rate (79 attacks in 24 hours).',
+            },
+            {
+                date: 'March 27–29, 2026',
+                color: 'red',
+                title: 'Prince Sultan Air Base Hit — Russian Satellite Aid Confirmed',
+                summary: 'Iran strikes Prince Sultan Air Base in Saudi Arabia using targeting enabled by Russian satellite imagery, damaging 5 US KC-135 refueling tankers. Ukraine\'s Zelensky confirms Russia is providing satellite images of US bases. Washington Post confirms 4 key missile production facilities and 29 missile launch bases have been struck. The combined force retaliates against Iranian steel factories.',
+            },
+            {
+                date: 'March 28, 2026',
+                color: 'gold',
+                title: 'Houthis Enter the War',
+                summary: 'The Houthis formally join the conflict, launching ballistic missiles at southern Israel. They conduct 4 attacks on Israel by April 1, claiming coordination with Iran and Hezbollah in a unified strike campaign. This stretches Israeli air defenses across a wider geographic front.',
+            },
+            {
+                date: 'April 7–14, 2026',
+                color: 'green',
+                title: 'Informal Ceasefire Begins — Naval Blockade Imposed',
+                summary: 'Iran stops kinetic attacks on commercial shipping around April 7. The US imposes a full naval blockade of Iranian ports on April 13. First direct Israeli-Lebanese talks in 30+ years in Washington DC on April 14. An informal ceasefire between the US-Israel and Iran begins taking shape.',
+            },
+            {
+                date: 'April 10–12, 2026',
+                color: 'blue',
+                title: 'Islamabad Talks — Collapse After 21 Hours',
+                summary: 'US VP JD Vance, Jared Kushner, and Steve Witkoff meet Iranian delegation (Ghalibaf, Araghchi) in Islamabad. Talks last 21 hours before IRGC hardliners recall the Iranian delegation. SNSC Secretary Zolghadr was reportedly furious that Araghchi appeared open to discussing Axis of Resistance funding. The IRGC effectively told the delegation they "don\'t speak for" the IRGC.',
+            },
+            {
+                date: 'April 16, 2026',
+                color: 'green',
+                title: 'Israel-Lebanon Temporary Ceasefire',
+                summary: 'A 10-day temporary ceasefire between Israel and Lebanon takes effect on April 16, amid continued direct talks in Washington. The IDF retains the right to conduct self-defense operations in Lebanon. Hezbollah continues to fire FPV drones and rockets within the ceasefire\'s provisions. The ceasefire is extended beyond April 22 (its original expiry date).',
+            },
+            {
+                date: 'April 20–21, 2026',
+                color: 'blue',
+                title: 'Second Round of Islamabad Talks',
+                summary: 'A second round of US-Iran talks takes place in Islamabad. Vance returns for the talks. Key sticking points remain unchanged: Iran\'s nuclear program, HEU stockpile, missile program, and Strait of Hormuz sovereignty. IRGC Commander Vahidi reportedly holds the upper hand and is the only official with access to Mojtaba Khamenei.',
+            },
+            {
+                date: 'April 29 – May 1, 2026',
+                color: 'red',
+                title: 'Rial Hits Record Low — Iran\'s New Proposal Rejected',
+                summary: 'Iran\'s rial falls to a record low of 1.8 million per US dollar. Internet blackout exceeds 42 days, costing Iran $37M daily. Iran submits a new proposal via Pakistan on April 30, but it excludes nuclear issues, rules out missile negotiations, and frames Strait of Hormuz control as a precondition. Trump says he is "not satisfied."',
+            },
+            {
+                date: 'May 6, 2026',
+                color: 'red',
+                title: 'Israel Kills Hezbollah Radwan Commander in Beirut',
+                summary: 'IDF strikes kill Hezbollah Radwan Force Commander Ahmad Ghaleb "Malik" Balout in Beirut\'s southern suburbs. Hezbollah retaliates on May 8 by targeting the IDF\'s Golani Brigade HQ near Nahariya with a rocket barrage. IDF strikes Hezbollah launchers in the Bekaa Valley in response.',
+            },
+            {
+                date: 'May 8, 2026',
+                color: '',
+                title: 'Today — Stalled Negotiations, Active Blockade, UAE Targeted',
+                summary: 'US CENTCOM has redirected 57 vessels since the blockade began and disabled two Iranian tankers (Sea Star III and Sevda) on May 8. 70+ tankers are prevented from departing Iranian ports. Iran seizes the Chinese vessel JIN LI in the Gulf of Oman. Iran fires 2 ballistic missiles and 3 drones at the UAE. Trump warns of renewed strikes if Iran does not quickly accept a deal. Iran says it is "still reviewing" the US proposal. Russia\'s confidential plan to supply Iran with 5,000 fiber-optic drones is reported by The Economist.',
+            },
+        ];
+
+        const tlEl = document.getElementById('timelineEl');
+        events.forEach((ev) => {
+            const item = document.createElement('div');
+            item.className = 'tl-item';
+            item.setAttribute('role', 'button');
+            item.setAttribute('tabindex', '0');
+            item.setAttribute('aria-expanded', 'false');
+            item.setAttribute('aria-label', `${ev.title}. Toggle details.`);
+
+            item.innerHTML = `
+      <div class="tl-dot ${ev.color}"></div>
+      <div class="tl-date">${ev.date}</div>
+      <div class="tl-title">${ev.title}</div>
+      <span class="tl-toggle" aria-hidden="true">▸ Show details</span>
+      <div class="tl-body">${ev.summary}</div>
+    `;
+
+            const toggle = () => {
+                const open = item.classList.toggle('open');
+                item.setAttribute('aria-expanded', open ? 'true' : 'false');
+                const t = item.querySelector('.tl-toggle');
+                if (t) t.textContent = open ? '▾ Hide details' : '▸ Show details';
+            };
+
+            item.addEventListener('click', toggle);
+            item.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    toggle();
+                }
+            });
+            tlEl.appendChild(item);
+        });
+
+        // ─── KILLS TABLE DATA ────────────────────────────────
+        const kills = [
+            { name: 'Ali Khamenei', role: 'Supreme Leader of Iran', date: 'Early war (Feb 28)', sig: 'The most powerful man in Iran for 35 years. His death created an unresolved succession crisis, with son Mojtaba attempting to take power while IRGC hardliners seized control of decision-making.' },
+            { name: 'Saleh Asadi', role: 'Khatam ol Anbia HQ Intelligence Chief', date: 'February 28', sig: 'Head of Iran\'s primary military command and control intelligence arm. Killed on the opening day of the war.' },
+            { name: 'Abdollah Jalali Nassab & Amir Shariat', role: 'Replacement KoA Intelligence Officials', date: 'March 13', sig: 'They were Asadi\'s replacements — killed within days of assuming command, demonstrating Israel\'s deep intelligence penetration.' },
+            { name: 'Hisham Abdul Karim Yassin', role: 'Hezbollah/IRGC Palestine Corps Commander', date: 'March 12', sig: 'Fifth Quds Force commander killed in the conflict; responsible for rebuilding Hezbollah capabilities and deepening Iran\'s presence in Lebanon.' },
+            { name: 'Ali Larijani', role: 'SNSC Secretary, former Parliament Speaker', date: 'March 17', sig: 'Key pragmatist regime insider; was "effectively running the country" and lobbying for a moderate successor to Ali Khamenei. His death weakened the pragmatist faction and left hardliners more dominant.' },
+            { name: 'Gholamreza Soleimani', role: 'Basij Organization Commander', date: 'March 17', sig: 'Commander of Iran\'s main internal repression paramilitary. Killed along with ~300 Basij commanders while meeting to plan suppression of Chaharshanbe Suri holiday protests.' },
+            { name: 'Ghassem Ghoureishi', role: 'Basij Deputy Commander', date: 'March 17', sig: 'EU had sanctioned him for human rights violations just the day before he was killed. Killed at the same meeting as Soleimani.' },
+            { name: 'Esmail Khatib', role: 'Intelligence Minister', date: 'March 18', sig: 'Oversaw the regime\'s crackdowns on the Winter 2025-26 protests and 2022 Mahsa Amini protests. Tips from Iranian civilians reportedly contributed to his targeting.' },
+            { name: 'Hassan Ali Marwan', role: 'Imam Hussein Division Commander (IRGC Quds Force)', date: 'March 17', sig: 'Newly appointed commander responsible for coordinating IRGC Quds Force with Hezbollah and the Imam Hussein Division. Killed in Beirut.' },
+            { name: 'Yusuf Ismail Hashem', role: 'Hezbollah Southern Front Commander', date: 'April 1', sig: 'Had replaced Ali Karaki (killed in Sept 2024) as Southern Front commander. Directed Hezbollah\'s ground combat against the IDF in southern Lebanon.' },
+            { name: 'Kamal Kharrazi', role: 'Strategic Council on Foreign Relations Chairman', date: 'April 9 (died of injuries)', sig: 'Senior member of Ali Khamenei\'s inner circle. Had stated in 2024 that Iran has the capability to build a nuclear bomb. Targeted April 1, died of injuries April 9.' },
+            { name: 'Mehdi Vafaei', role: 'IRGC Quds Force Lebanon Corps Engineering Head', date: 'April 1', sig: 'Responsible for all underground infrastructure for Hezbollah and Assad regime in Lebanon and Syria. Managed dozens of underground weapons storage facilities.' },
+            { name: 'Ahmad Ghaleb "Malik" Balout', role: 'Hezbollah Radwan Force Commander', date: 'May 6', sig: 'Commander of Hezbollah\'s elite rapid-reaction ground force. Struck in Beirut\'s southern suburbs. Hezbollah retaliated by targeting the IDF Golani Brigade HQ.' },
+            { name: 'Ali Fuladvand', role: 'SPND Head of Research (nuclear weaponization)', date: 'March 28', sig: 'Leading Iran\'s nuclear weapons research organization. Israel had tried to kill him in the 12-Day War but failed. Killed this time in Lorestan Province. US had sanctioned him in October 2025.' },
+            { name: 'Mosayeb Bakhtiari', role: 'IRGC Navy 1st Naval District Commander', date: 'March 23', sig: 'Commander of IRGC naval forces in the Persian Gulf and Strait of Hormuz area. Killed in Bandar Abbas.' },
+        ];
+
+        const tbody = document.getElementById('killsTableBody');
+        kills.forEach(k => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `<td><span class="name">${k.name}</span></td><td>${k.role}</td><td>${k.date}</td><td>${k.sig}</td>`;
+            tbody.appendChild(tr);
+        });
+
+        // ─── ANIMATE PROGRESS BARS ──────────────────────────
+        function animateBars() {
+            if (prefersReducedMotion()) return;
+            document.querySelectorAll('.progress-fill').forEach(el => {
+                const w = el.style.width;
+                el.style.width = '0';
+                requestAnimationFrame(() => { el.style.width = w; });
+            });
+        }
+    </script>
+</body>
+
 </html>
