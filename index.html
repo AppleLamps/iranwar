@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A public briefing on the Iran conflict from February 28, 2026 through May 19, 2026, using ISW/CTP reports and Trump Truth Social posts.">
+    <title>Iran Conflict Brief</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,700;6..72,800&family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#brief">Skip to briefing</a>
+
+    <header class="site-header" id="top">
+      <nav class="nav-shell" aria-label="Primary">
+        <a class="brand-lockup" href="#top" aria-label="Iran conflict brief home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>Strait Control Room</span>
+        </a>
+        <div class="nav-links">
+          <a href="#brief">Brief</a>
+          <a href="#timeline">Timeline</a>
+          <a href="#phases">Phases</a>
+          <a href="#sources">Sources</a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Public conflict briefing</p>
+          <h1 id="page-title">Iran War, Strait Pressure, Nuclear Ultimatum</h1>
+          <p class="hero-verdict">From February 28 to May 19, the conflict moved from decapitation strikes and missile retaliation into a maritime control fight, a nuclear bargaining impasse, and a paused strike order.</p>
+        </div>
+
+        <aside class="hero-board" aria-label="Current evidence range">
+          <div class="board-row">
+            <span>Coverage</span>
+            <strong>Feb. 28 to May 19, 2026</strong>
+          </div>
+          <div class="board-row">
+            <span>Latest ISW/CTP report</span>
+            <strong>May 18, 2026</strong>
+          </div>
+          <div class="board-row">
+            <span>Latest Trump post in file</span>
+            <strong>May 19, 2026</strong>
+          </div>
+          <div class="board-signal">
+            <span class="pulse-dot" aria-hidden="true"></span>
+            <span>May 19 strike canceled on May 18. Military held on alert.</span>
+          </div>
+        </aside>
+      </section>
+    </header>
+
+    <main id="brief">
+      <section class="at-glance section-shell" aria-labelledby="glance-title">
+        <div class="section-kicker">War at a glance</div>
+        <div class="section-heading">
+          <h2 id="glance-title">The shape of the conflict</h2>
+          <p>Read this as a map board. Military pressure, maritime leverage, nuclear demands, and public messaging move on separate tracks until May 18, when they collide.</p>
+        </div>
+        <div class="stat-grid" id="stats-grid"></div>
+      </section>
+
+      <section class="control-panel section-shell" aria-label="Timeline controls">
+        <div class="control-heading">
+          <div>
+            <div class="section-kicker">Timeline controls</div>
+            <h2>Filter the record</h2>
+          </div>
+          <p id="result-count" aria-live="polite"></p>
+        </div>
+        <div class="controls-row" id="category-filters" aria-label="Filter by category"></div>
+        <div class="source-search-row">
+          <div class="source-toggle" id="source-filters" aria-label="Filter by source"></div>
+          <label class="search-field">
+            <span>Search</span>
+            <input id="timeline-search" type="search" placeholder="Try Hormuz, Hezbollah, HEU, May 18">
+          </label>
+        </div>
+        <div class="record-row">
+          <div class="record-toggle" id="record-toggle" aria-label="Timeline density"></div>
+          <button class="clear-date" id="clear-date" type="button" hidden>Clear date</button>
+        </div>
+        <div class="coverage-shell" aria-label="Daily ISW/CTP coverage from February 28 through May 18">
+          <div class="coverage-topline">
+            <span>Daily source index</span>
+            <strong id="coverage-count"></strong>
+          </div>
+          <div class="coverage-strip" id="coverage-strip"></div>
+        </div>
+      </section>
+
+      <section class="timeline-section" id="timeline" aria-labelledby="timeline-title">
+        <div class="section-shell timeline-heading">
+          <div>
+            <div class="section-kicker">Chronology</div>
+            <h2 id="timeline-title">From opening strike to suspended strike</h2>
+          </div>
+          <p>The timeline opens with major events. Switch to the expanded record or tap a date in the source index to inspect the wider chain.</p>
+        </div>
+        <div class="timeline-rail-wrap">
+          <div class="timeline-rail" id="timeline-rail" tabindex="0" aria-label="Filtered timeline events"></div>
+        </div>
+      </section>
+
+      <section class="section-shell split-brief" id="phases" aria-labelledby="phases-title">
+        <div class="section-heading">
+          <div class="section-kicker">Phase breakdown</div>
+          <h2 id="phases-title">Six turns in the war</h2>
+        </div>
+        <div class="phase-grid" id="phase-grid"></div>
+      </section>
+
+      <section class="section-shell compare-section" id="compare" aria-labelledby="compare-title">
+        <div class="section-heading">
+          <div class="section-kicker">Trump versus ISW/CTP</div>
+          <h2 id="compare-title">Same events, different frames</h2>
+          <p>Trump posts show public posture. ISW/CTP reports show the diplomatic, military, and maritime environment around those claims.</p>
+        </div>
+        <div class="compare-grid" id="compare-grid"></div>
+      </section>
+
+      <section class="focus-band" id="maritime" aria-labelledby="maritime-title">
+        <div class="section-shell focus-layout">
+          <div>
+            <div class="section-kicker">Maritime focus</div>
+            <h2 id="maritime-title">The Strait became the pressure point</h2>
+            <p>Iran's effort to regulate, charge, delay, and narrate traffic through the Strait of Hormuz became central to the war. The United States answered with blockade language, interdictions, mine-clearing, escorts, and Project Freedom.</p>
+          </div>
+          <div class="maritime-board" id="maritime-board"></div>
+        </div>
+      </section>
+
+      <section class="section-shell nuclear-track" id="nuclear" aria-labelledby="nuclear-title">
+        <div class="section-heading">
+          <div class="section-kicker">Nuclear track</div>
+          <h2 id="nuclear-title">The demand did not soften</h2>
+          <p>The record repeatedly returns to one threshold: no Iranian nuclear weapon, with US demands centered on highly enriched uranium, enrichment suspension, and facility dismantlement.</p>
+        </div>
+        <div class="nuclear-grid" id="nuclear-grid"></div>
+      </section>
+
+      <section class="section-shell source-ledger" id="sources" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <div class="section-kicker">Source ledger</div>
+          <h2 id="sources-title">Evidence used</h2>
+          <p>Each event card carries its own source tag. This ledger lists the core files and report URLs used for the public briefing.</p>
+        </div>
+        <div class="ledger-grid" id="source-ledger"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <strong>Strait Control Room</strong>
+        <span>Evidence through May 19, 2026.</span>
+      </div>
+      <a href="#top">Back to top</a>
+    </footer>
+
+    <script src="data/config.js"></script>
+    <script src="data/events.js"></script>
+    <script src="data/coverage.js"></script>
+    <script src="data/sections.js"></script>
+    <script src="data/index.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
