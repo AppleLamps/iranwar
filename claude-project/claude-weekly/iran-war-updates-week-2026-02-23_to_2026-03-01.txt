@@ -1,0 +1,579 @@
+Iran War Updates: Week of February 23, 2026 to March 1, 2026
+Articles included: 2
+
+============================================================
+Article date: February 28, 2026
+Original file: iran-update-special-report-us-and-israeli-strikes-february-28-2026.md
+============================================================
+
+# Iran Update Special Report: US and Israeli Strikes, February 28, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-us-and-israeli-strikes-february-28-2026/>*
+
+## Key Takeaways
+
+1. The United States and Israel have launched a strike campaign into Iran in order to topple the Islamic Republic, among other objectives. US President Donald Trump announced the launch of combat operations in a video statement and called on the Iranian people to rise up against their regime.
+2. Israel has launched decapitation strikes against Iranian leaders. Israeli officials told Axios that Israel is targeting the “entire Iranian leadership,” including current and former officials. Israel conducted numerous airstrikes targeting Supreme Leader Ali Khamenei, according to Israeli and US officials speaking to Axios. Khamenei’s condition remains unclear at the time of this writing. Israeli officials assess that the IDF killed Defense Council Secretary Ali Shamkhani, Islamic Revolutionary Guards Corps (IRGC) Commander Major General Mohammad Pakpour, Defense Minister Brigadier General Aziz Nasir Zadeh, and the Iranian “intelligence chief.”
+3. Israel and the United States have also attacked Iranian military targets. Some of these attacks are probably meant to disrupt Iran’s ability to immediately retaliate. The IDF announced that it has targeted “hundreds of military targets,” including missile launchers, in western Iran. The IDF previously attacked Iranian missile launchers at the outset of the June 2025 Israel-Iran war to disrupt Iran’s ability to retaliate.
+4. There are unconfirmed reports of strikes on Iranian naval assets. An Israeli OSINT account reported strikes on the IRGC Navy frigate *Jamaran*. There are also unverified reports of strikes on the IRGC Navy Imam Ali Navy Base in Chabahar, Sistan and Balochistan Province.
+5. Iran has responded immediately to the US and Israeli strikes. Iran has launched multiple barrages at Israel in recent hours. An Israeli media correspondent reported that Iran had launched around 35 missiles at Israel as of 5:42 AM ET. Iran has also attacked numerous US bases across the region. Iran has attacked US bases in Bahrain, Qatar, the United Arab Emirates, Kuwait, Jordan, and Saudi Arabia.
+
+## Toplines
+
+**This update is the first of multiple Iran Updates that ISW-CTP will publish over the next 24 hours. The US and Israeli strikes are a rapidly evolving situation, and no single individual or organization will have complete information at this time, including the states involved.** Some of the information that is available in the open-source will be contradictory or inaccurate. ISW-CTP will continually refine its assessments over the coming days and weeks as we work to understand the situation. ISW-CTP will issue corrections and clearly articulate when we refine an earlier understanding of events.
+
+Many sources will misinterpret information in the coming hours. Social media users posted footage that showed dozens of bright streaks in the sky during the October 2024 Iranian ballistic missile attack on Israel and claimed that all of the streaks were ballistic missiles, for example. It later emerged that some of the streaks were ballistic missile interceptors, not missiles.
+
+ISW-CTP will only publish high-confidence information. Our maps and the update below include information such as air defense activity, reported explosions with and without footage, and reported and confirmed airstrikes. Some users online may misinterpret anti-aircraft fire as evidence of an airstrike. Some air defense systems have long ranges that make it difficult to assess if the air defense fire’s point of origin is the actual target or if the air defense system is protecting a more distant site. Likewise, the sound of explosions may not denote an airstrike because some sources may misinterpret the sound of missile launches or other kinetic activity.
+
+**The United States and Israel have launched a strike campaign into Iran in order to topple the Islamic Republic, among other objectives.** US President Donald Trump announced the launch of combat operations in a video statement and called on the Iranian people to rise up against their regime. Trump separately said that his main concern is the freedom of the Iranian people. The stated US objectives are to prevent Iran from obtaining a nuclear weapon, “raze” the Iranian missile program to the ground,” “annihilate” Iranian naval forces, and prevent the Axis of Resistance from harming US forces in the Middle East.[1] The Israel Defense Forces (IDF) has similarly stated that it seeks to “remove existential threats” to Israel, including the Iranian nuclear and missile programs and Axis of Resistance.[2]
+
+**Israel has launched decapitation strikes against Iranian leaders.** Israeli officials told Axios that Israel is targeting the “entire Iranian leadership,” including current and former officials.[3] Israel conducted numerous airstrikes targeting Supreme Leader Ali Khamenei, according to Israeli and US officials speaking to Axios.[4] The *New York Times* published satellite imagery of several destroyed buildings in Khamenei’s compound in Tehran.[5] Khamenei’s condition remains unclear at the time of this writing. A senior official told Israeli media that Israel assesses that the IDF killed Khamenei but is still waiting for “final confirmation.”[6] A source “with knowledge of the matter” told Reuters that Khamenei was not in Tehran at the time of the strikes and had moved to a secure location, however.[7]
+
+Israel has also targeted senior regime officials close to Khamenei. Israeli officials assess that the IDF killed Defense Council Secretary Ali Shamkhani, Islamic Revolutionary Guards Corps (IRGC) Commander Major General Mohammad Pakpour, Defense Minister Brigadier General Aziz Nasir Zadeh, and the Iranian “intelligence chief.”[8] The “intelligence chief” likely refers to either Intelligence and Security Minister Esmail Khatib or IRGC Intelligence Organization Chief Brigadier General Majid Khademi. Pakpour replaced former IRGC Commander Major General Hossein Salami, and Khademi replaced former IRGC Intelligence Organization Chief Brigadier General Mohammad Kazemi after Israel killed Salami and Kazemi in the June 2025 Israel-Iran War.[9] Israel has also reportedly targeted President Masoud Pezeshkian and former President Mahmoud Ahmadinejad, although the condition of these officials remains unclear.[10]
+
+![](https://understandingwar.org/wp-content/uploads/2026/02/02-28-2026-Defense-Council-Graphic-791x1024.webp)
+
+**Israel and the United States have also attacked Iranian military targets. Some of these attacks are probably meant to disrupt Iran’s ability to immediately retaliate.** The IDF announced that it has targeted “hundreds of military targets,” including missile launchers, in western Iran.[11] The IDF previously attacked Iranian missile launchers at the outset of the June 2025 Israel-Iran war to disrupt Iran’s ability to retaliate.[12] Israel destroyed at least one-third of Iran’s ballistic missile launchers during the Israel-Iran war, according to the IDF.[13] Israel also destroyed at least 35 percent of Iran’s ballistic missile stockpile during the June war, but Iran has reportedly reconstituted its stockpile in recent months.[14]
+
+There are unconfirmed reports of strikes on Iranian naval assets. An Israeli OSINT account reported strikes on the IRGC Navy frigate *Jamaran*.[15] The *Jamaran* previously operated in the Red Sea during at least parts of the Houthis’ attack campaign against international shipping during the October 7 war.[16] US Central Command (CENTCOM) noted in June 2024 that the Jamaran failed to respond to a distress call issued by a commercial vessel attacked by the Houthis despite being several nautical miles from the vessel.[17] There are also unverified reports of strikes on the IRGC Navy Imam Ali Navy Base in Chabahar, Sistan and Balochistan Province.[18]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/02/Strikes-in-Iran-Morning-of-February-28-2026.webp)](https://understandingwar.org/map/us-and-israeli-strikes-in-iran-february-28-2026-at-800-am-et/)](https://understandingwar.org/map/us-and-israeli-strikes-in-iran-february-28-2026-at-800-am-et/ "US and Israeli Strikes in Iran, February 28, 2026 at 8:00 AM ET")
+
+**The Iraqi Popular Mobilization Forces (PMF) announced airstrikes in Jurf al Sakhr, which is an Iranian-backed Kataib Hezbollah stronghold.** The PMF announced that airstrikes killed two PMF members in al Mayadin and injured three PMF members in Sanidij.[19] An unspecified security source told Iraqi media that Israel targeted the Kataib Hezbollah headquarters in Jurf al Sakhr.[20] The United States previously attacked the 46th and 47th PMF brigades, which are controlled by Kataib Hezbollah, in Jurf al Sakhr in January 2024.[21] Jurf al Sakhr is a previously Sunni town south of Baghdad that Iranian-backed Iraqi militia Kataib Hezbollah occupied after committing acts of sectarian cleansing against the previous residents.[22]
+
+[![Strikes in Southern Iraq, February 28, 2026 as of 8:00 AM ET](https://understandingwar.org/wp-content/uploads/2026/02/Strikes-in-Southern-Iraq-Morning-February-28-2026-1024x819.webp)](https://understandingwar.org/map/strikes-in-southern-iraq-february-28-2026-as-of-800-am-et/)
+
+**Iran has responded immediately to the US and Israeli strikes.** Iran has launched multiple barrages at Israel in recent hours. An Israeli media correspondent reported that Iran had launched around 35 missiles at Israel as of 5:42 AM ET.[23] Iran has reportedly launched Emad and Ghadr missiles at Israel.[24] Iran has used Emad and Ghadr missiles to attack Israel during previous conflicts, including in June 2025.[25] A ballistic missile expert also reported that Iran may have used Kheybar Shekan or Fatah-1 missiles to attack Israel in the current conflict.[26] An OSINT account based in Bahrain claimed that Iran has launched between two to four missiles per barrage.[27] Iran previously struggled to coordinate large-scale missile barrages during the Israel-Iran war and may again be struggling due to the disruption imposed by US and Israeli strikes.
+
+**Iran has also attacked numerous US bases across the region.** Iran has attacked US bases in Bahrain, Qatar, the United Arab Emirates, Kuwait, Jordan, and Saudi Arabia.[28] Khatam ol Anbia Central Headquarters Commander Major General Ali Abdollahi Ali Abadi confirmed that Iranian forces have conducted missile strikes against Israel and US bases in the region and stated that Iran will continue to retaliate until the United States and Israel are “definitively defeated,” signaling the Iranian intention to sustain military action rather than conduct a limited retaliatory strike.[29] IRGC-affiliated media claimed that Iran has targeted 14 US bases thus far.[30]
+
+The following map shows US positions in the Middle East. This map does NOT reflect the US bases that Iran has attacked.
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/02/Significant-US-Bases-in-the-Middle-East-February-28-2026.webp)](https://understandingwar.org/map/significant-us-bases-in-the-middle-east-february-28-2026/)](https://understandingwar.org/map/significant-us-bases-in-the-middle-east-february-28-2026/ "Significant US Bases in the Middle East, February 28, 2026")
+
+Endnotes
+
+[1] https://x.com/realDonaldTrump/status/2027651077865157033
+
+[2] https://x.com/idfonline/status/2027671053477056848
+
+[3] https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei
+
+[4] https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei
+
+[5] https://www.nytimes.com/2026/02/28/world/iran-israel-trump-attack-photos.html
+
+[6] https://www.mako.co dot il/news-world/2026\_q1/liveblog-5376aedeaf0ac91027.htm?utm\_source=copy\_link&utm\_medium=share&utm\_campaign=n12\_article#e587c544c64ac910VgnVCM200000650a10acRCRD
+
+[7] https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/
+
+[8] https://x.com/AmitSegal/status/2027688836386496640 ; https://x.com/manniefabian/status/2027707837602816054
+
+[9] https://understandingwar.org/research/middle-east/iran-update-special-report-june-19-2025-evening-edition/
+
+[10] https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei
+
+[11] https://x.com/idfonline/status/2027709393970614557
+
+[12] https://understandingwar.org/research/middle-east/iran-update-special-edition-israeli-strikes-on-iran-june-13-2025/
+
+[13] https://understandingwar.org/research/middle-east/iran-update-special-report-june-16-2025-evening-edition/
+
+[14] https://t.me/moriahdoron/23179 ; https://understandingwar.org/research/middle-east/iran-update-december-22-2025/
+
+[15] https://x.com/hey\_itsmyturn/status/2027695271447032277
+
+[16] https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3808503/june-15-us-central-command-update-on-mv-verbena/
+
+[17] https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3808503/june-15-us-central-command-update-on-mv-verbena/
+
+[18] https://t.me/jda\_jonbesh/6232
+
+[19] https://www.shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%87%D8%AC%D9%88%D9%85-%D8%AB%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AD%D8%AF-%D9%85%D9%82%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D8%A8%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1
+
+[20] https://www.shafaq dot com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%87%D8%AC%D9%88%D9%85-%D8%AB%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AD%D8%AF-%D9%85%D9%82%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D8%A8%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1
+
+[21] https://understandingwar.org/research/middle-east/iran-update-january-24-2024/
+
+[22] https://understandingwar.org/research/middle-east/iran-update-april-1-2025/
+
+[23] https://x.com/manniefabian/status/2027695933790515397
+
+[24] https://x.com/AryJeay/status/2027699095834382764
+
+[25] https://understandingwar.org/research/middle-east/iran-update-special-report-june-15-2025-morning-edition/
+
+[26] https://x.com/fab\_hinz/status/2027707055214059755
+
+[27] https://x.com/MarioLeb79/status/2027703976582369581
+
+[28] https://defapress dot ir/fa/news/815433 ; https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/ ; https://x.com/IranIntl/status/2027766529282953306 ; https://x.com/ariel\_oseran/status/2027713925173629296
+
+[29] https://defapress dot ir/fa/news/815436
+
+[30] https://www.tasnimnews dot ir/fa/news/1404/12/09/3527860
+
+============================================================
+Article date: March 1, 2026
+Original file: iran-update-evening-special-report-march-1-2026.md
+============================================================
+
+# Iran Update Evening Special Report, March 1, 2026
+
+*Source: <https://www.criticalthreats.org/analysis/iran-update-evening-special-report-march-1-2026>*
+
+**Data Cutoff: 4:00 PM ET**
+
+*The Critical Threats Project (CTP) at the American Enterprise Institute and the Institute for the Study of War (ISW) are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update will be more comprehensive, covering events over the past 24-hour period and refining items discussed in the morning update.*
+
+**Key**  **Takeaways:**
+
+- The combined US-Israeli force has struck over 2,000 targets in Iran and achieved air superiority over Tehran. The combined force has continued to target Iranian internal security institutions responsible for maintaining stability and suppressing protests, including security forces along Iran’s northwestern borders with Turkey and Iraqi Kurdistan.
+- Ali Reza Arafi, who is a member of the Expediency Discernment Council and a newly appointed member of the Leadership Council, has long maintained a close relationship with Supreme Leader Ali Khamenei. Arafi likely played a key role in consolidating Khamenei’s religious authority across Iran.
+- The inconsistency of Iran’s retaliatory attacks on March 1 suggests that Iranian units may be struggling to coordinate large-scale attacks. Iran appeared to fire significantly less munitions at Israel on March 1 than on February 28, which suggests that US-Israeli efforts to degrade Iran's retaliatory capabilities are succeeding.
+- CTP-ISW is monitoring early reports that Lebanese Hezbollah fired rockets into Israel. This attack would mark the first Hezbollah rocket attack into Israel since the November 2024 Israel-Hezbollah ceasefire agreement. Other members of Iran’s Axis of Resistance, specifically Iranian-backed Iraqi militias, have threatened to retaliate and conducted some attacks targeting Israel and US forces.
+
+**Toplines**
+
+**The combined force continued to target Iranian internal security institutions responsible for maintaining stability and suppressing protests.** Iranian media reported on March 1 that the combined force targeted the West Azerbaijan Provincial Border Guard.[[i]](#_edn6134d66c36626a6e078c2a0b3db434fc1) West Azerbaijan Province is located along Iran’s border with Turkey and Iraqi Kurdistan. Iranian media separately reported on March 1 that the combined force struck the Mehran Border Regiment in Ilam Province, killing 22 security personnel.[[ii]](#_edn6134d66c36626a6e078c2a0b3db434fc2) Mehran is also located along the Iran-Iraq border. The combined force may have struck the IRGC Ansar ol Mehdi Unit, which is an IRGC Ground Forces unit in Zanjan Province.[[iii]](#_edn6134d66c36626a6e078c2a0b3db434fc3) The regime has historically deployed IRGC Ground Forces units to suppress internal unrest.[[iv]](#_edn6134d66c36626a6e078c2a0b3db434fc4) The combined force also targeted the Shahr-e Rey Law Enforcement Command (LEC) Station in Tehran, which may have played a role in the violent crackdown on protesters in Tehran during the most recent protest wave in December 2025 and January 2026.[[v]](#_edn6134d66c36626a6e078c2a0b3db434fc5) The combined force has also conducted cyberattacks as part of its stated objective to topple the regime. Reuters reported on March 1 that likely US and Israeli hackers hacked multiple Iranian news sites and a common religious calendar app with the message, “it’s time for reckoning.”[[vi]](#_edn6134d66c36626a6e078c2a0b3db434fc6)[[vii]](#_edn6134d66c36626a6e078c2a0b3db434fc7) The messages also urged security forces to disarm and join Iranian civilians.[[viii]](#_edn6134d66c36626a6e078c2a0b3db434fc8)
+
+[![](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Against-Iranian-Internal-Security-Evening-of-March-1-2026.png)](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Against-Iranian-Internal-Security-Evening-of-March-1-2026.png)
+
+**The regime has continued its efforts to maintain internal stability.** Internet monitor Netblocks reported on March 1 that the regime has maintained its nationwide internet blackout, with the Iranian internet only operating at one percent connectivity.[[ix]](#_edn6134d66c36626a6e078c2a0b3db434fc9) The regime likely imposed the internet shutdown to prevent Iranians from coordinating efforts to organize demonstrations against the regime amid the US and Israeli strikes. Restoring access to the internet is crucial to achieving the United States’ stated objective of toppling the Iranian regime. The *Wall Street Journal* reported on March 1 that the LEC set up checkpoints across Tehran to prevent people from gathering on the streets.[[x]](#_edn6134d66c36626a6e078c2a0b3db434fc10) The report added that Basij members staged anti-US protests at unspecified Iranian universities.[[xi]](#_edn6134d66c36626a6e078c2a0b3db434fc11) The Basij is a paramilitary force that is responsible for civil defense and social control.[[xii]](#_edn6134d66c36626a6e078c2a0b3db434fc12)
+
+**The IDF announced that it has started “systematically dismantling” Iran’s nuclear infrastructure.[[xiii]](#_edn6134d66c36626a6e078c2a0b3db434fc13)** The Institute for Science and International Security reported airstrikes near the Atomic Energy Organization of Iran headquarters in Tehran, which is where the Tehran Research Reactor is located.[[xiv]](#_edn6134d66c36626a6e078c2a0b3db434fc14) The Institute assessed that the reactor is “not expected” to be a US or Israeli target and noted that the reactor did not appear to have been attacked as of 2:00 AM ET on March 1.[[xv]](#_edn6134d66c36626a6e078c2a0b3db434fc15) US officials stated before the start of the combined strike campaign that Iran had attempted to rebuild its nuclear weapons program.[[xvi]](#_edn6134d66c36626a6e078c2a0b3db434fc16) US President Donald Trump, when announcing the combined strike campaign on February 28, vowed that the United States will never allow Iran to develop a nuclear weapon.[[xvii]](#_edn6134d66c36626a6e078c2a0b3db434fc17)
+
+**Ali Reza Arafi, who is a member of the Expediency Discernment Council and a newly appointed member of the Leadership Council, has long maintained a close relationship with Ali Khamenei. Arafi likely played a key role in consolidating Khamenei’s religious authority across Iran.** CTP-ISW reported in its March 1 morning update that the Expediency Discernment Council appointed Arafi as the third member of the Leadership Council.[[xviii]](#_edn6134d66c36626a6e078c2a0b3db434fc18) He will serve alongside President Masoud Pezeshkian and Judiciary Chief Gholam Hossein Mohseni Ejei. The Leadership Council will assume the supreme leader’s responsibilities until the Assembly of Experts convenes to select a successor. CTP-ISW noted that Arafi belongs to Khamenei’s inner circle.[[xix]](#_edn6134d66c36626a6e078c2a0b3db434fc19) Khamenei has repeatedly appointed Arafi to influential religious positions within the regime in recent decades.[[xx]](#_edn6134d66c36626a6e078c2a0b3db434fc20) Khamenei appointed Arafi as the Qom Friday Prayer Leader, one of the most influential religious posts in Iran, in 2015, for example.[[xxi]](#_edn6134d66c36626a6e078c2a0b3db434fc21) Khamenei's appointment of Arafi to such an influential position, among other positions, highlights his trust in Arafi. Arafi likely served as a liaison among clerical leaders in Qom and may have helped Khamenei maintain control and loyalty within the clerical establishment. Arafi was also selected as one of the seven members of the Supreme Council of the Qom Seminary in 2016.[[xxii]](#_edn6134d66c36626a6e078c2a0b3db434fc22) This institution coordinates seminaries across Iran.[[xxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc23) This position may have strengthened his ability to reinforce Khamenei’s religious authority. The Expediency Discernment Council’s decision to appoint Arafi to the Leadership Council suggests that Khamenei’s network continues to hold influence over senior positions within the regime. The Leadership Council reportedly held its second meeting on March 1.[[xxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc24)
+
+**Supreme National Security Council Secretary Ali Larijani and Parliament Speaker Mohammad Bagher Ghalibaf delivered televised speeches following Khamenei’s death.[[xxv]](#_edn6134d66c36626a6e078c2a0b3db434fc25)** Ghalibaf emphasized that the targeted killing of Khamenei crossed a red line for Iran.[[xxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc26) Ghalibaf and Larijani’s speeches follow a recent *New York Times* report that Khamenei tasked Larijani with “steering the country” during the recent protests and that Larijani has effectively been running Iran since then.[[xxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc27) The same report identified Ghalibaf as a member of Khamenei’s inner circle and stated that Khamenei designated him as a “de facto deputy” to command the Iranian armed forces in the event of a US attack. An Iranian official stated in October 2025 that Ghalibaf had assumed a senior military command role during the June 2025 Israel-Iran War after Israel killed several senior Iranian commanders.[[xxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc28) CTP-ISW previously assessed that moderate and pragmatic hardliners, including Larijani and Ghalibaf, have led the regime’s restructuring efforts since the June 2025 Israel-Iran War.[[xxix]](#_edn6134d66c36626a6e078c2a0b3db434fc29)
+
+**US and Israeli Air Campaign**
+
+**The combined force has struck over 2,000 targets in Iran and achieved air superiority over Tehran as it continues to pursue several lines of effort to achieve its stated campaign objectives.[[xxx]](#_edn6134d66c36626a6e078c2a0b3db434fc30)** A US official told the *New York Times* on March 1 that the United States and Israel have struck more than 2,000 targets in Iran since the conflict began on February 28.[[xxxi]](#_edn6134d66c36626a6e078c2a0b3db434fc31) The Israel Defense Forces (IDF) also announced that it achieved air superiority over Tehran.[[xxxii]](#_edn6134d66c36626a6e078c2a0b3db434fc32) The IDF previously targeted Iranian air defenses at the start of the 12-day war, which enabled it to rapidly establish and sustain air superiority over much of Iran.[[xxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc33) US forces and the IDF have divided their lines of effort in accordance with their respective strengths. US strikes have focused on targeting strategic infrastructure, such as air defenses, command and control nodes, logistics networks, industrial facilities, and Iran’s military structure, while the IDF has focused on targeting ballistic missile launchers and Iranian leadership, according to a US analyst.[[xxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc34) These lines of effort are not mutually exclusive, as shown by the US deployment of four B-2 stealth bombers to strike unspecified underground ballistic missile sites in Iran on March 1.[[xxxv]](#_edn6134d66c36626a6e078c2a0b3db434fc35)
+
+[![](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-in-Iran-March-1-2026.png)](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-in-Iran-March-1-2026.png)
+
+**The combined force is pursuing three main lines of effort:**
+
+1. ***Suppressing Iranian air defenses.***
+
+The combined force continued to suppress Iranian air defenses to achieve and maintain air superiority over Iranian airspace on March 1. The Israeli Air Force (IAF) destroyed one Iranian F-4 and two F-5 fighter jets preparing to take off from the Artesh Air Force 2nd Tactical Airbase in Tabriz, East Azerbaijan Province, on March 1.[[xxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc36) The airbase houses three Iranian squadrons (the 21st, 22nd, and 23rd Tactical Fighter Squadrons) that fly MiG-29 and F-5 aircraft, according to OSINT social media accounts.[[xxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc37) Iranian F-4 and F-5 jets retain air-to-air capabilities that could threaten US and Israeli aircraft despite the F-4 and F-5 jets’ age and technological short comings compared to fourth- and fifth-generation aircraft.[[xxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc38) IAF strikes previously destroyed several buildings and damaged the runway of the Artesh Air Force 2nd Tactical Airbase at the beginning of the 12-day war.[[xxxix]](#_edn6134d66c36626a6e078c2a0b3db434fc39) The combined force separately destroyed a likely mobile radar system at the IRGC Ground Forces Shahid Ali Arabi Airbase in Zahedan, Sistan and Baluchistan Province, according to commercially available satellite imagery published on March 1.[[xl]](#_edn6134d66c36626a6e078c2a0b3db434fc40) This strike marks the first strike on the airbase since the IRGC opened it in May 2023 to house IRGC helicopters and drones.[[xli]](#_edn6134d66c36626a6e078c2a0b3db434fc41) The combined force may have also struck the 7th Artesh Air Force Tactical Airbase in Shiraz, Fars Province, according to a video published by an Iranian OSINT account.[[xlii]](#_edn6134d66c36626a6e078c2a0b3db434fc42) The 7th Artesh Air Force Tactical Airbase is co-located with the Shiraz International Airport and hosts a fighter squadron that flies 12 Russian SU-22 fighter jets and a helicopter squadron.[[xliii]](#_edn6134d66c36626a6e078c2a0b3db434fc43)
+
+2. ***Degrading Iranian retaliatory capabilities.***
+
+The combined force continued to disrupt Iran’s ability to conduct retaliatory attacks targeting US bases, Israel, and other targets by striking Iranian missile launchers, missile bases, and drone launch facilities on March 1. The combined force destroyed a launcher and a likely missile storage facility at the Esfahan North Missile Base near Najafabad, Esfahan Province, according to satellite imagery published on March 1.[[xliv]](#_edn6134d66c36626a6e078c2a0b3db434fc44) The IDF previously struck the likely missile storage facility during the 12-day war.[[xlv]](#_edn6134d66c36626a6e078c2a0b3db434fc45) The combined force also struck a likely Iranian underground ballistic missile facility and several nearby buildings at the Amand Missile Base, according to satellite imagery published on March 1.[[xlvi]](#_edn6134d66c36626a6e078c2a0b3db434fc46) The Amand Missile Base reportedly stores Ghadr medium-range ballistic missiles, and the IDF previously struck the base during the 12-day war.[[xlvii]](#_edn6134d66c36626a6e078c2a0b3db434fc47) The combined force separately struck the Imam Hussein Missile Base near Yazd City in central Iran, according to satellite imagery published on March 1.[[xlviii]](#_edn6134d66c36626a6e078c2a0b3db434fc48) The base reportedly houses long-range Khorramshahr ballistic missiles in underground tunnels. Iranian forces previously launched 60 ballistic missiles, including one with a cluster munition warhead, at Israel from this base during the 12-day war.[[xlix]](#_edn6134d66c36626a6e078c2a0b3db434fc49)
+
+[![](https://www.criticalthreats.org/wp-content/uploads/Amand-Missile-Site-March-1-2026.gif)](https://www.criticalthreats.org/wp-content/uploads/Amand-Missile-Site-March-1-2026.gif)
+
+**The combined force conducted several strikes targeting Iranian drone launch facilities in southeastern Iran that Iran likely used to launch drones at its Arab Gulf neighbors.** Satellite imagery published on March 1 shows that the combined force struck three separate drone launch and storage facilities near Konarak, Sistan and Baluchistan Province.[[l]](#_edn6134d66c36626a6e078c2a0b3db434fc50) The imagery shows that combined force airstrikes destroyed a likely drone storage facility at a drone launch site near Konarak.[[li]](#_edn6134d66c36626a6e078c2a0b3db434fc51) The imagery also shows what appear to be long-range Shahed-129 drones on the launch site's runway, suggesting that Iranian forces were preparing to use them for offensive operations.[[lii]](#_edn6134d66c36626a6e078c2a0b3db434fc52) The combined force also struck at least six likely drone storage facilities less than a kilometer away from the drone launch site.[[liii]](#_edn6134d66c36626a6e078c2a0b3db434fc53) An Israeli analyst reported that these sites were instead Iranian Navy ammunition bunkers, which is also plausible given the sites’ close proximity to the ocean.[[liv]](#_edn6134d66c36626a6e078c2a0b3db434fc54) The combined force also struck at least eight drone storage sites at the nearby 10th Artesh Air Force Airbase, which is co-located with the Konarak International Airport, according to satellite imagery.[[lv]](#_edn6134d66c36626a6e078c2a0b3db434fc55) The imagery suggests that the combined force utilized bunker-buster bombs to penetrate fortified concrete hangars that were likely storing drones at the airbase.[[lvi]](#_edn6134d66c36626a6e078c2a0b3db434fc56) The imagery also shows what appear to be three Iranian Shahed-136 one-way attack drones and one Shahed-129 drone.[[lvii]](#_edn6134d66c36626a6e078c2a0b3db434fc57) Iran may have used all three of the facilities that the combined force struck to prepare and launch drone attacks against Iran’s Arab Gulf neighbors. The Shahed-136 has a range of at least 2,000 kilometers, while the Shahed-129 has a range of 1,700 kilometers.[[lviii]](#_edn6134d66c36626a6e078c2a0b3db434fc58)
+
+[![](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Against-Iranian-Airbases-and-Drone-Facilities-Evening-of-March-1-2026.png)](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Against-Iranian-Airbases-and-Drone-Facilities-Evening-of-March-1-2026.png) [![](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Targeting-Iranian-Retaliatory-Capabilities-Evening-of-March-1-2026.png)](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Targeting-Iranian-Retaliatory-Capabilities-Evening-of-March-1-2026.png)
+
+**The combined force seeks to disrupt the Iranian navies’ ability to attack international shipping and US Navy vessels.** Commercially available satellite imagery captured on March 1 shows that US strikes on the Artesh Navy 3rd Naval District base in Konarak, Hormozgan Province, sank the IRIS *Bayandor* and IRIS *Naghdi*. The IRIS *Bayandor* and IRIS *Naghdi* were Iran’s two remaining Bayandor-class patrol frigates.[[lix]](#_edn6134d66c36626a6e078c2a0b3db434fc59) These Bayandor-class corvettes were used for coastal patrol, surveillance, and escort missions in the Persian Gulf and Gulf of Aden.[[lx]](#_edn6134d66c36626a6e078c2a0b3db434fc60) These corvettes were also equipped with modern radar, 76-millimeter and 40-milimeter guns, and anti-ship missiles.[[lxi]](#_edn6134d66c36626a6e078c2a0b3db434fc61) The United States struck the base on February 28.[[lxii]](#_edn6134d66c36626a6e078c2a0b3db434fc62) The United States also sank the IRGC Navy *Jamaran* frigate near the IRGC Navy Imam Ali Base in Chabahar, Sistan and Baluchistan Province, which US forces struck on February 28.[[lxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc63) The *Jamaran* is a Moudge-class frigate.[[lxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc64) The *Jamaran* previously seized two US unmanned surface vessels in September 2022 and operated around the Red Sea during at least parts of the Houthis’ campaign against international shipping during the October 7 war.[[lxv]](#_edn6134d66c36626a6e078c2a0b3db434fc65) Iran has three remaining Moudge-class frigates and one modified Moudge-class signal frigate.[[lxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc66)
+
+US President Donald Trump stated on March 1 that US forces have sunk nine Iranian naval vessels and “largely destroyed” the Iranian naval headquarters.[[lxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc67) Israel and the United States struck the Southern Forward Naval Headquarters in Bandar Abbas, Hormozgan Province, on March 1, which may be the headquarters Trump was referring to.[[lxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc68) The Southern Forward Naval Headquarters oversees the Southern Fleet and coordinates operations for the Artesh Navy’s 1st, 2nd, and 3rd naval regions.[[lxix]](#_edn6134d66c36626a6e078c2a0b3db434fc69) It is unclear which six other vessels Trump was referring to. Trump stated that US forces will go after Iran’s remaining naval vessels and that “they will soon be floating at the bottom of the sea.”[[lxx]](#_edn6134d66c36626a6e078c2a0b3db434fc70) US Central Command (CENTCOM) also confirmed on March 1 that the United States has struck Iranian submarines.[[lxxi]](#_edn6134d66c36626a6e078c2a0b3db434fc71) It is unclear what submarines the United States has struck. Iran has two kilo-class submarines that are currently undergoing repairs and one kilo-class submarine that appear to be idle, according to commercially available satellite imagery captured on February 26. CTP-ISW cannot assess whether the idle submarine moved before the conflict.
+
+[![](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Against-the-Iranian-Navies-Evening-of-March-1-2026.png)](https://www.criticalthreats.org/wp-content/uploads/US-and-Israeli-Strikes-Against-the-Iranian-Navies-Evening-of-March-1-2026.png)
+
+**The United States and Israel conducted several attacks targeting Iranian-backed Iraqi militias in Iraq on March 1 to degrade the militias’ ability to conduct retaliatory attacks against US forces and Israel.** The Iraqi Popular Mobilization Forces (PMF) announced on March 1 that the United States and Israel struck one of its headquarters in Diyala Province, eastern Iraq, killing four PMF fighters.[[lxxii]](#_edn6134d66c36626a6e078c2a0b3db434fc72) Several Iranian-backed Iraqi militias operate under the PMF and answer to Iran instead of the Iraqi prime minister.[[lxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc73) The United States and Israel reportedly conducted multiple airstrikes targeting PMF sites in al Qaim, killing two PMF fighters.[[lxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc74) An Iraqi OSINT account reported additional strikes on Jurf al Sakhr, south of Baghdad, on March 1.[[lxxv]](#_edn6134d66c36626a6e078c2a0b3db434fc75) The combined force previously conducted airstrikes targeting Kataib Hezbollah in Jurf al Sakhr on February 28, killing two Kataib Hezbollah fighters.[[lxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc76) Kataib Hezbollah is a member of the Islamic Resistance in Iraq.[[lxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc77) The United States has previously conducted pre-emptive airstrikes targeting Iranian-backed Iraqi militias in Iraq to prevent the militias from launching attacks.[[lxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc78)
+
+3. ***Disrupting Iranian command-and-control.***
+
+**The combined force’s decapitation campaign against senior Iranian leaders is likely disrupting Iran’s ability to effectively retaliate against the combined strike campaign.** Iranian media confirmed on March 1 that the combined force killed Armed Forces General Staff (AFGS) Logistics and Support Deputy Major General Mohsen Dareh Baghi, Supreme Leader Office Deputy head Major General Akbar Ebrahim Zadeh, AFGS Planning and Operations head Major General Bahram Hosseini Motlagh, and AFGS Logistics Department head Major General Hassan Ali Tajik.[[lxxix]](#_edn6134d66c36626a6e078c2a0b3db434fc79) CTP-ISW previously reported that the IDF confirmed that it killed AFGS Chief Major General Abdol Rahim Mousavi.[[lxxx]](#_edn6134d66c36626a6e078c2a0b3db434fc80) Unspecified sources told anti-regime media that parts of Iran's chain of command have been disrupted, which has led to issues in relaying directives and operational coordination.[[lxxxi]](#_edn6134d66c36626a6e078c2a0b3db434fc81) The sources added that some military commanders and lower-ranking personnel have stopped reporting to their bases and military centers due to fears of strikes. Israeli strikes targeting Iranian leaders during the first day of the June 2025 Israel-Iran War delayed Iran’s initial retaliation due to command-and-control disruptions.[[lxxxii]](#_edn6134d66c36626a6e078c2a0b3db434fc82)
+
+Iranian media also confirmed that the combined force killed former hardline President Mahmoud Ahmadinejad in an airstrike targeting his residence in Narmak, Tehran Province, on February 28.[[lxxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc83) Ahmadinejad was a member of Iran's Expediency Discernment Council, which is an administrative assembly appointed by the Supreme Leader to resolve differences between the Iranian Parliament and the Guardian Council. Israeli officials told Axios on February 28 that Israel is targeting the “entire Iranian leadership,” including current and former officials.[[lxxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc84) The United States sanctioned Ahmadinejad in September 2023 for supporting Iran’s Ministry of Intelligence and its efforts to take US nationals hostage.[[lxxxv]](#_edn6134d66c36626a6e078c2a0b3db434fc85)
+
+**Iranian Retaliation**
+
+**Iran appeared to fire significantly less munitions at Israel on March 1 than on February 28, which suggests that US-Israeli efforts to degrade Iran's retaliatory capabilities are succeeding.** IDF warnings to Israeli citizens suggest that Iran launched at least 20 distinct barrages of missiles targeting Israel on February 28.[[lxxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc86) Iran only appeared to launch four distinct missile barrages targeting Israel between February 28 at 4:00 PM ET and March 1 at 4:00 PM ET, however.[[lxxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc87) Several of these missiles struck civilian areas in Israel and caused Israeli casualties. The significantly lower rate of Iranian missile launches, as observed through IDF alert warnings to civilians, suggests that US-Israeli strikes on Iranian missile launchers and storage facilities have limited Iran’s ability to launch munitions targeting Israel. Combined force strikes on Iranian command-and-control networks may also be limiting Iran’s response. The IRGC announced after Khamenei’s death was confirmed that it was about to launch the “most devastating operation” in the Islamic Republic of Iran’s history targeting Israel and US bases.[[lxxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc88) Iranian strikes have killed at least nine people in Israel.[[lxxxix]](#_edn6134d66c36626a6e078c2a0b3db434fc89)
+
+Iran also appears to be relying more heavily on its drones compared to its ballistic missiles in its strike packages targeting Gulf states. The UAE reported on March 1 that it has intercepted a total of 541 Iranian drones and 165 ballistic missiles.[[xc]](#_edn6134d66c36626a6e078c2a0b3db434fc90) Kuwaiti air defenses have intercepted 283 Iranian drones and 97 Iranian ballistic missiles since February 28.[[xci]](#_edn6134d66c36626a6e078c2a0b3db434fc91) Bahrain has similarly intercepted 145 Iranian drones and 45 Iranian ballistic missiles since the war started.[[xcii]](#_edn6134d66c36626a6e078c2a0b3db434fc92) These reports indicate that Iran is firing far more drones at Gulf targets than ballistic missiles. Drones can reach the Gulf from Iran much faster than drones can reach Israel, which may explain why Iran is relying on its drone stockpile for attacks in the Gulf. Israel and the United States have also struck numerous Iranian ballistic missile bases and launchers since February 28.[[xciii]](#_edn6134d66c36626a6e078c2a0b3db434fc93)
+
+[![](https://www.criticalthreats.org/wp-content/uploads/Iran-and-Axis-Retaliatory-Strikes-in-the-Middle-East-March-1-2026.png)](https://www.criticalthreats.org/wp-content/uploads/Iran-and-Axis-Retaliatory-Strikes-in-the-Middle-East-March-1-2026.png)
+
+**The inconsistency of Iran’s retaliatory attacks on March 1 suggests that Iranian units may be struggling to coordinate large-scale attacks.** Iran previously struggled to coordinate large-scale missile barrages during the Israel-Iran War and may again be struggling due to the disruption caused by US and Israeli strikes.[[xciv]](#_edn6134d66c36626a6e078c2a0b3db434fc94) Iran’s small waves of missiles targeting Israel appear poorly coordinated if they were intended to overwhelm Israeli air defenses. The IDF intercepted one drone in Israeli airspace on February 28, and the drone did not appear calibrated to enter Israeli airspace at around the same time as any wave of ballistic missiles.[[xcv]](#_edn6134d66c36626a6e078c2a0b3db434fc95) Iranian Foreign Affairs Minister Abbas Araghchi acknowledged the lack of coordination among Iranian military units in an interview with Al Jazeera on March 1. Araghchi stated that Iranian military units are “independent” and “somewhat isolated.”[[xcvi]](#_edn6134d66c36626a6e078c2a0b3db434fc96) Araghchi also stated that an Iranian drone attack targeting Oman was “not our choice.”[[xcvii]](#_edn6134d66c36626a6e078c2a0b3db434fc97)
+
+**Iran continued to conduct retaliatory drone and missile attacks targeting US forces, the Gulf states, and Israel on March 1. Israel and the United Arab Emirates (UAE) are bearing the brunt of Iran’s attacks.** US military officials announced on March 1 that Iran killed three US servicemembers at Camp Arifjan, a base in Kuwait that houses US troops.[[xcviii]](#_edn6134d66c36626a6e078c2a0b3db434fc98) It is unclear when Iran struck Camp Arifjan. US military officials told the *New York Times* that the Iranian strikes destroyed “major portions” of an army unit that manages housing for US troops.[[xcix]](#_edn6134d66c36626a6e078c2a0b3db434fc99) Iran also launched a drone at the US Army Camp Buehring Base in northwestern Kuwait.[[c]](#_edn6134d66c36626a6e078c2a0b3db434fc100) IRGC-affiliated media reported that an Iranian drone targeted the Israeli Embassy in Abu Dhabi, the UAE.[[ci]](#_edn6134d66c36626a6e078c2a0b3db434fc101) Iran reportedly struck the Zayed Port in Abu Dhabi, which serves as a major commercial hub and is located near the al Dhafra Airbase, which supports US operations in the region.[[cii]](#_edn6134d66c36626a6e078c2a0b3db434fc102) Iran also struck the Jabal Ali Port in Dubai, which houses French naval forces and serves as the US Navy’s largest port of call in the Middle East.[[ciii]](#_edn6134d66c36626a6e078c2a0b3db434fc103) The UAE has closed its embassy in Tehran in response to Iran’s attacks on the UAE.[[civ]](#_edn6134d66c36626a6e078c2a0b3db434fc104)
+
+Iranian ballistic missiles and drones have struck military and civilian infrastructure in Bahrain, Oman, the UAE, Qatar, and Kuwait since CTP-ISW's last data cutoff.[[cv]](#_edn6134d66c36626a6e078c2a0b3db434fc105) Two Iranian drones struck Duqm Port in Duqm, Oman, on March 1.[[cvi]](#_edn6134d66c36626a6e078c2a0b3db434fc106) Duqm Port is a valuable asset for US logistics and shipping because the port can host military roll-on/roll-off ships, which is crucial for moving large-scale supplies and equipment to and from the theater.[[cvii]](#_edn6134d66c36626a6e078c2a0b3db434fc107) The US Navy has had regular access to the port since 2019.[[cviii]](#_edn6134d66c36626a6e078c2a0b3db434fc108) Iran similarly struck the Salman Port in Bahrain, which is home to the US Navy’s Fifth Fleet and US Naval Forces Central Command.[[cix]](#_edn6134d66c36626a6e078c2a0b3db434fc109)
+
+Gulf sources told Reuters on February 28 that Iran is “internationalizing the battlefield” by targeting the Gulf states.[[cx]](#_edn6134d66c36626a6e078c2a0b3db434fc110) The Emirati government noted on February 28 that the UAE will not sit “cross-armed” in the wake of Iran’s attacks and will review its options.[[cxi]](#_edn6134d66c36626a6e078c2a0b3db434fc111) Four unspecified sources told the *Washington Post* on February 28 that Saudi Crown Prince Mohammed bin Salman made several private calls to US President Donald Trump in the last month to press for a US strike on Iran.[[cxii]](#_edn6134d66c36626a6e078c2a0b3db434fc112) Saudi Arabia noted that it will take all necessary measures to defend its security, including the option of responding to Iranian attacks.[[cxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc113)
+
+**Some European countries have indicated that they will support the United States and Israel’s combined strike campaign against Iran.** The United Kingdom, France, and Germany (the E3) issued a statement condemning Iran’s “indiscriminate and disproportionate missile attacks” targeting countries across the Middle East.[[cxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc114) The E3 warned that it may enable “necessary and proportionate defensive action to destroy Iran’s capability to fire missiles and drones.” The United Kingdom separately granted the United States permission to use Diego Garcia and Royal Air Force Fairford to strike Iranian missile facilities, according to a “person familiar” speaking to Bloomberg on March 1.[[cxv]](#_edn6134d66c36626a6e078c2a0b3db434fc115)
+
+**British Defense Secretary John Healey said that Iran launched two missiles toward Cyprus on March 1, which UK forces intercepted.[[cxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc116)** Cyprus houses thousands of British soldiers.[[cxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc117) Healey noted that he does not believe that Iran was attempting to target Cyprus or UK bases in Cyprus.[[cxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc118)
+
+**Iranian drones and missiles struck several military bases in Iraqi Kurdistan on March 1.** Iranian drones and missiles reportedly struck al Harir Airbase in northern Erbil Province, which houses US forces.[[cxix]](#_edn6134d66c36626a6e078c2a0b3db434fc119) Iranian drones also struck the Erbil Airport, which similarly houses a US military base.[[cxx]](#_edn6134d66c36626a6e078c2a0b3db434fc120) The Iraqi military said it shot down two Iranian drones near the Nasiryah Airbase, which serves as a joint US-Iraqi military base.[[cxxi]](#_edn6134d66c36626a6e078c2a0b3db434fc121)
+
+**Iran may have started attacking vessels around the Strait of Hormuz and the Persian Gulf in retaliation for the combined strike campaign.** **Iran seeks to impose a cost on the United States and its partners and compel them to pursue a ceasefire before achieving their objective of toppling the regime.** United Kingdom Maritime Trade Operations (UKMTO) reported on March 1 that an unspecified projectile exploded in “very close” proximity to a vessel around 35 nautical miles west of Sharjah, the UAE.[[cxxii]](#_edn6134d66c36626a6e078c2a0b3db434fc122) The vessel’s crew is unharmed and authorities are investigating the incident.[[cxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc123) Iran also reportedly conducted a drone attack targeting Sharjah on March 1.[[cxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc124) UKMTO reported two additional attacks on March 1 that targeted a vessel near Mina Saqr, the UAE, and an oil tanker near Muscat, Oman.[[cxxv]](#_edn6134d66c36626a6e078c2a0b3db434fc125) The IRGC claimed that it struck three US- and UK-linked oil tankers with missiles in the Persian Gulf and the Strait of Hormuz, which may be referring to the three attacks reported by the UKMTO.[[cxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc126)
+
+The IRGC also claimed that it conducted several other attacks targeting US-linked vessels in the Strait of Hormuz and the Persian Gulf on March 1. The United States has not confirmed any of these attacks, however. The IRGC claimed that it struck a Maritime Security Program (MSP) vessel with four drones at Jebel Ali Port in the UAE.[[cxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc127) The IRGC claimed that the MSP vessel was transporting ammunition for US vessels and that the strike rendered the MSP vessel inoperable.[[cxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc128) The IRGC also claimed that it launched Qadr-380 medium-range, anti-ship cruise missiles and drones targeting a US Navy combat support vessel about 700 kilometers from Chabahar, Sistan and Baluchistan Province.[[cxxix]](#_edn6134d66c36626a6e078c2a0b3db434fc129) The US vessel was reportedly on a mission to supply fuel to US vessels in the Indian Ocean, according to the IRGC.[[cxxx]](#_edn6134d66c36626a6e078c2a0b3db434fc130) The IRGC noted that Iranian naval forces will continue operations against “enemy units.”[[cxxxi]](#_edn6134d66c36626a6e078c2a0b3db434fc131) The IRGC previously warned vessels transiting through the Strait of Hormuz that “no ship is allowed to pass the Strait of Hormuz.”[[cxxxii]](#_edn6134d66c36626a6e078c2a0b3db434fc132)
+
+These attacks have reduced vessel traffic in the Persian Gulf and the Strait of Hormuz. Commercially available maritime data indicates that vessel traffic in the Persian Gulf has decreased by at least 33 percent as of March 1. Commercial vessel traffic has dropped by 70 percent in the Strait of Hormuz as of February 28, according to ship tracking platform MarineTraffic.[[cxxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fc133) An energy analyst reported on February 28 that several large crude oil tankers have diverted from the Strait of Hormuz or “stopped.“[[cxxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fc134) Twenty percent of the global oil supply passes through the strait.[[cxxxv]](#_edn6134d66c36626a6e078c2a0b3db434fc135) Iranian media claimed on March 1 that three major global shipping companies have suspended transit through the strait, insurance and transit costs have surged, and at least 200 tankers are currently anchored due to the war.[[cxxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fc136) Iranian Foreign Affairs Minister Abbas Araghchi noted on March 1 that Iran has no intention of closing the Strait of Hormuz at “the present time” and does not have any plans to do “anything that would disrupt navigation at this stage.”[[cxxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fc137) It is unlikely that Iranian naval forces could successfully impose a blockade on the Strait of Hormuz, given that such a blockade would require a continuous military presence, according to a risk and compliance analyst.[[cxxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fc138)
+
+**Axis of Resistance Response**
+
+**CTP-ISW is monitoring early reports that Lebanese Hezbollah fired rockets into Israel.[[cxxxix]](#_edn6134d66c36626a6e078c2a0b3db434fc139) This attack would mark the first Hezbollah rocket attack into Israel since the November 2024 Israel-Hezbollah ceasefire agreement.[[cxl]](#_edn6134d66c36626a6e078c2a0b3db434fc140)** Hezbollah Secretary General Naim Qassem stated on March 1 that Hezbollah would “confront the aggression” from the United States and Israel.[[cxli]](#_edn6134d66c36626a6e078c2a0b3db434fc141) Hezbollah also issued a statement on March 1 mourning the death of Iranian Supreme Leader Ali Khamenei.[[cxlii]](#_edn6134d66c36626a6e078c2a0b3db434fc142) CTP-ISW previously assessed that Hezbollah would likely intervene in the current war because the United States and Israel seek regime collapse and have thus crossed Hezbollah’s red line by killing Khamenei.[[cxliii]](#_edn6134d66c36626a6e078c2a0b3db434fc143) CTP-ISW also outlined Hezbollah’s potential courses of action, including a symbolic attack targeting northern Israel, in a February 28 report (read the full report here: [Hezbollah’s Limited Options for Supporting Iran](https://understandingwar.org/research/middle-east/hezbollahs-limited-options-for-supporting-iran/).)[[cxliv]](#_edn6134d66c36626a6e078c2a0b3db434fc144)
+
+**Other members of Iran’s Axis of Resistance, specifically Iranian-backed Iraqi militias, have threatened to retaliate and conducted some attacks targeting Israel and US forces.** Kataib Sayyid al Shuhada, which is a member of the Islamic Resistance in Iraq, mourned the death of Khamenei and threatened to attack the United States and Israel in a February 28 statement.[[cxlv]](#_edn6134d66c36626a6e078c2a0b3db434fc145) The Islamic Resistance in Iraq claimed 23 drone attacks targeting “enemy bases” in Iraq and the region on March 1.[[cxlvi]](#_edn6134d66c36626a6e078c2a0b3db434fc146) Several Iranian-backed Iraqi militias launched ballistic missiles, rockets, and drones targeting the Erbil Airbase, which hosts US forces.[[cxlvii]](#_edn6134d66c36626a6e078c2a0b3db434fc147) Iranian-backed Iraqi militia Saraya Awliya al Dam claimed that its fighters attacked a US base in Erbil with drones in support of Iran.[[cxlviii]](#_edn6134d66c36626a6e078c2a0b3db434fc148) The Islamic Resistance in Iraq also reportedly targeted US forces in Erbil.[[cxlix]](#_edn6134d66c36626a6e078c2a0b3db434fc149) Harakat Hezbollah al Nujaba, which is also a member of the Islamic Resistance in Iraq, is reportedly mobilizing forces to attack US bases.[[cl]](#_edn6134d66c36626a6e078c2a0b3db434fc150) Harakat Hezbollah al Nujaba vowed to storm the US Embassy in Baghdad and kill Americans in retaliation for Khamenei’s death.[[cli]](#_edn6134d66c36626a6e078c2a0b3db434fc151) Iraqi Prime Minister Mohammed Shia al Sudani has reportedly granted Harakat Hezbollah al Nujaba head Akram al Kaabi a ”luxurious residence within the presidential complex” inside the Green Zone in Baghdad to plan and coordinate these attacks.[[clii]](#_edn6134d66c36626a6e078c2a0b3db434fc152)
+
+**Protesters continued to attempt to storm the Green Zone in Baghdad following the combined force’s killing of Iranian Supreme Leader Ali Khamenei.[[cliii]](#_edn6134d66c36626a6e078c2a0b3db434fc153)** The US Embassy is located in the Green Zone. A pro-Iranian social media account circulated a video of hundreds of Iraqi protesters waving flags and igniting fires near the US Embassy.[[cliv]](#_edn6134d66c36626a6e078c2a0b3db434fc154) The protesters reportedly clashed with Iraqi security forces who fired tear gas and stun grenades at the protesters.[[clv]](#_edn6134d66c36626a6e078c2a0b3db434fc155)
+
+**The Houthis have not conducted any retaliatory attacks against Israel at the timing of this writing.** The Houthis have only issued a statement confirming its solidarity with Iran.[[clvi]](#_edn6134d66c36626a6e078c2a0b3db434fc156) The Houthis’ inaction is notable given that the Houthis were the only Axis of Resistance member that participated in the June 2025 Israel-Iran War.[[clvii]](#_edn6134d66c36626a6e078c2a0b3db434fc157) The group's inaction is also notable because Oman-based Houthi spokesperson Mohammad Abdulsalam reportedly told Iranian Supreme National Security Council Secretary Ali Larijani during a meeting in Oman on February 10 that the Houthis were ready to participate in any conflict targeting Iran.[[clviii]](#_edn6134d66c36626a6e078c2a0b3db434fc158) The Houthis could decide at any time to attack US interests or Israel in response to the killing of Iranian Supreme Leader Ali Khamenei, however.
+
+[![](https://www.criticalthreats.org/wp-content/uploads/1013x122-Powered-By-Babel-Street-Logo-RGB-1-1.png)](https://www.criticalthreats.org/wp-content/uploads/1013x122-Powered-By-Babel-Street-Logo-RGB-1-1.png)
+
+---
+
+[[i]](#_edn6134d66c36626a6e078c2a0b3db434fcref1) https://t.me/farsna/414157
+
+[[ii]](#_edn6134d66c36626a6e078c2a0b3db434fcref2) https://www.fardanews dot com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-73/1391956-%D8%AD%D9%85%D9%84%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D9%85%D9%82%D8%B1-%D9%85%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%A7%D9%86-%DA%86%D9%86%D8%AF-%D9%86%D9%81%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B4%D8%AF%D9%86%D8%AF ; <https://t.me/farsna/414157>
+
+[[iii]](#_edn6134d66c36626a6e078c2a0b3db434fcref3) <https://x.com/Vahid/status/2028132878949679527> ; <https://www.criticalthreats.org/wp-content/uploads/2020/01/20200121-Report-Iran%E2%80%99s-Reserve-of-Last-Resort.pdf>
+
+[[iv]](#_edn6134d66c36626a6e078c2a0b3db434fcref4) <https://www.criticalthreats.org/wp-content/uploads/2020/01/20200121-Report-Iran%E2%80%99s-Reserve-of-Last-Resort.pdf>
+
+[[v]](#_edn6134d66c36626a6e078c2a0b3db434fcref5) <https://x.com/IranIntl/status/2028183905375752556?s=20> ; <https://x.com/IranIntl/status/2008882076263592197>
+
+[[vi]](#_edn6134d66c36626a6e078c2a0b3db434fcref6) <https://www.reuters.com/business/media-telecom/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-2026-03-01/>
+
+[[vii]](#_edn6134d66c36626a6e078c2a0b3db434fcref7) <https://www.reuters.com/business/media-telecom/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-2026-03-01/>
+
+[[viii]](#_edn6134d66c36626a6e078c2a0b3db434fcref8) <https://www.reuters.com/business/media-telecom/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-2026-03-01/>
+
+[[ix]](#_edn6134d66c36626a6e078c2a0b3db434fcref9) https://x.com/netblocks/status/2028008024430813368?s=20
+
+[[x]](#_edn6134d66c36626a6e078c2a0b3db434fcref10) <https://www.wsj.com/world/middle-east/the-iranian-force-built-to-defend-the-regime-now-faces-the-ultimate-test-8a1a2cfe?mod=middle-east_news_article_pos1>
+
+[[xi]](#_edn6134d66c36626a6e078c2a0b3db434fcref11) <https://www.wsj.com/world/middle-east/the-iranian-force-built-to-defend-the-regime-now-faces-the-ultimate-test-8a1a2cfe?mod=middle-east_news_article_pos1>
+
+[[xii]](#_edn6134d66c36626a6e078c2a0b3db434fcref12) <https://understandingwar.org/research/middle-east/indicators-of-iranian-regime-instability/>
+
+[[xiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref13) https://x.com/IDFFarsi/status/2028176761834319978?s=20
+
+[[xiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref14) https://x.com/TheGoodISIS/status/2028205371798757543?s=20
+
+[[xv]](#_edn6134d66c36626a6e078c2a0b3db434fcref15) https://x.com/TheGoodISIS/status/2028205371798757543?s=20
+
+[[xvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref16) <https://www.iranintl.com/en/202602258933> ; https://www.reuters.com/world/middle-east/vp-vance-says-us-sees-evidence-iran-is-trying-rebuild-nuclear-weapon-2026-02-25/
+
+[[xvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref17) https://www.pbs.org/newshour/world/read-trumps-full-statement-on-iran-attack
+
+[[xviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref18) <https://www.criticalthreats.org/analysis/iran-update-morning-special-report-march-1-2026#_edn6134d66c36626a6e078c2a0b3db434fc0e5c05a9a044120b55e043d3a9595c6f18> ; https://x.com/michaelh992/status/2028062050174238887?s=20
+
+[[xix]](#_edn6134d66c36626a6e078c2a0b3db434fcref19) https://www.criticalthreats.org/analysis/iran-update-morning-special-report-march-1-2026#\_edn6134d66c36626a6e078c2a0b3db434fc0e5c05a9a044120b55e043d3a9595c6f18
+
+[[xx]](#_edn6134d66c36626a6e078c2a0b3db434fcref20) https://iranwire.com/fa/features/149694-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A7%D8%B9%D8%B1%D8%A7%D9%81%DB%8C-%DA%A9%D9%87-%D8%AD%D8%A7%D9%84%D8%A7-%D8%B9%D8%B6%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D9%82%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA-%DA%A9%DB%8C%D8%B3%D8%AA/
+
+[[xxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref21) https://iranwire.com/fa/features/149694-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A7%D8%B9%D8%B1%D8%A7%D9%81%DB%8C-%DA%A9%D9%87-%D8%AD%D8%A7%D9%84%D8%A7-%D8%B9%D8%B6%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D9%82%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA-%DA%A9%DB%8C%D8%B3%D8%AA/
+
+[[xxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref22) https://iranwire.com/fa/features/149694-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A7%D8%B9%D8%B1%D8%A7%D9%81%DB%8C-%DA%A9%D9%87-%D8%AD%D8%A7%D9%84%D8%A7-%D8%B9%D8%B6%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D9%82%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA-%DA%A9%DB%8C%D8%B3%D8%AA/
+
+[[xxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref23) https://iranwire.com/fa/features/149694-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A7%D8%B9%D8%B1%D8%A7%D9%81%DB%8C-%DA%A9%D9%87-%D8%AD%D8%A7%D9%84%D8%A7-%D8%B9%D8%B6%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D9%82%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA-%DA%A9%DB%8C%D8%B3%D8%AA/
+
+[[xxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref24) https://x.com/IranNuances/status/2028208116387713507?s=20
+
+[[xxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref25) https://www.criticalthreats.org/analysis/iran-update-february-23-2026
+
+[[xxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref26) <https://x.com/JasonMBrodsky/status/2027985567560962089?s=20> ; <https://tasnimnews> dot ir/fa/news/1404/12/10/3528196
+
+[[xxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref27) https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html
+
+[[xxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref28) https://www.mehrnews dot com/news/6631180/
+
+[[xxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref29) https://www.criticalthreats.org/analysis/iran-update-august-4-2025
+
+[[xxx]](#_edn6134d66c36626a6e078c2a0b3db434fcref30) <https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/43448238-0462-5120-923c-cad47c8f062f?smid=url-share> ; <https://x.com/idfonline/status/2028178956122206358?s=20>
+
+[[xxxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref31) https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/43448238-0462-5120-923c-cad47c8f062f?smid=url-share ;
+
+[[xxxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref32) <https://x.com/idfonline/status/2028178956122206358?s=20> ; <https://x.com/LTC_Shoshani/status/2028063010263089429?s=20> ; <https://understandingwar.org/research/middle-east/iran-update-morning-special-report-march-1-2026/>
+
+[[xxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref33) <https://understandingwar.org/research/middle-east/iran-update-special-report-june-14-2025-morning-edition/>
+
+[[xxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref34) <https://x.com/Doranimated/status/2028039623058813278?s=20>
+
+[[xxxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref35) <https://x.com/DefenceGeek/status/2028100259226829277> ; <https://x.com/JenGriffinFNC/status/2028119302516138394> ; <https://x.com/CENTCOM/status/2028153060782973175>
+
+[[xxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref36) <https://x.com/idfonline/status/2028066470731686236?s=20>
+
+[[xxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref37) <https://understandingwar.org/research/middle-east/iran-update-special-report-june-14-2025-evening-edition/> ; <https://theaviationist.com/2025/06/13/israel-attack-iran-details/> ; https://twitter.com/Osinttechnical/status/1933462217233739953?
+
+[[xxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref38) <https://ig.space/commslink/how-the-f-4-phantom-ii-became-the-best-selling--supersonic-fighter-jet-plane> ; <https://www.northropgrumman.com/what-we-do/aircraft/f5-tiger>
+
+[[xxxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref39) <https://understandingwar.org/research/middle-east/iran-update-special-report-june-14-2025-evening-edition/>
+
+[[xl]](#_edn6134d66c36626a6e078c2a0b3db434fcref40) <https://x.com/trbrtc/status/2028150580439285864>
+
+[[xli]](#_edn6134d66c36626a6e078c2a0b3db434fcref41) <https://caspiannews.com/news-detail/irgc-opens-new-airbase-in-southeast-iran-2023-5-11-39/>
+
+[[xlii]](#_edn6134d66c36626a6e078c2a0b3db434fcref42) <https://x.com/Vahid/status/2028184640276574299/photo/1>
+
+[[xliii]](#_edn6134d66c36626a6e078c2a0b3db434fcref43) <https://www.scramble> dot nl/planning/orbats/iran/isl.-rev.-guards-corps-air-force#OISS429
+
+[[xliv]](#_edn6134d66c36626a6e078c2a0b3db434fcref44) <https://x.com/sam_lair/status/2028186809075970342>
+
+[[xlv]](#_edn6134d66c36626a6e078c2a0b3db434fcref45) <https://x.com/sam_lair/status/2028186810913005568> ; <https://understandingwar.org/research/middle-east/iran-update-special-report-june-17-2025-evening-edition/>
+
+[[xlvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref46) <https://x.com/MarioLeb79/status/2028185206406955490>
+
+[[xlvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref47) <https://understandingwar.org/research/middle-east/iran-update-special-report-june-14-2025-evening-edition/> ; <https://understandingwar.org/backgrounder/iran-update-special-report-june-14-2025-morning-edition#:~:text=3%5D%20Satellite%20imagery%20shows%20that,attacks%20on%20Israel.%5B15%5D>
+
+[[xlviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref48) <https://t.me/BenTzionM/6917>
+
+[[xlix]](#_edn6134d66c36626a6e078c2a0b3db434fcref49) <https://x.com/idfonline/status/1936783687271498211> ; <https://x.com/manniefabian/status/1936803848175157610> ; <https://x.com/MeraMeraska/status/1936808147756192223>  ; <https://x.com/ariel_oseran/status/1936784300067750322>
+
+[[l]](#_edn6134d66c36626a6e078c2a0b3db434fcref50) <https://t.me/BenTzionM/6913> ; <https://t.me/BenTzionM/6912> ; <https://t.me/BenTzionM/6914>
+
+[[li]](#_edn6134d66c36626a6e078c2a0b3db434fcref51) <https://t.me/BenTzionM/6912>
+
+[[lii]](#_edn6134d66c36626a6e078c2a0b3db434fcref52) <https://t.me/BenTzionM/6912> ; <https://odin.tradoc.army.mil/WEG/Asset/Shahed-129_Iranian_Medium-Altitude_Long_Endurance_(MALE)_Unmanned_Aerial_Vehicle_(UAV>)
+
+[[liii]](#_edn6134d66c36626a6e078c2a0b3db434fcref53) <https://t.me/BenTzionM/6913>
+
+[[liv]](#_edn6134d66c36626a6e078c2a0b3db434fcref54) <https://t.me/BenTzionM/6913>
+
+[[lv]](#_edn6134d66c36626a6e078c2a0b3db434fcref55) <https://t.me/BenTzionM/6914>
+
+[[lvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref56) <https://t.me/BenTzionM/6914>
+
+[[lvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref57) <https://t.me/BenTzionM/6914> ; <https://osmp.ngo/collection/shahed-131-136-uavs-a-visual-guide/>
+
+[[lviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref58) <https://osmp.ngo/collection/shahed-131-136-uavs-a-visual-guide/> ; <https://iranprimer.usip.org/blog/2024/feb/02/roster-iran%E2%80%99s-drones>
+
+[[lix]](#_edn6134d66c36626a6e078c2a0b3db434fcref59) <https://www.globalmilitary.net/ships/bayandor/>
+
+[[lx]](#_edn6134d66c36626a6e078c2a0b3db434fcref60) <https://forums.civfanatics.com/resources/bayandor-class-corvette.31842/>
+
+[[lxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref61) <https://www.naval-technology.com/news/newsiranian-navy-re-launches-upgraded-bayandor-ship/?cf-view> ; <https://www.globalmilitary.net/ships/bayandor/>
+
+[[lxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref62) <https://www.criticalthreats.org/analysis/iran-update-evening-special-report-february-28-2026>
+
+[[lxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref63) <https://x.com/CENTCOM/status/2028115452036022614?s=20> ; <https://understandingwar.org/research/middle-east/iran-update-special-report-us-and-israeli-strikes-february-28-2026>; <https://x.com/hey_itsmyturn/status/2027695271447032277> ; <https://x.com/boringosint/status/2027754830677131440?s=20>
+
+[[lxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref64) <https://www.naval-technology.com/projects/jamaranmowjclassmult>
+
+[[lxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref65) <https://news.usni.org/2022/09/02/iran-temporarily-captures-two-u-s-saildrones-in-red-sea> ; <https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3808503/june-15-us-central-command-update-on-mv-verbena/>
+
+[[lxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref66) <https://www.globalmilitary.net/ships/moudge/>
+
+[[lxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref67) <https://x.com/TrumpDailyPosts/status/2028160968191332444?s=20>
+
+[[lxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref68) <https://x.com/IranIntl/status/2028204572078907429>
+
+[[lxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref69) <https://www.dia.mil/portals/110/images/news/military_powers_publications/iran_military_power_lr.pdf> ; <https://www.criticalthreats.org/analysis/the-growing-iranian-threat-around-the-strait-of-hormuz>
+
+[[lxx]](#_edn6134d66c36626a6e078c2a0b3db434fcref70) <https://x.com/TrumpDailyPosts/status/2028160968191332444?s=20>
+
+[[lxxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref71) <https://x.com/centcom/status/2028196633230348358?s=46>
+
+[[lxxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref72) <https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl?post-id=cmm81hbva00013b6yz73ufx2m>
+
+[[lxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref73) <https://understandingwar.org/research/middle-east/the-leadership-and-purpose-of-iraqs-popular-mobilization-forces/>
+
+[[lxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref74) <https://x.com/Tammuz_Intel/status/2028189653656862763?s=20> ;
+
+[[lxxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref75) <https://x.com/Tammuz_Intel/status/2028177617040400817?s=20>
+
+[[lxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref76) [https://www.shafaq](https://www.shafaq/) dot com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%87%D8%AC%D9%88%D9%85-%D8%AB%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AD%D8%AF-%D9%85%D9%82%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D8%A8%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1
+
+; <https://t.me/centerkaf/5514> ; <https://t.me/centerkaf/5515> ; <https://t.me/centerkaf/5516>
+
+[[lxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref77) <https://www.washingtoninstitute.org/policy-analysis/profile-islamic-resistance-iraq>
+
+[[lxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref78) <https://www.airandspaceforces.com/us-airstrike-iraq-middle-east-hamas-hezbollah-leaders/>
+
+[[lxxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref79) https://x.com/FaytuksNetwork/status/2028199211699700107?s=20
+
+[[lxxx]](#_edn6134d66c36626a6e078c2a0b3db434fcref80) https://www.criticalthreats.org/analysis/iran-update-morning-special-report-march-1-2026
+
+[[lxxxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref81) https://www.iranintl.com/en/202602285944?source=share-link
+
+[[lxxxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref82) <https://www.youtube.com/watch?v=ijrgHwlQtH8> ; <https://www.criticalthreats.org/briefs/iran-updates/iran-update-special-edition-israeli-strikes-on-iran-june-13-2025> ;  <https://www.nytimes.com/2025/08/30/us/politics/israel-iran-assassination.html>
+
+[[lxxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref83) https://iranwire.com/fa/news-1/149682-%D8%A7%DB%8C%D9%84%D9%86%D8%A7-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%D9%86%DA%98%D8%A7%D8%AF-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/
+
+[[lxxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref84) https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei
+
+[[lxxxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref85) https://home.treasury.gov/news/press-releases/jy1739
+
+[[lxxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref86)  <https://x.com/idfonline/status/2027658205392761152>; <https://x.com/idfonline/status/2027664959635706335>;
+
+https://x.com/idfonline/status/2027693326216855704
+
+; <https://x.com/idfonline/status/2027701760614133787>; https://x.com/idfonline/status/2027703474616426970
+
+; https://x.com/idfonline/status/2027720826716368991
+
+; https://x.com/idfonline/status/2027725308179145003
+
+; https://x.com/idfonline/status/2027726995065344194
+
+; https://x.com/IAFsite/status/2027737011499548992
+
+<https://x.com/IAFsite/status/2027739513380802614>; https://x.com/IAFsite/status/2027742015727755279;
+
+https://x.com/idfonline/status/2027744467743060459;
+
+https://x.com/idfonline/status/2027745048029233269;
+
+https://x.com/idfonline/status/2027753057585389929;
+
+https://x.com/idfonline/status/2027754601059950911;
+
+https://x.com/manniefabian/status/2027759247434322254;
+
+https://x.com/manniefabian/status/2027771664600064144;
+
+https://x.com/manniefabian/status/2027775399900459516;
+
+https://x.com/idfonline/status/2027795907991765072;
+
+https://x.com/manniefabian/status/2027846083792036277;
+
+[[lxxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref87) <https://x.com/idfonline/status/2028068622128591326?s=20>; <https://x.com/manniefabian/status/2028176666615239050>; <https://x.com/manniefabian/status/2028176666615239050>; https://x.com/idfonline/status/2028206129906683923?s=20
+
+[[lxxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref88) <https://x.com/IranIntl_En/status/2027937095377928474>
+
+[[lxxxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref89) <https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html>
+
+[[xc]](#_edn6134d66c36626a6e078c2a0b3db434fcref90) <https://www.wsj.com/world/middle-east/iran-is-shooting-at-some-of-the-worlds-busiest-airports-bb660b8e?mod=middle-east_more_article_pos1>
+
+[[xci]](#_edn6134d66c36626a6e078c2a0b3db434fcref91) <https://www.wsj.com/world/middle-east/iran-is-shooting-at-some-of-the-worlds-busiest-airports-bb660b8e?mod=middle-east_more_article_pos1>
+
+[[xcii]](#_edn6134d66c36626a6e078c2a0b3db434fcref92) <https://www.wsj.com/world/middle-east/iran-is-shooting-at-some-of-the-worlds-busiest-airports-bb660b8e?mod=middle-east_more_article_pos1>
+
+[[xciii]](#_edn6134d66c36626a6e078c2a0b3db434fcref93) <https://x.com/IDFFarsi/status/2028067589864202626/video/4> ; <https://x.com/manniefabian/status/2028182188370354641>
+
+[[xciv]](#_edn6134d66c36626a6e078c2a0b3db434fcref94) <https://www.criticalthreats.org/analysis/iran-update-june-26-2025>; <https://understandingwar.org/research/middle-east/iran-update-special-report-june-20-2025-evening-edition/>
+
+[[xcv]](#_edn6134d66c36626a6e078c2a0b3db434fcref95) https://x.com/manniefabian/status/2027763118164566145
+
+[[xcvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref96) https://www.jpost dot com/middle-east/iran-news/article-888422
+
+[[xcvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref97) https://www.jpost dot com/middle-east/iran-news/article-888422
+
+[[xcviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref98) <https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html>
+
+[[xcix]](#_edn6134d66c36626a6e078c2a0b3db434fcref99) <https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html>
+
+[[c]](#_edn6134d66c36626a6e078c2a0b3db434fcref100) <https://www.cbs17.com/news/national-news/us-service-members-in-kuwait-were-killed-in-military-operation-against-iran/>  ; https://x.com/FaytuksNetwork/status/2028142565560660467                  https://x.com/WillUnderhill23/status/2028213945861812382?s=20                  https://x.com/Osint613/status/2028128710822330577?s=20
+
+[[ci]](#_edn6134d66c36626a6e078c2a0b3db434fcref101) <https://t.me/farsna/414180>
+
+[[cii]](#_edn6134d66c36626a6e078c2a0b3db434fcref102) <https://hasacoship.com/zayed-port/> ; <https://www.middleeasteye.net/news/blasts-hit-dubai-and-abu-dhabi-uae-sucked-us-israel-conflict-iran>
+
+[[ciii]](#_edn6134d66c36626a6e078c2a0b3db434fcref103) <https://www.businesstoday.in/world/story/why-iran-struck-dubai-despite-no-official-us-military-base-518623-2026-03-01> ; <https://t.me/BenTzionM/6909>
+
+[[civ]](#_edn6134d66c36626a6e078c2a0b3db434fcref104) <https://x.com/no_itsmyturn/status/2028180883987927148>
+
+[[cv]](#_edn6134d66c36626a6e078c2a0b3db434fcref105)  <https://x.com/GeoRaccoon/status/2028115877967655298?s=20> ; <https://x.com/FaytuksNetwork/status/2028206325780431243> ; <https://x.com/MOD_Qatar/status/2028043866318770588> ; <https://x.com/Doranimated/status/2028026265660277245?s=20> ; <https://x.com/GLZRadio/status/2028026806259900781> ; <https://x.com/ADMediaOffice/status/2028027436953395635>
+
+[[cvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref106) <https://x.com/GLZRadio/status/2028026806259900781> ; <https://x.com/MenchOsint/status/2028035229089239464>
+
+[[cvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref107) <https://agsi.org/analysis/u-s-secures-access-to-omans-crowded-ports/>
+
+[[cviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref108) <https://agsi.org/analysis/u-s-secures-access-to-omans-crowded-ports/>
+
+[[cix]](#_edn6134d66c36626a6e078c2a0b3db434fcref109) https://www.aljazeera dot com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet ; <https://x.com/FaytuksNetwork/status/2028206325780431243>
+
+[[cx]](#_edn6134d66c36626a6e078c2a0b3db434fcref110) <https://www.reuters.com/world/middle-east/iran-missiles-brings-war-gulf-doorstep-hardens-support-usisrael-campaign-2026-02-28/>
+
+[[cxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref111) https://www.thenationalnews dot com/news/uae/2026/02/28/irans-strikes-on-gulf-could-lead-to-long-term-hostility-says-uaes-gargash/
+
+[[cxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref112) <https://www.washingtonpost.com/politics/2026/02/28/trump-iran-decision-saudi-arabia-israel/>
+
+[[cxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref113) https://english dot aawsat.com/gulf/5245738-saudi-arabia-strongly-condemns-failed-cowardly-iranian-attacks-targeting-riyadh-and; <https://x.com/sentdefender/status/2028136793745334540>
+
+[[cxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref114) https://www.bundesregierung.de/breg-de/aktuelles/e3-statement-on-indiscriminate-iranian-attacks-on-countries-in-the-region-2409178
+
+[[cxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref115) https://www.bloomberg.com/news/articles/2026-03-01/uk-allows-us-use-of-bases-to-destroy-iranian-missile-depots
+
+[[cxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref116) <https://x.com/IranIntlbrk/status/2028042760721174818?s=20>
+
+[[cxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref117) <https://x.com/IranIntlbrk/status/2028042760721174818?s=20>
+
+[[cxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref118) <https://x.com/ariel_oseran/status/2028043773322678610>
+
+[[cxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref119) <https://www.facebook.com/RoyaNewsEnglish/posts/news-media-outlets-reported-that-new-explosions-struck-the-harir-us-military-bas/1360471252787578/> ; <https://t.me/mehrnews/353222> ; https://www.jpost dot com/middle-east/iran-news/article-888439
+
+[[cxx]](#_edn6134d66c36626a6e078c2a0b3db434fcref120) <https://www.wsj.com/livecoverage/iran-strikes-2026/card/iran-drone-strike-hits-erbil-international-airport-in-iraq-eCcY2JFUCqnRfVeeReWr?gaa_at=eafs&gaa_n=AWEtsqf0IJN5ZoZRXbSeVj1mEE1-9xlFqQsknYfbPdpEgDc6ZRdORT5AixUi&gaa_ts=69a50bd4&gaa_sig=-CEkSJ9yd4n140a7AZk460JViXhOUr_jztsTrUyfedQESOiIIBP4ljurG7V4Bo_icWbBlcJjlGhbuQPFnAKfsw%3D%3D> ; <https://x.com/sentdefender/status/2027949858540105762?s=20>
+
+[[cxxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref121) <https://x.com/anadoluagency/status/2027901152550134107> ; <https://x.com/FaytuksNetwork/status/2027863022677446892>
+
+[[cxxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref122) <https://x.com/UK_MTO/status/2028163665539592518?s=20>
+
+[[cxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref123) <https://x.com/UK_MTO/status/2028163665539592518?s=20>
+
+[[cxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref124) <https://x.com/Osint613/status/2028086004607750459?s=20>
+
+[[cxxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref125) <https://x.com/UK_MTO/status/2028099126475288999>   ; <https://x.com/UK_MTO/status/2028072085239554129>   ; <https://x.com/MarineTraffic/status/2028104988845543654?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet>
+
+[[cxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref126) <https://t.me/farsna/414226>
+
+[[cxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref127) <https://t.me/mehrnews/353209>
+
+[[cxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref128) <https://t.me/mehrnews/353209>
+
+[[cxxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref129) <https://t.me/QudsN/667345> ; <https://t.me/mehrnews/353209>
+
+[[cxxx]](#_edn6134d66c36626a6e078c2a0b3db434fcref130) <https://t.me/mehrnews/353209>
+
+[[cxxxi]](#_edn6134d66c36626a6e078c2a0b3db434fcref131) <https://t.me/mehrnews/353209>
+
+[[cxxxii]](#_edn6134d66c36626a6e078c2a0b3db434fcref132) <https://www.reuters.com/world/middle-east/irans-revolutionary-guards-tell-ships-passage-through-strait-hormuz-not-allowed-2026-02-28/>
+
+[[cxxxiii]](#_edn6134d66c36626a6e078c2a0b3db434fcref133) <https://www.nytimes.com/2026/02/28/world/middleeast/strait-of-hormuz-ship-traffic.html>
+
+[[cxxxiv]](#_edn6134d66c36626a6e078c2a0b3db434fcref134) <https://x.com/yui_torikata/status/2027868266321088773?s=20>
+
+[[cxxxv]](#_edn6134d66c36626a6e078c2a0b3db434fcref135) <https://www.nytimes.com/2026/02/28/world/middleeast/strait-of-hormuz-ship-traffic.html> ; <https://www.foxbusiness.com/politics/oil-markets-edge-iran-moves-restrict-vital-strait-hormuz-shipping-lane-report>  ; <https://www.eia.gov/todayinenergy/detail.php?id=65504>
+
+[[cxxxvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref136) <https://t.me/farsna/414226>
+
+[[cxxxvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref137) <https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl?post-id=cmm7v08ls00003j6xhavbri96>
+
+[[cxxxviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref138) <https://www.nytimes.com/2026/02/28/world/middleeast/strait-of-hormuz-ship-traffic.html>
+
+[[cxxxix]](#_edn6134d66c36626a6e078c2a0b3db434fcref139) https://www.ynetnews dot com/article/bj5jpbmfbl
+
+[[cxl]](#_edn6134d66c36626a6e078c2a0b3db434fcref140) https://www.ynetnews dot com/article/bj5jpbmfbl
+
+[[cxli]](#_edn6134d66c36626a6e078c2a0b3db434fcref141) <https://t.me/mmirleb/10206>
+
+[[cxlii]](#_edn6134d66c36626a6e078c2a0b3db434fcref142) <https://t.me/mmirleb/10207>
+
+[[cxliii]](#_edn6134d66c36626a6e078c2a0b3db434fcref143) https://www.almanar dot com.lb/article/512087/ ; https://www.iranintl.com/en/202602258801 ; <https://understandingwar.org/research/middle-east/hezbollahs-limited-options-for-supporting-iran/>
+
+[[cxliv]](#_edn6134d66c36626a6e078c2a0b3db434fcref144) <https://understandingwar.org/research/middle-east/hezbollahs-limited-options-for-supporting-iran/>
+
+[[cxlv]](#_edn6134d66c36626a6e078c2a0b3db434fcref145) <https://t.me/Smedia1/1711>
+
+[[cxlvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref146) <https://t.me/ElamAlmoqawama/1553>
+
+[[cxlvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref147) <https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl?post-id=cmm80uaj200003b6qqtqfzrwu> ; <https://t.me/farsna/414224> ; <https://t.me/farsna/414214> ; <https://t.me/QudsN/667217>
+
+[[cxlviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref148) <https://t.me/QudsN/667223>
+
+[[cxlix]](#_edn6134d66c36626a6e078c2a0b3db434fcref149) <https://t.me/QudsN/667234>
+
+[[cl]](#_edn6134d66c36626a6e078c2a0b3db434fcref150) <https://x.com/MPPregent/status/2028183419042017579>
+
+[[cli]](#_edn6134d66c36626a6e078c2a0b3db434fcref151)  <https://x.com/MPPregent/status/2028183419042017579>
+
+[[clii]](#_edn6134d66c36626a6e078c2a0b3db434fcref152) <https://x.com/MPPregent/status/2028183419042017579>
+
+[[cliii]](#_edn6134d66c36626a6e078c2a0b3db434fcref153) <https://t.me/QudsN/667265>
+
+[[cliv]](#_edn6134d66c36626a6e078c2a0b3db434fcref154) <https://t.me/QudsN/667265>
+
+[[clv]](#_edn6134d66c36626a6e078c2a0b3db434fcref155) <https://t.me/QudsN/667308> ; https://www.thehindu dot com/news/international/protesters-police-clash-near-us-embassy-in-baghdad/article70692873.ece ; <https://www.facebook.com/reel/1621053375755622>
+
+[[clvi]](#_edn6134d66c36626a6e078c2a0b3db434fcref156) <https://x.com/MMY1444/status/2027829608721121715>
+
+[[clvii]](#_edn6134d66c36626a6e078c2a0b3db434fcref157) <https://x.com/idfonline/status/1933563526682923342> ; <https://x.com/idfonline/status/1933568664785088767>
+
+[[clviii]](#_edn6134d66c36626a6e078c2a0b3db434fcref158) https://almasdaronline dot com/articles/337905 ; https://tasnimnews dot ir/fa/news/1404/11/21/3514264
+
+View Citations

@@ -1,0 +1,824 @@
+Iran War Updates: Week of May 11, 2026 to May 17, 2026
+Articles included: 7
+
+============================================================
+Article date: May 11, 2026
+Original file: iran-update-special-report-may-11-2026.md
+============================================================
+
+# Iran Update Special Report, May 11, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/>*
+
+## Key Takeaways
+
+1. Iranian leaders are trying to dictate the terms for ending the war, which illustrates that the Iranian regime perceives that it has the upper hand in the conflict at this time. Iran’s proposed terms would require the United States to give up its leverage over Iran before any negotiations could take place, which would likely make it more challenging to extract nuclear concessions from Iran. Iran has not provided any guarantees that it would engage in nuclear negotiations, let alone make nuclear concessions, even if the United States accepted its terms.
+2. Commercially available maritime data appears to indicate that some vessels may be complying with Iran’s new transit regulations in the Strait of Hormuz. Recognition of Iran’s “sovereignty” over the strait would fundamentally remake regional and global maritime norms in a manner extremely detrimental to US interests.
+3. Iranian Armed Forces General Staff-run media claimed that the Iranian regime has deployed 10,000 first-person view (FPV) drones to the Artesh Ground Forces since the 12-Day War in June 2025. Iranian forces would likely use these drones to try to defend against potential ground operations in Iranian territory.
+4. Iran is likely providing Hezbollah and Iranian-backed Iraqi militias with FPV drone technology. Hezbollah and Iraqi militias have consistently conducted attacks targeting Israeli and US forces and assets using FPV drones during the current conflict.
+
+## Toplines
+
+**Iranian leaders are trying to dictate the terms for ending the war, which illustrates that the Iranian regime perceives that it has the upper hand in the conflict at this time. Iran’s proposed terms would require the United States to give up its leverage over Iran before any negotiations could take place, which would likely make it more challenging to extract nuclear concessions from Iran.** Islamic Revolutionary Guards Corps (IRGC) Baghiyatollah Sociocultural Headquarters Commander Major General Mohammad Ali Jafari stated on May 11 that Iran will not enter negotiations with the United States until the United States accepts Iran’s terms.[1] Jafari stated that Iran’s terms include an end to the war on “all fronts,” the lifting of sanctions, the release of frozen Iranian assets, compensation for war-related damages, and recognition of Iran’s sovereignty over the Strait of Hormuz.[2] Jafari is a long-time member of the IRGC and previously served as the IRGC commander between 2007 and 2019.[3] Jafari, along with other IRGC officials such as IRGC Commander Major General Ahmad Vahidi, pushed for Mojtaba Khamenei’s appointment after the death of Ali Khamenei.[4] Jafari has ties to Vahidi dating back to the Iran-Iraq War, and the terms he outlined likely reflect Vahidi’s negotiating position.[5] IRGC-affiliated Tasnim News Agency echoed Jafari’s remarks and emphasized that Iranian demands include an end to the US naval blockade and Iranian “management” of the Strait of Hormuz.[6] These terms would fulfill Iran’s war aims while stripping the United States of its leverage in future negotiations.
+
+**Iran has not provided any guarantees that it would engage in nuclear negotiations, let alone make nuclear concessions, even if the United States accepted its terms.** The *Wall Street Journal* reported on May 10 that Iran offered to halt enrichment for a period of less than 20 years and dilute or transfer its highly enriched uranium in its recent counterproposal to the United States.[7] Tasnim News Agency rejected the *Wall Street Journal* report and claimed that the report was “not based on reality,” especially its content related to Iran’s nuclear materials.[8] Atomic Energy Organization of Iran head Mohammad Eslami told Iranian Parliamentary National Security and Foreign Policy Commission members on May 11 that nuclear technology and enrichment are not negotiable.[9] Commission members emphasized the need to protect Iran’s nuclear facilities, preserve Iran’s nuclear achievements, and defend Iran’s nuclear rights.[10]
+
+**Commercially available maritime data appears to indicate that some vessels may be complying with Iran’s new transit regulations in the Strait of Hormuz.[11] Recognition of Iran’s “sovereignty” over the strait would fundamentally remake regional and global maritime norms in a manner extremely detrimental to US interests.** Commercially available maritime data shows that 21 vessels have transited through the Strait of Hormuz since ISW-CTP’s last data cutoff, including nine vessels that entered the strait and 12 that exited it.[12] Eight of the 21 vessels used the Iranian-approved transit route.[13] IRGC-affiliated Tasnim News Agency also claimed that several vessels used the Iranian-approved route on May 11.[14] Some of the vessels that transited through the strait self-reported their destination as the nationalities of their owners and crews, likely to avoid being attacked by Iranian forces. Some vessels similarly declared the nationalities of their owners and crews while passing through the Red Sea to avoid Houthi attacks during the Houthis’ attack campaign against international shipping between October 2023 and November 2024.[15] The high number of vessels that used the Iranian-approved transit route suggests that these vessels may have complied with Iranian transit regulations. Iran’s “Persian Gulf Strait Authority” recently outlined on May 6 a series of stringent conditions that vessels must meet if they wish to safely pass through the strait.[16] These conditions include paying Iran a fee and providing extensive information about the vessel’s owner and crew. Iran has also continued to selectively allow only certain ships to transit through the Strait. Bloomberg reported on May 11 that a tanker carrying liquified natural gas (LNG) from Qatar turned away from the strait after approaching an area that Iran claims to control, while IRGC-affiliated media claimed that Iran prevented the vessel from passing through the strait.[17]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Traffic-Entering-The-Strait-of-Hormuz-May-11-2026-scaled.webp)](https://understandingwar.org/map/traffic-entering-the-strait-of-hormuz-between-may-10-2026-at-200-pm-et-and-may-11-2026-at-200-pm-et/)](https://understandingwar.org/map/traffic-entering-the-strait-of-hormuz-between-may-10-2026-at-200-pm-et-and-may-11-2026-at-200-pm-et/ "Traffic Entering the Strait of Hormuz, Between May 10, 2026 at 2:00 PM ET and May 11, 2026 at 2:00 PM ET")
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Traffic-Exiting-The-Strait-of-Hormuz-May-11-2026-scaled.webp)](https://understandingwar.org/map/traffic-exiting-the-strait-of-hormuz-between-may-10-2026-at-200-pm-et-and-may-11-2026-at-200-pm-et/)](https://understandingwar.org/map/traffic-exiting-the-strait-of-hormuz-between-may-10-2026-at-200-pm-et-and-may-11-2026-at-200-pm-et/ "Traffic Exiting the Strait of Hormuz, Between May 10, 2026 at 2:00 PM ET and May 11, 2026 at 2:00 PM ET")
+
+**US President Donald Trump told Fox News on May 11 that he is considering renewing “Project Freedom” as part of a larger military operation against Iran.[18]** Trump previously launched Project Freedom on May 3 to guide commercial vessels through the strait and undermine Iran’s effort to control shipping through the strait.[19]
+
+**Reuters reported on May 7 that the United Arab Emirates (UAE) has taken steps to continue exporting oil through the Strait of Hormuz despite Iranian efforts to “control” the strait.[20] Iran’s recent attacks against the UAE may have been intended, in part, to impose a cost on the UAE for violating Iran’s regulations in the strait and to demonstrate Iran’s “control” over the waterway.** Reuters, citing industry sources and shipping data firms, reported that the UAE has taken steps, such as turningoff its ships’ automatic identification systems (AIS) and using ship-to-ship transfers, to evade Iranian detection.[21] The Abu Dhabi National Oil Company (ADNOC) used these methods in April 2026 to export at least 6 million barrels of crude oil on four tankers from the UAE, including from Fujairah Port. Iran conducted a drone attack against an unspecified target in the Fujairah Petroleum Industrial Zone on May 4.[22] Iran also attacked an ADNOC tankerwith drones as it attempted to pass through the strait on May 4.[23] Iran may have conducted these attacks in response to the UAE ignoring Iranian transit regulations in the strait and to demonstrate Iran’s “control” over traffic in the strait.
+
+**Iranian Armed Forces General Staff-run media claimed that the Iranian regime has deployed 10,000 first-person view (FPV) drones to the Artesh Ground Forces since the 12-Day War in June 2025.[24] Iranian forces would likely use these drones to try to defend against potential ground operations in Iranian territory.** Defa Press claimed on May 10 that the Iranian Defense and Armed Forces Logistics Ministry and Artesh Self-Sufficiency Jihad Organization have supplied the Artesh Ground Forces with 10,000 FPV drones and “related ammunition” in recent months.[25] The outlet added that the Artesh Ground Forces began integrating FPV drones at the brigade level following the 12-Day War in June 2025.[26] The integration of FPV drones at the brigade level suggests that the drones are likely intended to confront potential ground operations.[27] Iran could also use FPV drones in operations against Kurdish and Baloch militants in northwestern and southeastern Iran, respectively.[28]
+
+**Iran is likely providing Hezbollah and Iranian-backed Iraqi militias with FPV drone technology.** Hezbollah and Iraqi militias have consistently conducted attacks targeting Israeli and US forces and assets using FPV drones during the current conflict.[29] FPV drones, particularly fiber-optic FPV drones, have enabled Hezbollah to conduct successful high-precision attacks on Israeli military targets at a relatively low cost.[30] An Israeli research organization reported on May 11 that most fiber-optic FPV drones cost Hezbollah between $300 and $400 USD per unit, whereas radio-controlled FPV drones cost over $1,000 USD per unit.[31] Fiber-optic FPV drones are also resistant to jamming because they do not emit a transmission signal that electronic warfare systems can disrupt.[32] The Israel Defense Forces (IDF) has also struggled to disrupt Hezbollah’s FPV drone capabilities because Hezbollah has decentralized its command-and-control (C2) network for FPV drone operators and dispersed them across various units in southern Lebanon.[33] An Israeli military correspondent reported on May 11 that the IDF has killed less than 10 of Hezbollah’s roughly 100 FPV drone operators during the current conflict due to Hezbollah’s decentralized C2 network.[34] Hezbollah has demonstrated the capability to use FPV drones in cross-border attacks on sensitive military equipment. The group recently posted video footage of two FPV drone attacks damaging an Israeli Iron Dome missile defense battery near the Israel-Lebanon border on May 7 and 8, for example.[35] IDF sources confirmed on May 11 that a Hezbollah drone struck an Iron Dome battery and announced that the IDF is investigating the incident.[36]
+
+![Hezbollah-Claimed Attacks By Type Between April 20, 2026 and May 10, 2026](https://understandingwar.org/wp-content/uploads/2026/05/Hezbollah-Ceasefire-Claimed-Attacks-by-Type-April-20-May-10-FINAL.webp "Hezbollah-Claimed Attacks By Type Between April 20, 2026 and May 10, 2026")
+
+The Defa Press report comes after *The Economist* reported on May 8 that Russia offered to provide Iran with 5,000 short-range fiber-optic drones, citing Russian intelligence documents likely from the first six weeks of the US-Israel-Iran War.[37] Russia reportedly also offered Iran an unspecified number of longer-range satellite-guided drones equipped with Starlink terminals as well as training for Iranian personnel to operate both systems.[38]One of the diagrams in the Russian intelligence documents depicted Russian-trained Iranian drone operators attacking an amphibious landing force through coordinated drone swarms launched from concealed positions in response to a US operation to reopen the Strait of Hormuz or seize Kharg Island.[39]
+
+## Maritime Development
+
+*See topline text.*
+
+## US and Israeli Air Campaign
+
+*Nothing significant to report.*
+
+## Iranian Internal Dynamics
+
+**Iran is attempting to rebuild its internal security apparatus, likely in part due to concerns about renewed public unrest.** The combined force struck multiple Iranian internal security institutions during its six-week campaign in February and March.[40] Iranian President Masoud Pezeshkian stated during a meeting with Iranian Law Enforcement Command (LEC) Commander Brigadier General Ahmad Reza Radan and other LEC commanders on May 11 that his administration will “seriously pursue and provide” the LEC with equipment and resources to rebuild damaged LEC facilities.[41] This meeting comes after anti-regime media reported on April 28 that the Supreme National Security Council (SNSC) convened a meeting chaired by SNSC Secretary Mohammad Bagher Zolghadr—a close ally of IRGC Commander Major General Ahmad Vahidi — to discuss the possible resumption of protests due to worsening economic conditions.[42] It is notable that Pezeshkian met with Radan because Pezeshkian is one of Iran’s officials who is most concerned about Iran’s struggling economy. Pezeshkian has previously emphasized the importance of financial gains from negotiations, such as sanctions relief and the release of frozen Iranian assets, as necessary for Iran to pay for the estimated $300 billion USD in losses from the war with the United States and Israel.[43]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/US-and-Israeli-Strikes-Against-Iranian-Internal-Security-in-Tehran-February-28-to-April-7-2026.webp)](https://understandingwar.org/map/us-and-israeli-strikes-targeting-internal-security-in-tehran-between-february-28-2026-and-april-7-2026/)](https://understandingwar.org/map/us-and-israeli-strikes-targeting-internal-security-in-tehran-between-february-28-2026-and-april-7-2026/ "US and Israeli Strikes Targeting Internal Security in Tehran, Between February 28, 2026 and April 7, 2026")
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+**The IDF is reportedly preparing to expand its ground operations in Lebanon due to Hezbollah’s ongoing attacks, specifically FPV drone attacks, against Israeli targets.** An IDF source told Israeli media on May 11 that IDF ground forces are preparing for an expanded ground operation in the event that Israel’s political echelon approves such an operation.[44] The Israeli Air Force and Israeli officials have recently called for the IDF to expand its operations in southern Lebanon to combat the threat of Hezbollah FPV drones.[45] The IDF has expanded the scope of its airstrikes in Lebanon over the past week, including conducting strikes in the Bekaa Valley and north of the Litani River.[46] IDF Chief of Staff Lieutenant General Eyal Zamir previously instructed the IDF to target Hezbollah’s FPV drone production and supply chain infrastructure “beyond southern Lebanon.”[47] An Israeli Army Radio correspondent reiterated on May 11 that Hezbollah’s FPV drone operators are mostly in parts of southern Lebanon beyond the IDF’s “yellow line.”[48] The IDF also struck a Hezbollah drone launch site in southern Lebanon on May 9.[49] This strike is notable because the IDF has rarely targeted Hezbollah drone launch sites or operators in the current conflict, as noted above.[50] An unspecified IDF source noted that the strike marked the beginning of a new “offensive policy” in which the IDF will conduct more strikes to disrupt Hezbollah’s drone activity and kill Hezbollah drone operators.[51]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Lebanon-ISR-Airstrikes-May-11-2026.webp)](https://understandingwar.org/map/israeli-strikes-in-lebanon-between-may-10-2026-at-200-pm-et-and-may-11-2026-at-200-pm-et/)](https://understandingwar.org/map/israeli-strikes-in-lebanon-between-may-10-2026-at-200-pm-et-and-may-11-2026-at-200-pm-et/ "Israeli Strikes in Lebanon, Between May 10, 2026 at 2:00 PM ET and May 11, 2026 at 2:00 PM ET")
+
+**The IDF’s preparations come amid US and Lebanese efforts to secure a lasting ceasefire and ahead of direct negotiations between Lebanese and Israeli officials.** A Lebanese source recently told Saudi media on May 8 that the United States is engaged in serious efforts to secure a ceasefire between Lebanon and Israel before the start of direct negotiations.[52] Lebanese and Israeli officials are scheduled to meet for direct negotiations in Washington, DC, on May 14 and 15.[53]Israeli and Lebanese military officials, including the IDF Strategic Division head and the Lebanese Armed Forces attaché in Washington, General Oliver Hakme, will attend the meeting, unlike previous talks that solely included ambassadors.[54] Unspecified sources confirmed to Lebanese media on May 11 that the upcoming talks ”will not be like its predecessors” and will have a greater focus on disarming Hezbollah.[55] Israeli media confirmed that the talks will focus on Hezbollah disarmament, border issues, and Lebanon’s demand for an Israeli withdrawal, but reiterated that Israel will not withdraw from Lebanese territory until Hezbollah is disarmed.[56] The Lebanese government is focused on securing a lasting ceasefire in Lebanon before addressing other issues, however.[57] A Lebanese source confirmed to Saudi media that Lebanon will not discuss key issues until a ceasefire is secured.[58]
+
+## Other Axis of Resistance Response
+
+*Nothing significant to report.*
+
+Endnotes
+
+[1] https://t.me/farsna/434872  
+[2] https://t.me/farsna/434872  
+[3] https://www.reuters.com/world/middle-east/iran-doesnt-expect-major-israeli-retaliation-revolutionary-guards-ex-chief-says-2024-10-22/  
+[4] https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html  
+[5] https://iranwire.com/en/features/65973/  
+[6] https://t.me/TasnimNewsEN/59605  
+[7] https://www.wsj.com/livecoverage/iran-war-trump-news/card/iran-s-lengthy-response-to-the-u-s-leaves-some-gaps-jVJkux8wKbRUWK9EOOp9  
+[8] https://t.me/TasnimNewsEN/59605  
+[9] https://defapress dot ir/fa/news/833451  
+[10] https://defapress dot ir/fa/news/833451  
+[11] Starboard Maritime Data, available by subscription  
+[12] Starboard Maritime Data, available by subscription  
+[13] Starboard Maritime Data, available by subscription  
+[14] https://t.me/Tasnimnews/414599  
+[15] https://www.reuters.com/world/middle-east/maritime-sources-expect-houthis-halt-red-sea-attacks-after-gaza-deal-2025-01-16/ ;  
+https://www.reuters.com/world/middle-east/houthi-attacks-merchant-ships-red-sea-2025-01-16/  
+[16] https://understandingwar.org/research/middle-east/iran-must-not-rule-the-strait-of-hormuz/  
+[17] https://www.bloomberg.com/news/articles/2026-05-11/another-qatar-lng-shipment-approaches-hormuz-bound-for-pakistan ;  
+https://t.me/sepah\_pasdaran/197326  
+[18] https://x.com/JasonMBrodsky/status/2053853026708811953?s=20  
+[19] https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4476318/us-military-supports-launch-of-project-freedom-in-strait-of-hormuz/  
+[20] https://www.reuters.com/business/energy/hungry-sell-uae-slips-hidden-oil-tankers-through-strait-hormuz-2026-05-07/  
+[21] https://www.reuters.com/business/energy/hungry-sell-uae-slips-hidden-oil-tankers-through-strait-hormuz-2026-05-07/  
+[22] https://www.reuters.com/world/middle-east/uaes-fujairah-says-fire-breaks-out-petroleum-complex-after-iranian-drone-attack-2026-05-04/ ;  
+https://x.com/mofauae/status/2051340515694751923?s=20  
+[23] https://www.reuters.com/world/middle-east/tanker-hit-by-unknown-projectiles-off-uaes-fujairah-ukmto-says-2026-05-04/  
+[24] https://t.me/defapress\_ir/58509  
+[25] https://t.me/defapress\_ir/58509  
+[26] https://t.me/defapress\_ir/58509  
+[27] https://understandingwar.org/research/middle-east/iran-update-special-report-may-8-2026/ ; https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-18-2026/  
+[28] https://t.me/defapress\_ir/57198; https://t.me/presstv/187564; https://understandingwar.org/research/middle-east/iran-update-special-report-april-29-2026/  
+[29] https://t.me/mmirleb/15878 ; https://t.me/mmirleb/15959 ; https://t.me/Jaysh\_AlGhadab/223 ; https://t.me/ElamAlmoqawama/1605 ; https://understandingwar.org/research/middle-east/iran-update-special-report-march-25-2026/ ; https://understandingwar.org/research/middle-east/iran-update-special-report-march-31-2026/  
+[30] https://t.me/mmirleb/15959 ; https://israel-alma dot org/special-report-hezbollahs-fpv-explosive-drone-threat/  
+[31] https://israel-alma dot org/special-report-hezbollahs-fpv-explosive-drone-threat/  
+[32] https://www.mako dot co.il/news-military/2026\_q2/Article-b5d78530be51e91026.htm ; https://israel-alma dot org/special-report-hezbollahs-fpv-explosive-drone-threat/  
+[33] https://t.me/moriahdoron/30732  
+[34] https://t.me/moriahdoron/30732  
+[35] https://t.me/mmirleb/15959  
+[36] https://t.me/moriahdoron/30732  
+[37] https://understandingwar.org/research/middle-east/iran-update-special-report-may-8-2026/; https://www.economist.com/europe/2026/05/07/secret-document-reveals-russias-plans-to-aid-iran  
+[38] https://understandingwar.org/research/middle-east/iran-update-special-report-may-8-2026/; https://www.economist.com/europe/2026/05/07/secret-document-reveals-russias-plans-to-aid-iran  
+[39] https://understandingwar.org/research/middle-east/iran-update-special-report-may-8-2026/; https://www.economist.com/europe/2026/05/07/secret-document-reveals-russias-plans-to-aid-iran  
+[40] https://www.criticalthreats.org/analysis/iran-update-evening-special-report-march-19-2026  
+[41] https://x.com/IranIntl/status/2053752158315594063?s=20  
+[42] https://www.iranintl.com/202604277990?source=share-link  
+[43] https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html  
+[44] https://www.mako dot co.il/news-military/2026\_q2/Article-b5d78530be51e91026.htm  
+[45] https://www.jpost dot com/israel-news/defense-news/article-894837  
+[46] https://www.newarab.com/news/lebanon-israeli-strikes-kill-four-bekaa-despite-ceasefire ; https://today.lorientlejour dot com/article/1505960/another-deadly-day-in-lebanon-as-israeli-army-intensifies-strikes-in-the-bekaa-valley.html  
+[47] https://www.ynetnews dot com/article/byujmvmabg#google\_vignette  
+[48] https://t.me/moriahdoron/30732  
+[49] https://x.com/AvichayAdraee/status/2053155171333517676  
+[50] https://www.mako.co dot il/pzm-soldiers/Article-9f12b7eedc01e91026.htm ; https://t.me/moriahdoron/30732  
+[51] https://www.mako.co dot il/pzm-soldiers/Article-9f12b7eedc01e91026.htm  
+[52] https://english.aawsat dot com/arab-world/5271102-us-aims-consolidate-lebanon-israel-ceasefire-negotiations  
+[53] https://www.jpost dot com/middle-east/article-895587  
+[54] https://www.nidaalwatan dot com/article/380804-حزب-الله-يشن-هجوم-الذعروخطة-ضرب-الدولة-الموازية-تنطلق-الخميس ; https://www.i24news dot tv/en/news/international/artc-in-3rd-round-of-israel-lebanon-talks-israel-says-idf-withdrawal-not-under-discussion-before-hezbollah-disarmament ; https://english.aawsat dot com/arab-world/5271102-us-aims-consolidate-lebanon-israel-ceasefire-negotiations  
+[55] https://www.nidaalwatan dot com/article/380804-حزب-الله-يشن-هجوم-الذعروخطة-ضرب-الدولة-الموازية-تنطلق-الخميس  
+[56] https://www.i24news dot tv/en/news/international/artc-in-3rd-round-of-israel-lebanon-talks-israel-says-idf-withdrawal-not-under-discussion-before-hezbollah-disarmament  
+[57] https://english.aawsat dot com/arab-world/5271102-us-aims-consolidate-lebanon-israel-ceasefire-negotiations ; https://x.com/LBpresidency/status/2053760973027074557?s=20 ; https://www.reuters.com/world/lebanon-urges-us-put-pressure-israel-stop-attacks-demolitions-2026-05-11/  
+[58] https://english.aawsat dot com/arab-world/5271102-us-aims-consolidate-lebanon-israel-ceasefire-negotiations
+
+============================================================
+Article date: May 12, 2026
+Original file: iran-update-special-report-may-12-2026.md
+============================================================
+
+# Iran Update Special Report, May 12, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-12-2026/>*
+
+## Key Takeaways
+
+1. Iran’s consistent pursuit of international recognition of Iranian sovereignty over the Strait of Hormuz reinforces ISW-CTP’s previous assessment that Iran views control of the waterway as its most important tool of deterrence against future US or allied military action, because such recognition would allow it to restrict activity in the strait whenever it wills. Iranian sovereignty and control over the strait would have severe consequences for global shipping for all countries dependent on maritime trade, but especially the Gulf States.
+2. Iran is likely preparing for a resumption of hostilities. The Kuwaiti government stated on May 12 that six Islamic Revolutionary Guard Corps (IRGC) officers attempted to infiltrate Kuwait’s Bubiyan Island on May 1, though their exact objective was unclear. Bubiyan Island offers a host of opportunities for the IRGC to stage operations, conduct intelligence, sabotage nearby facilities, or some combination of all three. The Iranian military will reportedly also conduct drills at Mahshahr Port on May 12, which is approximately 100 kilometers away from Bubiyan Island. The IRGC Navy could use these drills to prepare for new operations if the ceasefire collapses or to disperse vessels ahead of resumed strikes.
+3. Iran may also be trying to protect some of its military assets by repositioning them in countries it calculates that the United States would not attack. CBS reported on May 12 that Iran repositioned military and civilian aircraft in Pakistan and Afghanistan, respectively, shortly after the ceasefire on April 8.
+4. The Iranian regime appears to view preparations for renewed conflict with the United States and Israel as inseparable from preparations to secure the regime internally and conduct operations against potential domestic unrest. The Tehran Province IRGC Mohammad Rasoul Ollah Unit conducted an exercise in Tehran Province on May 12. The unit is one of the regime’s most important internal security formations and serves as the primary IRGC command responsible for security in Tehran Province.
+
+## Toplines
+
+**Iran’s consistent pursuit of international recognition of Iranian sovereignty over the Strait of Hormuz reinforces ISW-CTP’s previous assessment that Iran views control of the waterway as its most important tool of deterrence against future US or allied military action, because such recognition would allow it to restrict activity in the strait whenever it wills.[1]** Senior Iranian officials have repeatedly signaled that Iran does not intend to relinquish its claims to the Strait of Hormuz, including through statements attributed to Supreme Leader Mojtaba Khamenei and public comments by close advisers.[2] Iran is simultaneously attempting to normalize and formalize its control of the strait through rhetoric and operational measures. IRGC Navy Political Deputy Brigadier General Mohammad Akbarzadeh claimed on May 12 that the strait’s “operational area” has expanded from “around islands such as Hormuz and Hengam” and a narrow “20-30 mile corridor into a 200-300 mile crescent stretching from Jask and Sirik to beyond Qeshm Island and the Greater Tunb.”[3] It is unclear what Akbarzadeh means by “operational area” in this context. Akbarzadeh’s omission of other countries’ land and maritime territories in the strait in his statement to Iranian media suggests Iran’s intent to define much of the surrounding maritime space as effectively under Iranian management, however. Supreme Leader adviser Mohammad Mokhber more explicitly stated on May 8 that the strait carries strategic value comparable to a nuclear weapon, enabling Iran to influence the global economy “with one decision,” and asserting that Iran “will not lose the strait under any circumstances.”[4] Iran also instituted a new transit regime on May 7 that requires vessels to receive Iranian regulations by email and submit detailed ownership, nationality, and crew information to Iran’s ”Persian Gulf Strait Authority” to obtain authorization for passage.[5] IRGC-affiliated media continues to frame routine maritime transit as contingent on Iranian permission, such as on May 12, when IRGC-affiliated media reported that Iranian forces “allowed” a second Qatari tanker to pass through the strait.[6]
+
+**Iran has made clear that it will not negotiate without guarantees or credible deterrence against future military attacks, including sovereignty over the Strait of Hormuz.** An Al Jazeera journalist, citing a well‑informed source familiar with the negotiations, reported on May 12 that the Iranian negotiating team has been instructed to insist on five preconditions before entering nuclear talks: a complete end to the war on all fronts, the lifting of all sanctions, the release of frozen Iranian assets, compensation for war‑related damages and losses, and formal recognition of Iran’s sovereign rights over the Strait of Hormuz.[7] Former IRGC commander and Mojtaba Khamenei confidant Major General Mohammad Ali Jafari publicly articulated these same demands on May 11, signaling alignment between Iran’s negotiating strategy and senior IRGC leadership.[8] *Sobh*‑*e No*, a newspaper affiliated with Parliament Speaker Mohammad Bagher Ghalibaf, who led Iran‘s negotiating team, separately reported Iran’s latest proposal, which provided a similar list of uncompromising positions.[9] The framework reported by *Sobh-e No* also proposed a monitoring mechanism and a UN Security Council resolution as a guarantee against future US or allied attacks.[10]
+
+**Iranian sovereignty and control over the Strait of Hormuz would have severe consequences for global shipping for all countries dependent on maritime trade, but especially the Gulf States.** *The Economist* reported on May 12 that the ongoing conflict has already cut Saudi oil exports by roughly a third and UAE exports by about half, while Bahrain, Qatar, and Kuwait are exporting almost no energy products.[11] The head of Saudi Aramco warned on May 10 that if trade and shipping remain constrained for more than a few weeks, supply disruptions could persist for years, with markets potentially not normalizing until 2027.[12] Iran, if its control of the strait were to be recognized, could impose similar costs on the Gulf States at any time and for any reason, and point to the recognition of its control to legitimize its actions.
+
+**The United States has continued to impose economic pressure on Iran through the naval blockade and sanctions.** US Central Command (CENTCOM) announced on May 12 that US naval forces have redirected 65 Iranian commercial vessels and disabled four more.[13] US President Trump told CNN on May 12 that he is confident the United States will get Iran’s highly enriched uranium despite the lack of progress in negotiations.[14] He added that the United States does not need to rush anything because of the blockade, which the Trump Administration assesses has continued to apply pressure on Iran. The US Treasury Department on May 11 sanctioned three Iranian individuals affiliated with Iran’s illicit oil sales to the People’s Republic of China (PRC).[15] The Treasury sanctioned IRGC Shahid Purja’fari Oil Headquarters chief Ahmad Mohammadi Zadeh, finance chief Samad Fathi Salami, and commercial chief Mohammadreza Ashrafi Ghehi. The IDF reported that it killed Ghehi in strikes on Tehran on April 5.[16]
+
+**Some European countries have indicated their willingness to assist the US mission to secure commercial shipping in the Strait of Hormuz. British and Lithuanian officials have caveated their involvement by noting that they will not assist until “conditions allow,” and they have a “clear” understanding of US requirements, respectively.** British Defense Minister John Healey stated during a virtual summit with counterparts from at least 40 nations on May 12 that the United Kingdom would contribute autonomous mine-hunting equipment, Typhoon ‌fighter jets, and the destroyer HMS Dragon to help secure commercial navigation in the strait, but only “when conditions allowed.”[17] Lithuania may also contribute to minesweeping efforts after the country’s Defense Council sent a proposal to Parliament on May 11 advocating for the provision of 40 soldiers and personnel to help the US mission.[18] Lithuanian President Gitanas Nausėda stated on May 12 that the implementation of the proposal still awaits a clear understanding of US operational needs in the strait and the role other allies would play, however. France announced on May 6 that it sent its Charles de Gaulle aircraft carrier group to the Red Sea to assist in the potential mission.[19]
+
+**Iran is likely preparing for a resumption of hostilities.**[20] The Kuwaiti government stated on May 12 that six Islamic Revolutionary Guard Corps (IRGC) officers attempted to infiltrate Kuwait’s Bubiyan Island on May 1, though their exact objective was unclear.[21] Kuwaiti state media reported on May 12 that six IRGC officers attempted to infiltrate Bubiyan Island on May 1 via a chartered fishing boat to carry out unspecified “hostile acts” against Kuwait.[22] The IRGC officers reportedly engaged Kuwaiti military forces on Bubiyan Island on May 1, which led Kuwaiti forces to capture two IRGC Navy (IRGC-N) colonels, an IRGC-N captain, and an IRGC Ground Forces lieutenant, while two other IRGC Navy captains managed to flee, according to Kuwaiti state media.[23] Kuwaiti state media added that the engagement injured a Kuwaiti soldier.[24]
+
+The IRGC’s attempt to insert six officers onto Bubiyan Island amid uncertainty about the future of the ceasefire indicates that Iran is preparing for resumed hostilities. Bubiyan Island offers a host of opportunities for the IRGC to stage operations, conduct intelligence, sabotage nearby facilities, or some combination of all three.
+
+It is particularly notable in the context of the insertion attempt that the Iranian military will reportedly conduct drills at Mahshahr Port on May 12, which is approximately 100 kilometers away from Bubiyan Island. Mahshahr hosts the IRGC Navy 3rd Imam Hossein Region base, but it is unclear at which base the exercise will take place.[25] The combined force previously struck the IRGC Navy 3rd Imam Hossein Region base on March 2.[26] The IRGC Navy could use these drills to prepare for new operations if the ceasefire collapses or to disperse vessels ahead of resumed strikes.
+
+Iran may also be trying to protect some of its military assets by repositioning them in countries it calculates that the United States would not attack. CBS reported on May 12 that Iran repositioned military and civilian aircraft in Pakistan and Afghanistan, respectively, shortly after the ceasefire on April 8.[27] This movement would shield the aircraft from strikes. Pakistan has been the primary mediator for US-Iran talks after the ceasefire.[28] US officials with knowledge of the matter reportedly told CBS that Iran sent multiple aircraft, including an Iranian Air Force RC-130 recon aircraft, to Pakistani Air Force Base Nur Khan near Rawalpindi “days after President Trump announced the ceasefire.”[29] This report added that Iran sent civilian aircraft to Afghanistan, but that it was unclear whether Iran also sent military aircraft.[30] Pakistan’s Foreign Affairs Ministry confirmed on May 12 the presence of Iran’s aircraft but denied that they had “[any] linkage whatsoever to any military contingency or preservation arrangement.”[31]
+
+**The Iranian regime appears to view preparations for renewed conflict with the United States and Israel as inseparable from preparations to secure the regime internally and conduct operations against potential domestic unrest.** The Tehran Province IRGC Mohammad Rasoul Ollah Unit conducted an exercise in Tehran Province on May 12.[32] The unit commander, Brigadier General Hassan Hassanzadeh, stated that the exercise aimed to improve combat readiness against US-Israeli “enemy” activity.[33] The Mohammad Rasoul Ollah Unit is one of the regime’s most important internal security formations and serves as the primary IRGC command responsible for security in Tehran Province.[34] The unit also oversees major Basij and rapid-response security units in the capital and historically played a central role in suppressing unrest in Tehran Province.[35] Exercise imagery showed IRGC personnel operating mounted heavy machine guns, shoulder-fired rocket-propelled grenades (RPG), motorcycles, and trucks during the exercise.[36] The Iranian regime previously used heavy machine guns to brutally crack down on protesters during the December 2025-January 2026 protest.[37] The exercise comes after anti-regime media reported on April 28 that the Supreme National Security Council (SNSC) convened a meeting chaired by SNSC Secretary Mohammad Bagher Zolghadr—a close ally of IRGC Commander Major General Ahmad Vahidi—to discuss the possible resumption of protests due to worsening economic conditions.[38]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Iranian-Preparations-for-a-Potential-Conflict-May-12-2026-1.webp)](https://understandingwar.org/map/iranian-preparations-for-a-potential-conflict-as-of-may-12-2026-at-200-pm-et-2/)](https://understandingwar.org/map/iranian-preparations-for-a-potential-conflict-as-of-may-12-2026-at-200-pm-et-2/ "Iranian Preparations for a Potential Conflict, As of May 12, 2026 at 2:00 PM ET")
+
+**Western media reported that the United Arab Emirates (UAE) and Saudi Arabia launched undeclared strikes against Iran during the war.** The *Wall Street Journal* reported on May 11 that the UAE struck an Iranian oil refinery on Lavan Island around the time President Trump announced the ceasefire on April 8, citing people familiar with the matter.[39] Iran stated at the time that the refinery had been struck and retaliated with strikes against the UAE and Kuwait.[40] The UAE has not publicly acknowledged its strike on the refinery at the time of this writing. Iran has targeted the UAE more than any other country during the war. Reuters reported on May 12 that Saudi Arabia also launched undeclared strikes against Iran during the war, citing two Western and two Iranian officials.[41] One of the Western officials added that Saudi strikes were in retaliation for Iranian aggression against Saudi Arabia. It is unclear what the targets of the Saudi strikes were.
+
+## Maritime Development
+
+*See the topline section.*
+
+## US and Israeli Air Campaign
+
+*Nothing significant to report.*
+
+## Iranian Internal Dynamics
+
+**The IRGC appears to be consolidating influence over Iran’s internal power and leadership structure under IRGC Commander Major General Ahmad Vahidi and his inner circle.** An anti-regime outlet, citing journalists and regime-affiliated media, reported on May 12 that Iranian Supreme Leader Mojtaba Khamenei appointed Mehdi Khamoushi as his new chief of staff.[42] Khamoushi reportedly replaced former Supreme Leader Ali Khamenei’s Deputy Chief of Staff for Political and Security Affairs, Ali Asghar Hejazi.[43] Anti-regime media previously reported that figures around Mojtaba sought to remove Hejazi because Hejazi opposed Mojtaba’s succession.[44] Hejazi reportedly warned the Assembly of Experts members that Mojtaba’s selection would hand full control of the country to the IRGC and permanently eliminate administrative institutions.[45] The *New York Times* reported on March 16 that IRGC Commander Major General Ahmad Vahidi, former IRGC Commander Major General Mohammad Ali Jafari, and other senior IRGC-linked figures pushed the Assembly of Experts to select Mojtaba following Ali Khamenei’s death.[46] Khamoushi’s reported appointment, therefore, appears consistent with a broader pattern in which Mojtaba and IRGC-aligned actors increasingly sideline figures who oppose the growing role of the IRGC in political decision-making. ISW-CTP previously assessed that Vahidi and his inner circle likely consolidated substantial influence over Iran’s military response, negotiations policy, and strategic decision-making following the outbreak of the war with the United States and Israel.[47]
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+**The IDF continues to invest in expanding its first-person view (FPV) drone capabilities and countermeasures.** An Israeli military correspondent reported on May 12 that the IDF is developing a factory to indigenize Israel’s FPV drone and drone component production.[48] The IDF intends to eliminate its reliance on Chinese component manufacturers for FPV drones and has assessed that the factory will be capable of producing thousands of drones per month by mid-July.[49]
+
+The correspondent also reported that the IDF Ground Technological Division is experimenting with rotating barbed-wire fencing as a countermeasure against Hezbollah’s fiber-optic FPV drones.[50] Ukrainian forces first implemented this countermeasure to disable Russian FPV drones in September 2025, in which a battery-operated motor rotates strands of barbed wire to catch and sever FPV drones’ fiber-optic cables.[51] A senior IDF officer assessed on May 12 that combining several FPV drone countermeasures is likely to be more effective against Hezbollah FPV drones than any single method deployed at scale.[52] The IDF has adopted many drone countermeasures, such as equipping Israeli soldiers with hunting shotguns for targeting FPV drones, from Ukrainian and Russian battlefield adaptations.[53] The IDF has expanded its investment in FPV drone capabilities and countermeasures as Hezbollah has demonstrated its ability to strike sensitive military targets on Israeli territory. Hezbollah conducted two FPV drone attacks that damaged an Israeli Iron Dome missile defense battery in northern Israel on May 7 and 8, for example.[54] The IDF has struggled to disrupt Hezbollah’s FPV drone capabilities because Hezbollah has decentralized its command-and-control (C2) network for FPV drone operators, dispersing operators across units in southern Lebanon.[55]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Israeli-Advances-in-Lebanon-May-12-2026-scaled.webp)](https://understandingwar.org/map/israeli-advances-in-lebanon-as-of-may-12-2026-at-200-pm-et/)](https://understandingwar.org/map/israeli-advances-in-lebanon-as-of-may-12-2026-at-200-pm-et/ "Israeli Advances in Lebanon, As of May 12, 2026 at 2:00 PM ET")
+
+**Israeli soldiers crossed the Litani River for the first time during the current Israeli campaign in Lebanon to establish “operational control” over territory south of the IDF’s “yellow line” in southern Lebanon.** The IDF said that the 1st (Golani) Infantry Brigade (36th Division) Reconnaissance Unit crossed the Litani River and established “operational control” over Zawtar al Charqiyeh, Nabatieh District, by conducting clearing operations and destroying Hezbollah infrastructure, including tunnels and mortar launch sites, over the past week.[56] Zawtar al Charqiyeh is located around 10 kilometers north of the Israel-Lebanon border and is located on the edge of the IDF’s “yellow line” on the right bank of the Litani River (see above).[57] An Israeli military correspondent reported on May 12 that the 1st Infantry Brigade did not advance beyond the “yellow line.”[58] The 1st Infantry Brigade reported that it killed “dozens” of Hezbollah fighters in small arms engagements during the week-long operation.[59] This report indicates that Hezbollah fighters remain deployed in at least some fixed positions within the Israeli “buffer zone” that is intended to keep Hezbollah fighters out of anti-tank guided missile (ATGM) range of northern Israeli communities.[60] Hezbollah has typically avoided direct engagements with the IDF ground forces since the start of the temporary ceasefire on April 16, typically choosing to conduct harassing fire with dispersed units throughout Lebanon.[61] Hezbollah fighters previously engaged 1st Infantry Brigade soldiers attempting to advance north from Deir Seryan, Marjaayoun District, toward Zawtar al Charqiyeh on May 4, however.[62] Hezbollah has repeatedly claimed drone and rocket attacks against IDF forces in Deir Seryan since the start of the temporary ceasefire.[63] The IDF also reported that it completed engineering work to allow armored vehicles to cross the Litani River with greater ease in future operations, amid Israeli media reports that the IDF is preparing to expand its ground operations in Lebanon.[64]
+
+## Other Axis of Resistance Response
+
+**The Popular Mobilization Forces (PMF) announced on May 12 that it conducted operations in the Iraqi desert to ensure Iraqi sovereignty, months after an Israeli deployment in the desert that has since departed. The PMF operations to ensure Iraq’s sovereignty are likely an information effort aimed at demonstrating that the PMF is fulfilling its mission.[65]** The PMF is an Iraqi state security service with 200,000 personnel that was founded to secure Iraqi territory.[66] In practice, the PMF contains dozens of militias, some of which the Iraqi government has little control over.[67] Many of the militias are more concerned with their own parochial or ideological interests than fulfilling their legally-mandated mission or following orders dictated to them by the Iraqi prime minister. The PMF operations in the desert were likely designed to achieve a domestic informational effect and not a practical effect because other Iraqi security forces had already searched the Iraqi desert.[68] Some of these forces engaged Israeli forces in March and took casualties.[69]
+
+Endnotes
+
+[1] https://understandingwar.org/research/middle-east/iran-update-special-report-may-8-2026/  
+[2] https://t.me/rahbar\_enghelab\_ir/374; https://t.me/mehrnews/377775 ; https://www.khabaronline dot ir/news/2216274; https://understandingwar.org/research/middle-east/iran-must-not-rule-the-strait-of-hormuz/; https://t.me/rahbar\_enghelab\_ir/353  
+[3] https://t.me/Tasnimnews/414736  
+[4] https://understandingwar.org/research/middle-east/iran-update-special-report-may-8-2026/; https://t.me/mehrnews/377775 ; https://www.khabaronline dot ir/news/2216274  
+[5] https://understandingwar.org/research/middle-east/iran-update-special-report-may-7-2026/; https://t.me/farsna/434108; https://www.cnn.com/2026/05/07/world/live-news/trump-iran-war-news?post-id=cmovbtqcc000b3b6qwzvnxckn  
+[6] https://t.me/farsna/435127  
+[7] https://x.com/Alihashem/status/2054234848198291642?s=20  
+[8] https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/;  
+https://t.me/farsna/434872  
+[9] https://t.me/sobhe\_no/112218  
+[10] https://t.me/sobhe\_no/112218  
+[11] https://www.economist.com/middle-east-and-africa/2026/05/11/a-prolonged-iran-crisis-could-irreversibly-damage-gulf-states  
+[12] https://www.economist.com/middle-east-and-africa/2026/05/11/a-prolonged-iran-crisis-could-irreversibly-damage-gulf-states  
+[13] https://x.com/CENTCOM/status/2054175561036042261  
+[14] https://www.cnn.com/2026/05/12/world/live-news/trump-iran-war-news?post-id=cmp2n0pg600003b68iff4c94u  
+[15] https://home.treasury.gov/news/press-releases/sb0498  
+[16] https://x.com/idfonline/status/2040762602834346480?s=20  
+[17] https://www.reuters.com/world/uk-send-drones-jets-warship-join-defensive-mission-securing-strait-hormuz-2026-05-12/  
+[18] https://ve dot lt/aktualijos/lietuva/nauseda-kol-kas-anksti-kalbeti-apie-detalu-lietuvos-indeli-hormuzo-misijoje  
+[19] https://www.reuters.com/world/middle-east/french-aircraft-carrier-group-moving-into-red-sea-gulf-aden-2026-05-06/  
+[20] https://x.com/kuna\_ar/status/2054149697569161432 ; https://24 dot ae/article/957997/ ; https://t.me/Tasnimnews/414711  
+[21] https://x.com/kuna\_ar/status/2054149697569161432 ; https://24 dot ae/article/957997/  
+[22] https://x.com/kuna\_ar/status/2054149697569161432 ; https://24 dot ae/article/957997/  
+[23] https://x.com/kuna\_ar/status/2054149697569161432 ; https://24 dot ae/article/957997/  
+[24] https://x.com/kuna\_ar/status/2054149697569161432 ; https://24 dot ae/article/957997/  
+[25] https://israel-alma dot org/wp-content/uploads/2024/04/Islamic-Revolutionary-Guard-Corps-Navy-IRGCN-.pdf ; https://maps.app.goo.gl/EjZDVwMFij3jsAff7 ; https://maps.app.goo.gl/Jfv2BhEXy8QB52Yj6  
+[26] https://t.me/BenTzionM/6931 ; https://x.com/zarGEOINT/status/2028374829091758431  
+[27] https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/  
+[28] https://www.criticalthreats.org/analysis/iran-update-evening-special-report-april-7-2026  
+[29] https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/  
+[30] https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/  
+[31] https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/  
+[32] https://t.me/iribnews/338440 ;  
+https://www.irib-news dot ir/fa/news/5790850  
+[33] https://t.me/iribnews/338440 ;  
+https://www.irib-news dot ir/fa/news/5790850  
+[34] https://www.unitedagainstnucleariran.com/sites/default/files/FINAL%20-%20The%20Tharallah%20Headquarters%20Unveiled%20JAN%2026.pdf ;  
+https://iranwire.com/en/features/65740-the-irgc-headquarters/  
+[35] https://www.unitedagainstnucleariran.com/sites/default/files/FINAL%20-%20The%20Tharallah%20Headquarters%20Unveiled%20JAN%2026.pdf  
+[36] https://www.irib-news dt ir/fa/news/5790850  
+[37] https://www.bbc.com/news/articles/c0mgndkklvmo?accountMarketingPreferences=off  
+[38] https://www.iranintl.com/202604277990?source=share-link  
+[39] https://www.wsj.com/articles/the-u-a-e-has-been-secretly-carrying-out-attacks-on-iran-f1745a0d  
+[40] https://www.wsj.com/articles/the-u-a-e-has-been-secretly-carrying-out-attacks-on-iran-f1745a0d  
+[41] https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/  
+[42] https://iranwire.com/en/features/152296-what-do-we-know-irans-absent-leaders-chief-of-staff/ ;  
+https://x.com/NoorbakhshReza/status/2043298324946493951?s=20 ;  
+https://t.me/abdimedianet/44042 ;  
+https://x.com/rassam\_hossein/status/2053470496960692597  
+[43] https://x.com/GanjiAkbar/status/2040513869307650082?s=20  
+[44] https://www.iranintl.com/202603314615?source=share-link  
+[45] https://www.iranintl.com/202603314615?source=share-link  
+[46] https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html  
+[47] https://understandingwar.org/research/middle-east/iran-update-special-report-april-18-2026/ ;  
+https://understandingwar.org/research/middle-east/iran-update-special-report-april-24-2026/  
+[48] https://t.me/moriahdoron/30746  
+[49] https://t.me/moriahdoron/30746  
+[50] https://t.me/moriahdoron/30752  
+[51] https://militarnyi dot com/en/news/russians-discover-ukrainian-solution-to-fiber-optic-drones/ ; https://t.me/moriahdoron/30752  
+[52] https://t.me/moriahdoron/30752  
+[53] https://x.com/inon\_yttach/status/2051351575231176739?s=20 ; https://understandingwar.org/research/russia-ukraine/russian-force-generation-and-technological-adaptations-update-june-6-2025/ ; https://www.armyrecognition.com/news/army-news/2026/russia-issues-shotguns-to-infantry-units-as-emergency-defense-against-drone-attacks ; https://www.businessinsider.com/ukraine-soldiers-best-chance-russia-fiber-optic-drones-shotguns-2025-6  
+[54] https://t.me/mmirleb/15959  
+[55] https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/ ; https://t.me/moriahdoron/30732  
+[56] https://x.com/manniefabian/status/2054116724371308824 ; https://www.idf dot il/340752 ; https://www.i24news dot tv/en/news/israel/defense/artc-idf-crosses-litani-river-and-reaches-one-of-deepest-points-in-southern-lebanon ; https://x.com/MarioLeb79/status/2054106804724932683?s=20  
+[57] https://x.com/manniefabian/status/2054116724371308824 ; https://www.idf dot il/340752 ; https://www.i24news dot tv/en/news/israel/defense/artc-idf-crosses-litani-river-and-reaches-one-of-deepest-points-in-southern-lebanon ; https://x.com/MarioLeb79/status/2054106804724932683?s=20  
+[58] https://x.com/manniefabian/status/2054116724371308824  
+[59] https://x.com/manniefabian/status/2054116724371308824 ; https://x.com/AvichayAdraee/status/2054117361272123448 ; https://www.idf dot il/340752 ; https://t.me/moriahdoron/30771  
+[60] https://x.com/IsraeliPM\_heb/status/2048811178621604137 ; https://x.com/manniefabian/status/2041397765138166177?s=20  
+[61] https://understandingwar.org/research/middle-east/iran-update-special-report-may-6-2026/  
+[62] https://t.me/mmirleb/15726 ; https://t.me/moriahdoron/30557 ; https://t.me/moriahdoron/30558  
+[63] https://t.me/mmirleb/16060 ; https://t.me/mmirleb/16046 ; https://t.me/mmirleb/15726 ; https://t.me/mmirleb/15796 ; https://t.me/mmirleb/15935  
+[64] https://x.com/manniefabian/status/2054116724371308824 ; https://www.mako dot co.il/news-military/2026\_q2/Article-b5d78530be51e91026.htm ; https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/  
+[65] https://al-hashed.gov dot iq/2026/05/12/الحشد-والجيش-يطلقان-عملية-واسعة-لفرض-ا/  
+[66] https://www.washingtoninstitute.org/policy-analysis/extraordinary-popular-mobilization-force-expansion-numbers ; https://www.washingtoninstitute.org/policy-analysis/honored-not-contained-future-iraqs-popular-mobilization-forces  
+[67] https://understandingwar.org/research/middle-east/the-leadership-and-purpose-of-iraqs-popular-mobilization-forces/  
+[68] https://shafaq dot com/ar/أمـن/العمليات-المشتركة-لا-وجود-لقوات-و-معدات-عسكرية-في-صحرا-كربلا-والنجف  
+[69] https://x.com/SecMedCell/status/2029129222942232849 ; https://www.shafaq dot com/ar/أمـن/هل-وقع-نزال-جوي-في-بادية-كربلا-روايات-متضاربة-بعد-قصف-جوي
+
+============================================================
+Article date: May 13, 2026
+Original file: iran-update-special-report-may-13-2026.md
+============================================================
+
+# Iran Update Special Report, May 13, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-13-2026/>*
+
+## Key Takeaways
+
+1. Iran’s efforts to reconstitute its military capabilities during the ceasefire period are consistent with the behavior of any military organization when given time and space to reconstitute itself after combat. These tactical and operational reconstitution efforts, however, do not necessarily offset the strategic effects achieved during the war against ballistic missile production facilities.
+2. Iran’s growing emphasis on the Strait of Hormuz reflects a broader, emerging consensus around the idea that the Strait of Hormuz must be central to Iranian strategy and deterrence in the future. Iranian strategy before October 7 and the events thereafter, including the Spring 2026 war, revolved primarily around ballistic missiles, drones, and its proxy and partner network as deterrents and force projection tools. Naval assets around the Strait of Hormuz featured only secondarily and as part of this wider three-pillar system.
+3. Some regime officials and outlets have floated new ideas about how the regime could use the Strait of Hormuz to discourage behavior that the regime believes is contrary to its interests. Many of these proposals, if accepted and operationalized, would also provide Iran with new revenues that would enable it to reconstitute its military forces.
+4. Some regional states appear to be complying with Iranian-imposed transit procedures in the Strait of Hormuz, which normalizes Iran’s claim that vessels need Iranian permission to transit the waterway. Five unspecified sources told Reuters on May 12 that Iraq and Pakistan reached agreements with Iran to move crude oil and liquefied natural gas (LNG) through the strait.
+
+## Toplines
+
+**Iran’s efforts to reconstitute its military capabilities during the ceasefire period are consistent with the behavior of any military organization when given time and space to reconstitute itself after combat.** ISW-CTP has continued to assess that Iran will exploit the ceasefire period to reorganize and regenerate its military capabilities at the tactical and operational levels, where it can recover relatively quickly.[1] Recent leaked US intelligence assessments, as reported by Western media, estimate that Iran has regained access to 90 percent of its underground missile storage and launch facilities, many of which remain at least partially operational, that were buried due to US-Israeli airstrikes.[2] Iranian forces have likely also reestablished communications between units and commanders and begun restoring force morale—both of which were disrupted during the war due to US-Israeli airstrikes and had significantly degraded Iran’s ability to conduct operations to achieve its objectives.[3] Recent US intelligence assessments also estimate that Iran still has about 70 percent of its mobile launchers and 70 percent of its prewar missile stockpile, including both ballistic and cruise missiles.[4] US forces buried some of these assets during combat operations, which rendered the buried assets combat ineffective. Any military force, including the Iranians, would use the time and space granted by the ceasefire to reconstitute itself. The restoration of underground missile storage and launch facilities means that Iran was degraded operationally and then prepared itself for a new round of fighting. US forces have surely also prepared for a new round of fighting. Russia has reportedly supported Iranian reconstitution efforts by sending drone components to Iran.[5]
+
+These tactical and operational reconstitution efforts, however, do not necessarily offset the strategic effects achieved during the war against ballistic missile production facilities. The US-Israeli combined force aimed to disrupt the Iranian missile force at the operational level to prevent it from executing its campaign plan while degrading it at the strategic level in order to prevent it from expanding its stockpile and building more advanced systems.[6] The combined force struck virtually every element of the production and supply chain at the strategic level, from raw material facilities (preparing steel, aluminum, missile fuel, etc.) to final assembly plants, and severely degraded Iran’s defense industrial base that supports its military capabilities.[7] Iran’s long-term recovery depends on rebuilding this defense industrial base, a process likely constrained by limited access to resources due to the US naval blockade and ongoing sanctions targeting Iranian illicit oil sales and the procurement of weapons-related systems and components.[8] Iran will need significant time and resources to rebuild these capacities and will likely face challenges in reconstituting its military capabilities, given the scale of the damage to the production chain and limited resources available.
+
+**Iran’s growing emphasis on the Strait of Hormuz reflects a broader, emerging consensus around the idea that the Strait of Hormuz must be central to Iranian strategy and deterrence in the future. Iranian strategy before October 7 and the events thereafter, including the Spring 2026 war, revolved primarily around ballistic missiles, drones, and its proxy and partner network as deterrents and force projection tools.** Naval assets around the Strait of Hormuz featured only secondarily and as part of this wider three-pillar system, not as the main element. The failure of Iran’s direct attacks on Israel in 2024 exposed the limits of Iran’s missile arsenal, which failed to effectively penetrate Israeli defenses or destroy critical military targets at scale.[9] Iran’s traditional deterrence architecture also failed to prevent repeated US and Israeli strikes in 2024, 2025, and 2026.[10] The series of US and Israeli attacks over the last two years demonstrates that traditional Iranian measures have failed to discourage or prevent military attack.  This has led to a shift wherein Iranian officials have begun to elevate the position of the strait in Iranian strategic thinking and discourse. Iranian officials are now viewing the strait as co-equal to nuclear weapons in achieving deterrence, while also enabling Tehran to extract revenue and compel states to follow Iranian rules and regulations about behavior towards Tehran.[11]
+
+Some regime officials and outlets have floated new ideas about how the regime could use the Strait of Hormuz to prevent actions that the regime believes are contrary to its interests. Artesh Spokesperson Brigadier General Mohammad Akraminia stated on May 13 that Iran will no longer allow US weapons to pass through the strait to regional bases, which presumably includes US warships bound for Manama, Bahrain—the headquarters of the US 5th Fleet.[12] Such rules could extend to French or UK naval vessels as well, if those countries act in a manner that Tehran believes is contrary to Iranian interests. The United Kingdom (UK) has naval facilities in Bahrain, and France has naval facilities in the United Arab Emirates (UAE).[13] Islamic Revolutionary Guards Corps (IRGC)-affiliated Fars and Tasnim news agencies recently published articles urging the regime to assert sovereignty over subsea fiber-optic cables running through the strait and charge foreign operators for using cables installed on seabeds under Iranian control.[14] Major subsea cables, including the Asia-Africa-Europe 1 (AAE-1), FALCON, and the Gulf Bridge International Cable System, run through the Strait of Hormuz and support digital connectivity between Asia, the Gulf, and Europe.[15] Three of seven cables–FALCON, GBICS, OMRAN/EPEG cables–connect to Iran and run through the strait.[16] Fars argued that “cables have the same status as ships” in the strait and that Iran can apply the same transit rules to fiber-optic cables that it applies to vessels.[17] Tasnim proposed requiring annual licenses from foreign cable operators and forcing major technology companies such as Google, Microsoft, Meta, and Amazon to operate under Iranian law.[18] Tasnim also proposed giving Iranian companies exclusive authority to repair and maintain the cables.[19] Such a system would undermine sanctions against Iran while also ensuring that Iran controls the economic lifeline—the internet—that many businesses in the Gulf rely upon. Iran could decide to throttle these cables if it felt doing so was desirable.
+
+Many of these proposals, if accepted and operationalized, would also provide Iran with new revenues that would enable it to reconstitute its military forces. Iran’s military has suffered significant degradation to its industrial base. Rebuilding this industrial base under sanctions and with limited revenue would be extremely difficult and require challenging prioritization compromises between the missile program, for example, and internal security or infrastructure. Akraminia added that “strategic control” of the strait would provide Iran with new revenues and strengthen its power.[20]
+
+Other regime outlets have floated military ideas to disrupt commerce further during the war. IRGC-affiliated Javan News previously implicitly threatened regional digital infrastructure on May 3 by warning that simultaneous damage to several major subsea cables, including through “deliberate actions,” could cause widespread disruptions to communications and digital infrastructure across the Persian Gulf.[21]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Undersea-Cables-in-the-Strait-of-Hormuz-May-13-2026-scaled.webp)](https://understandingwar.org/map/undersea-cables-in-the-strait-of-hormuz-as-of-may-13-2026-at-200-pm-et/)](https://understandingwar.org/map/undersea-cables-in-the-strait-of-hormuz-as-of-may-13-2026-at-200-pm-et/ "Undersea Cables in the Strait of Hormuz, As of May 13, 2026 at 2:00 PM ET")
+
+**Some regional states appear to be complying with Iranian-imposed transit procedures in the Strait of Hormuz, which normalizes Iran’s claim that vessels need Iranian permission to transit the waterway.** Five unspecified sources told Reuters on May 12 that Iraq and Pakistan reached agreements with Iran to move crude oil and liquefied natural gas (LNG) through the strait.[22] Iraq reportedly secured safe passage for two large crude carriers, each carrying about two million barrels of crude oil, and is trying to secure Iranian permission for additional transits.[23] Two Qatari LNG tankers are also reportedly heading to Pakistan after Iran and Pakistan reached an agreement.[24] These arrangements would reinforce Iran’s effort to force regional states to treat Iranian approval as a prerequisite for safe passage through the Strait.
+
+**Regional and international efforts to bypass Iranian control of the strait indicate that Iran’s maritime coercion is imposing economic and security costs on the Gulf states and energy exports.** The *Wall Street Journal* reported on May 12 that Gulf states have expanded overland trade and logistics routes across the Arabian Peninsula to reduce reliance on the strait, including routes through Saudi Arabia, the UAE, and Oman.[25] Truck traffic at a Gulf of Oman port reportedly surged from 100 trucks per day before the conflict to 7,000 trucks per day.[26] Saudi Aramco is leaning on its East-West pipeline to Yanbu, Saudi Arabia, and the UAE is pushing more crude through Fujairah.[27] The *Wall Street Journal* added that these routes can help absorb market shocks but cannot replace maritime shipping capacity, however.[28]
+
+**Western countries have continued to make efforts to secure commercial shipping in the strait.** This effort will reportedly not occur until after hostilities, however. Australian Defense Minister Richard Marles stated on May 13 that Australia will support a UK- and French-led multinational mission to secure shipping through the strait and will contribute an E-7A Wedgetail surveillance aircraft.[29] Italian Defense Minister Guido Crosetto stated on May 13 that Italy is repositioning two minesweepers closer to the Persian Gulf as a precautionary measure.[30]
+
+## Maritime Development
+
+*See the topline section.*
+
+## US and Israeli Air Campaign
+
+*See the topline section.*
+
+## Iranian Internal Dynamics
+
+**Nothing significant to report.**
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+**Hezbollah is demonstrating the ability to coordinate more complex attacks on Israeli military targets using first-person view (FPV) drones.** Israeli media reported that Hezbollah conducted a two-wave attack targeting an Israel Defense Forces (IDF) site in northern Israel on May 12, using a “swarm” of several FPV drones.[31] Israeli media claimed that two drone impacts in the attack’s first wave caused a fire at the site, and that several drones in the larger second wave circled the site for several minutes before striking targets.[32] The IDF and Israeli media did not report any specific battle damage or casualties from the attack. Israeli reporting corresponds to Hezbollah’s claims that it launched at least five FPV drones targeting an IDF border post near Margaliot, northern Israel, on May 12.[33] Hezbollah claimed that it struck several military targets, including counter-drone electronic warfare equipment, at the site.[34]
+
+The attack indicates that Hezbollah can conduct complex FPV drone attacks requiring coordination between several FPV drone operators, even if Hezbollah cannot yet deploy FPV drones at scale. Israeli media claimed the attack was the first instance of a coordinated, multiple-drone attack targeting a single site in Israel and Hezbollah’s most complex FPV drone attack yet.[35] Hezbollah has previously claimed to have conducted attacks using two FPV drones simultaneously.[36] The attack also indicates that Hezbollah’s decentralized command-and-control (C2) network for FPV drone operators, which has dispersed operators across various units in southern Lebanon, has not inhibited the group’s ability to conduct coordinated attacks.[37] Israeli reporting that several FPV drones circled the site for several minutes indicates that Israeli countermeasures largely failed to intercept the drones or prevent them from surveying targets.[38] ISW-CTP cannot confirm whether Hezbollah used fiber-optic FPV drones, which are impervious to Israeli jamming, in its attack on May 12.[39] A swarming attack using fiber-optic FPV drones would likely require more skilled operators and coordination to prevent drones from tangling their cables while surveying and striking targets in a single area of operations.
+
+**The IDF has further expanded the geographic scope of its airstrikes in Lebanon, amid continued Hezbollah attacks on Israeli forces in southern Lebanon.** The IDF conducted three drone strikes targeting vehicles along Lebanon’s coastal highway in the Chouf District, which is located roughly 20 kilometers south of Beirut.[40] The Lebanese Health Ministry reported that the Israeli strikes on May 13 killed 12 people.[41] The IDF initially restricted its air and drone strikes to areas south of or in the vicinity of the IDF’s “Yellow Line” in southern Lebanon at the start of the temporary ceasefire, which began on April 16.[42] The IDF has expanded the scope of its airstrikes in Lebanon over the past week, including by conducting strikes in the Bekaa Valley and a strike in Beirut’s southern suburbs on May 6 that killed Hezbollah Radwan Force Commander Ahmad Ghaleb “Malik” Balout.[43] The Israeli Air Force and Israeli officials have recently called for the IDF to expand its operations in southern Lebanon to combat the threat of Hezbollah FPV drones.[44] IDF Chief of Staff Lieutenant General Eyal Zamir previously instructed the IDF to target Hezbollah’s FPV drone production and supply chain infrastructure “beyond southern Lebanon.”[45] Israeli media reported on May 10 that the IDF has adopted a new offensive policy in which the IDF will conduct more strikes to disrupt Hezbollah’s drone activity and kill Hezbollah drone operators.[46] Hezbollah continues to conduct attacks against Israeli forces in southern Lebanon and northern Israel with a variety of weapons systems, including FPV drones (see above).[47]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Lebanon-ISR-Airstrikes-May-13-2026.webp)](https://understandingwar.org/map/israeli-strikes-in-lebanon-between-may-12-2026-at-200-pm-et-and-may-13-2026-at-200-pm-et/)](https://understandingwar.org/map/israeli-strikes-in-lebanon-between-may-12-2026-at-200-pm-et-and-may-13-2026-at-200-pm-et/ "Israeli Strikes in Lebanon Between May 12, 2026 at 2:00 PM ET and May 13, 2026 at 2:00 PM ET")
+
+## Other Axis of Resistance Response
+
+**Saudi Arabia and Kuwait struck multiple Iranian-backed Iraqi militia positions in Iraq in early April, according to informed sources speaking to Western media on May 13**.[48] One Western official and another person briefed on the matter told Reuters on May 13 that Saudi Arabia conducted airstrikes on sites near the Saudi-Iraq border from which Iranian-backed Iraqi militias launched drone and missile attacks against Saudi Arabia and other Gulf states.[49] Iranian-backed Iraqi militias have claimed multiple drone attacks targeting US bases in Saudi Arabia, Kuwait, and Bahrain during the war.[50]  Three Iraqi officials also told Reuters that unspecified actors launched at least two rocket attacks targeting during the war, including one that struck an Iranian-backed Iraqi militia Kataib Hezbollah facility in southern Iraq in early April, killing several fighters.[51]  Iraqi media previously reported on April 7 that unspecified actors launched an attack from Kuwait targeting a Kataib Hezbollah-owned house in Basra Province.[52] ISW-CTP attributed this strike to the US-Israeli combined force at the time.[53] Protesters carrying Popular Mobilization Forces (PMF) flags attempted to storm the Kuwaiti Consulate in Basra City on April 7 in response to the attack.[54] The PMF is an Iraqi state security service, but many Iranian-backed Iraqi militias control PMF brigades that answer to Iran instead of the Iraqi prime minister.[55] Neither Saudi Arabia nor Kuwait has publicly acknowledged striking Iraqi territory at the time of this writing.
+
+Endnotes
+
+[1] https://understandingwar.org/research/middle-east/iran-update-special-report-may-9-2026/ ; https://understandingwar.org/research/middle-east/iran-update-special-report-may-1-2026/ ; https://understandingwar.org/research/middle-east/applying-us-air-warfare-theory-and-doctrine-to-evaluate-the-campaign-against-iran-part-ii-iranian-missile-forces/  
+[2] https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html  
+[3] https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html?unlocked\_article\_code=1.XFA.Q5G5.S1zgO9RY3XV1&smid=nytcore-ios-share ; https://www.reuters.com/world/middle-east/hegseth-says-he-visited-us-troops-middle-east-2026-03-31/ ; https://x.com/CENTCOM/status/2036908415956521033?s=20  
+[4] https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html  
+[5] https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html  
+[6] https://understandingwar.org/research/middle-east/applying-us-air-warfare-theory-and-doctrine-to-evaluate-the-campaign-against-iran-part-ii-iranian-missile-forces/  
+[7] https://understandingwar.org/research/middle-east/applying-us-air-warfare-theory-and-doctrine-to-evaluate-the-campaign-against-iran-part-ii-iranian-missile-forces/  
+[8] https://home.treasury.gov/news/press-releases/sb0465 ; https://understandingwar.org/research/middle-east/iran-update-special-report-may-12-2026/ ; https://x.com/CENTCOM/status/2054175561036042261 ; https://understandingwar.org/research/middle-east/applying-us-air-warfare-theory-and-doctrine-to-evaluate-the-campaign-against-iran-part-ii-iranian-missile-forces/  
+[9] https://foreignpolicy.com/2026/03/24/iran-israel-us-war-missile-nuclear-weapons-deterrence/  
+[10] https://apnews.com/article/iran-israel-s300-radar-hit-isfahan-attack-ce6719d3df8ebf5af08b035427ee215c ; https://www.osw.waw.pl/en/publikacje/osw-commentary/2025-12-18/iran-crisis-landscape-after-twelve-day-war ;
+
+[11] https://understandingwar.org/research/middle-east/iran-update-special-report-may-12-2026/ ;  
+https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html ;  
+https://understandingwar.org/research/middle-east/iran-update-special-report-may-10-2026/ ;  
+https://t.me/mehrnews/377775 ;  
+https://yjcnews dot ir/fa/amp/news/9083761  
+[12] https://t.me/mehrnews/378911  
+[13] https://www.defense.gouv.fr/operations/proche-moyen-orient/forces-presence-au-proche-moyen-orient/forces-francaises-aux-emirats-arabes-unis ;  
+https://www.navylookout.com/the-royal-navys-fading-presence-in-the-middle-east/  
+[14] https://t.me/Tasnimnews/414162 ;  
+https://t.me/farsna/435121  
+[15] https://www.reuters.com/business/media-telecom/hormuz-digital-chokepoint-how-does-iran-war-threaten-subsea-cables-2026-04-28/  
+[16] https://www.submarinecablemap.com/  
+[17] https://t.me/farsna/435121  
+[18] https://t.me/Tasnimnews/414162  
+[19] https://t.me/Tasnimnews/414162  
+[20] https://t.me/defapress\_ir/58686 ;  
+https://t.me/sepah\_pasdaran/197500  
+[21] https://www.javanonline dot ir/fa/news/1355990  
+[22] https://www.reuters.com/business/energy/iraq-pakistan-strike-energy-deals-with-iran-tehran-flexes-hormuz-control-2026-05-12/  
+[23] https://www.reuters.com/business/energy/iraq-pakistan-strike-energy-deals-with-iran-tehran-flexes-hormuz-control-2026-05-12/  
+[24] https://www.reuters.com/business/energy/iraq-pakistan-strike-energy-deals-with-iran-tehran-flexes-hormuz-control-2026-05-12/  
+[25] https://www.wsj.com/world/middle-east/the-new-route-around-hormuz-involves-a-massive-convoy-of-trucks-fdc306c3?mod=middle-east\_news\_article\_pos1  
+[26] https://www.wsj.com/world/middle-east/the-new-route-around-hormuz-involves-a-massive-convoy-of-trucks-fdc306c3?mod=middle-east\_news\_article\_pos1  
+[27] https://www.wsj.com/world/middle-east/the-new-route-around-hormuz-involves-a-massive-convoy-of-trucks-fdc306c3?mod=middle-east\_news\_article\_pos1  
+[28] https://www.wsj.com/world/middle-east/the-new-route-around-hormuz-involves-a-massive-convoy-of-trucks-fdc306c3?mod=middle-east\_news\_article\_pos1  
+[29] https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/#post-update-4dc42816  
+[30] https://www.timesofisrael dot com/liveblog\_entry/italy-pre-positioning-2-minesweepers-closer-to-gulf-but-will-only-deploy-amid-stable-truce/  
+[31] https://www.i24news dot tv/en/news/israel/defense/artc-hezbollah-launches-largest-drone-swarm-attack-on-israel-s-northern-border  
+[32] https://www.i24news dot tv/en/news/israel/defense/artc-hezbollah-launches-largest-drone-swarm-attack-on-israel-s-northern-border  
+[33] https://t.me/mmirleb/16084 ; https://t.me/mmirleb/16085 ; https://t.me/mmirleb/16086 ; https://t.me/mmirleb/16087 ; https://t.me/mmirleb/16088  
+[34] https://t.me/mmirleb/16084 ; https://t.me/mmirleb/16085 ; https://t.me/mmirleb/16086 ; https://t.me/mmirleb/16087 ; https://t.me/mmirleb/16088  
+[35] https://www.i24news dot tv/en/news/israel/defense/artc-hezbollah-launches-largest-drone-swarm-attack-on-israel-s-northern-border  
+[36] https://t.me/mmirleb/15570 ; https://t.me/mmirleb/15621 ; https://t.me/mmirleb/15748  
+[37] https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/ ; https://t.me/moriahdoron/30732 ; https://www.mako dot co.il/news-military/2026\_q2/Article-5f543e85691fd91026.htm  
+[38] https://www.i24news dot tv/en/news/israel/defense/artc-hezbollah-launches-largest-drone-swarm-attack-on-israel-s-northern-border  
+[39] https://www.armyrecognition.com/focus-analysis-conflicts/army/conflicts-in-the-world/russia-ukraine-war-2022/electronic-warfare-how-fiber-optic-fpv-drones-are-redefining-the-ukrainian-battlefield  
+[40] https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-eight-people-highway-south-beirut-lebanons-health-2026-05-13/ ; https://www.bbc.com/news/articles/c1k2zekj8y9o ; https://t.me/sameralhajali/2555 ; https://t.me/MTVLebanoNews/69355 ; https://t.me/sameralhajali/2555 ; https://t.me/MTVLebanoNews/69378 ; https://t.me/sameralhajali/2570  
+[41] https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-eight-people-highway-south-beirut-lebanons-health-2026-05-13/  
+[42] https://x.com/manniefabian/status/2045151787758301588 ; https://x.com/idfonline/status/2046267889699934581 ; https://x.com/idfonline/status/2046606157632934165 ; https://x.com/idfonline/status/2047420299780464820?s=20 ; https://x.com/idfonline/status/2047435773469745444?s=20 ; https://x.com/idfonline/status/2047575422108369217?s=20 ; https://x.com/idfonline/status/2048695585838977287?s=20 ; https://www.state.gov/releases/office-of-the-spokesperson/2026/04/ten-day-cessation-of-hostilities-to-enable-peace-negotiations-between-israel-and-lebanon/  
+[43] https://www.newarab.com/news/lebanon-israeli-strikes-kill-four-bekaa-despite-ceasefire ; https://today.lorientlejour dot com/article/1505960/another-deadly-day-in-lebanon-as-israeli-army-intensifies-strikes-in-the-bekaa-valley.html ; https://x.com/IsraeliPM\_heb/status/2052075680548946202 ; https://www.reuters.com/world/middle-east/strike-hits-beiruts-southern-suburbs-first-time-weeks-sources-say-2026-05-06/  
+[44] https://www.jpost dot com/israel-news/defense-news/article-894837  
+[45] https://www.ynetnews dot com/article/byujmvmabg#google\_vignette  
+[46] https://www.mako.co dot il/pzm-soldiers/Article-9f12b7eedc01e91026.htm  
+[47] https://t.me/mmirleb/16098 ; https://t.me/mmirleb/16044 ; https://t.me/mmirleb/15999  
+[48] https://www.reuters.com/world/middle-east/saudi-warplanes-struck-militias-iraq-during-war-sources-say-2026-05-13/  
+[49] https://www.reuters.com/world/middle-east/saudi-warplanes-struck-militias-iraq-during-war-sources-say-2026-05-13/  
+[50] https://t.me/Extremedistress/861 ; https://t.me/Extremedistress/914 ; https://t.me/Jaysh\_AlGhadab/77 ; https://t.me/aishab\_alkahf/505 ; https://t.me/Jaysh\_AlGhadab/86 ; https://t.me/Jaysh\_AlGhadab/121 ; https://t.me/Jaysh\_AlGhadab/128 ; https://t.me/awlialdm/346 https://understandingwar.org/research/middle-east/iran-update-special-report-april-5-2026/  
+[51] https://www.reuters.com/world/middle-east/saudi-warplanes-struck-militias-iraq-during-war-sources-say-2026-05-13/ ; https://understandingwar.org/research/middle-east/iran-update-special-report-april-8-2026/  
+[52] https://shafaq dot com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AD%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%84%D9%8A%D9%86%D9%87%D9%8A-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%81%D8%B5%D9%8A%D9%84-%D9%85%D8%B3%D9%84%D8%AD  
+[53] https://understandingwar.org/research/middle-east/iran-update-special-report-april-8-2026/  
+[54] https://www.reuters.com/world/middle-east/least-three-killed-after-rockets-launched-kuwait-hit-house-near-iraqs-basra-2026-04-07/  
+[55] https://understandingwar.org/research/middle-east/the-leadership-and-purpose-of-iraqs-popular-mobilization-forces/
+
+============================================================
+Article date: May 14, 2026
+Original file: iran-update-special-report-may-14-2026.md
+============================================================
+
+# Iran Update Special Report, May 14, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-14-2026/>*
+
+## Key Takeaways
+
+1. Iran may be prioritizing upholding the “legitimacy” of its claims to the Strait of Hormuz over toll collection at this time. This prioritization helps Iran encourage states to implicitly recognize its control over the strait while avoiding international concerns over paying the Iranians and incurring sanctions risk. Legitimizing any aspect of Iranian control over the strait, with or without tolls, is unacceptable due to the precedent it sets.
+2. Iran is likely prioritizing the implementation of the protocol over the tolls at this time in order to present itself as a reasonable actor that is willing to “open” the strait to “free” travel without tolls. Recognizing Iran’s protocol — which bars certain countries from accessing the strait and not others based on their behavior — is unacceptable because it implies that the Strait of Hormuz is sovereign Iranian territory. **The PRC only explicitly opposes the toll system and the Iranian “blockade,” but has not explicitly opposed Iranian claims to sovereignty, for example.**
+3. PRC companies have been reportedly discussing arms sales routed via third-party countries with Iranian officials, but currently it is unclear to what extent PRC officials have decided to approve these sales and subsequent weapons shipments, according to *New York Times* reporting on May 13 that cited US officials.
+
+## Toplines
+
+**Iran may be prioritizing upholding the “legitimacy” of its claims to the Strait of Hormuz over toll collection at this time. This prioritization helps Iran encourage states to implicitly recognize its control over the strait while avoiding international concerns over paying the Iranians and incurring sanctions risk. Legitimizing any aspect of Iranian control over the strait, with or without tolls, is unacceptable due to the precedent it sets.** Iran has touted its ability to charge tolls on ships transiting the Strait of Hormuz, but it remains unclear how many vessels have paid the tolls. Lloyd’s List reported in late March 2026 that “at least” two vessels paid the toll in Yuan, but Iranian officials on April 16 noted that no tolls had been collected.[1] Iran only announced it received its first toll payment on April 23.[2] Iran also appears to be providing toll exemptions for so-called “friendly” countries, which implies that a set of state behaviors approved by Iran is sufficient to avoid tolls on vessels bound for a state’s ports. Iranian Foreign Minister Abbas Araghchi said on March 26 that the People’s Republic of China (PRC), Russia, India, Iraq, and Pakistan were “friendly” states, and their vessels could pass through the strait.[3] Others, like Malaysia and Thailand, have separate deals that permit them to travel through the strait. Most of these states, including India, Russia, Malaysia, Pakistan, and Thailand, are not subject to fees.[4] Japanese Prime Minister Sanae Takaichi announced on May 14 that she also negotiated with Iran the safe passage of a Japanese-managed oil tanker through the strait without paying a toll.[5] Iranian regime-affiliated media reported on May 14 that at least six Chinese vessels also safely passed through the strait, although it is unclear whether they had to pay a toll.[6] All of these countries notably have relatively friendly relationships with Iran, including Japan, which has long acted as a mediator between Iran and the United States.[7] The decision by Tehran to exempt so-called ”friendly” countries suggests that Iranian officials decided to prioritize encouraging states to follow its transit protocols by lifting fees, which, by implication, confers legitimacy and recognition upon Iran’s claims of sovereignty over the Strait of Hormuz.
+
+Iran is likely prioritizing the implementation of the protocol over the tolls at this time in order to present itself as a reasonable actor that is willing to “open” the strait to “free” travel without tolls.[8] Recognizing Iran’s protocol—which bars certain countries from accessing the strait and not others based on their behavior—is unacceptable because it implies that the Strait of Hormuz is sovereign Iranian territory. **The PRC only explicitly opposes the toll system and Iranian “blockade,” but has not explicitly opposed Iranian claims to sovereignty, for example.[9]** The Strait of Hormuz is an international waterway. Recognizing Iran’s claims to the strait now will enable it to change which countries it deems as “hostile” and bar access selectively and for any reason.[10] It is not a given, for example, that Iran would recognize the United Kingdom or France as “friendly” countries, for example, given their participation in sanctions against Iran.
+
+Iran has continued to enforce its protocols in the Strait of Hormuz by attacking ships. United Kingdom Maritime Trade Operations (UKMTO) reported on May 14 that likely Iranian forces seized the Honduras-flagged Hui Chuan 38 nautical miles northeast of Fujairah, United Arab Emirates (UAE), and moved it towards Iranian territorial waters.[11] Reuters reported on May 14 that Iran likely sank an Indian cargo vessel off the coast of Oman in the Strait of Hormuz region that was traveling from Somalia to the UAE.[12] Iranian Foreign Affairs Minister Abbas Araghchi stated on May 14 that Iran considers the strait open for all commercial vessels but that they must “cooperate” with Iranian naval forces.[13] Allowing Iran to continue enforcing these protocols would be detrimental to US and international commercial interests, as it would mean Iran could prevent ships from traversing the strait anytime it wants.
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Traffic-Through-the-Strait-of-Hormuz-May-14-2026.webp)](https://understandingwar.org/map/activity-in-the-strait-of-hormuz-between-may-13-2026-at-200-pm-et-and-may-14-2026-at-200-pm-et/)](https://understandingwar.org/map/activity-in-the-strait-of-hormuz-between-may-13-2026-at-200-pm-et-and-may-14-2026-at-200-pm-et/ "Activity in the Strait of Hormuz Between May 13, 2026 at 2:00 PM ET and May 14, 2026 at 2:00 PM ET")
+
+**PRC companies have been reportedly discussing arms sales routed via third-party countries with Iranian officials, but currently it is unclear to what extent PRC officials have decided to approve these sales and subsequent weapons shipments, according to *New York Times* reporting on May 13 that cited US officials.[14]** The US officials did not specify what military equipment PRC companies were discussing with Iranian officials, but earlier reports prior to the current war suggested that Iran sought PRC shoulder-fired surface-to-air missiles and anti-ship missiles.[15] The US officials noted that at least one of the proposed transit countries was in Africa.[16] The PRC has provided assets to support Iranian military capabilities in this war and in the past. The PRC sent missile fuel precursors to support Iranian missile reconstitution efforts following the June 2025 Israel-Iran War and also provided satellite imagery of US facilities in the Middle East during the current war.[17]The PRC government closely controls and approves the export of military and dual-use goods, so it is unlikely that companies in the PRC would export military equipment without clear approval from the PRC.[18] US officials have reached “different conclusions” about whether the arms have already been sent to the transit countries, though the *New York Times* noted that none of the PRC weapons have been used against US forces in the current war.[19]
+
+## Maritime Development
+
+**US Central Command (CENTCOM) announced on May 14 that US naval forces have redirected 70 vessels and disabled four since the US blockade began on April 13.[20]**
+
+## US and Israeli Air Campaign
+
+*Nothing significant to report.*
+
+## Iranian Internal Dynamics
+
+*Nothing significant to report.*
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+*Nothing significant to report.*
+
+## Other Axis of Resistance Response
+
+*Nothing significant to report.*
+
+Endnotes
+
+[1] https://www.lloydslist.com/LL1156694/Zombie-tankers-take-Tehran-Toll-Booth-route-as-more-vessels-make-detour ; https://www.iranintl.com/en/202604162208  
+[2] https://www.forbes.com/sites/siladityaray/2026/04/23/us-navy-seizes-another-iranian-oil-tanker-after-iran-said-it-banked-first-tolls-from-ships-crossing-hormuz/  
+[3] https://www.news18 dot com/world/beyond-friendly-ties-why-iran-allowed-free-hormuz-passage-to-5-countries-amid-war-ws-l-9998462.html  
+[4] https://www.wsj.com/economy/malaysia-says-iran-allowing-its-vessels-to-pass-through-strait-of-hormuz-toll-free-30439a71 ; https://www.bangkokpost dot com/thailand/general/3224055/no-fee-charged-for-transit-of-thai-tanker-through-hormuz#google\_vignette ; https://www.reuters.com/business/energy/iraq-pakistan-strike-energy-deals-with-iran-tehran-flexes-hormuz-control-2026-05-12/?utm\_campaign=trueAnthem%3A+Trending+Content&utm\_medium=trueAnthem&utm\_source=facebook  
+https://iranwire.com/en/news/151624-russia-gets-exemption-from-irans-strait-of-hormuz-toll/ ; https://www.reuters.com/world/india/iran-allow-india-flagged-tankers-pass-through-strait-hormuz-indian-source-says-2026-03-12/  
+[5] https://x.com/takaichi\_sanae/status/2054781764984549505?s=20  
+[6] https://t.me/farsna/435528  
+[7] https://mei.edu/publication/us-japan-relations-and-persian-gulf/  
+[8] https://www.reuters.com/world/middle-east/us-treasury-warns-shippers-not-pay-hormuz-tolls-even-form-charity-2026-05-01/  
+[9] https://un.china-mission dot gov.cn/eng/chinaandun/securitycouncil/202604/t20260408\_11887987.htm  
+[10] https://x.com/FarsNews\_Agency/status/2045935263319302651  
+[11] https://x.com/UK\_MTO/status/2054819091525824985 ; https://www.bbc.com/news/articles/cx219xwxg9no  
+[12] https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/ ; https://x.com/WindwardAI/status/2054913392930861463?s=20  
+[13] https://x.com/AlArabiya\_Eng/status/2054821589326221681  
+[14] https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html  
+[15] https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html; https://www.reuters.com/world/china/iran-nears-deal-buy-supersonic-anti-ship-missiles-china-2026-02-24/
+
+[16] https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html  
+[17] https://www.state.gov/releases/office-of-the-spokesperson/2026/05/disrupting-irans-overseas-military-procurement-networks; https://understandingwar.org/research/middle-east/iran-update-special-report-april-4-2026/; https://www.telegraph.co.uk/world-news/2026/04/03/china-delivers-missile-fuel-chemicals-to-iran/; https://www.cnn.com/2025/10/29/middleeast/iran-rebuilding-ballistic-weapons-program-intl  
+[18] https://www.reuters.com/world/china/iran-nears-deal-buy-supersonic-anti-ship-missiles-china-2026-02-24/; http://www.npc.gov dot cn/englishnpc/c2759/c23934/202112/t20211209\_384804.html  
+[19] https://www.reuters.com/world/china/iran-nears-deal-buy-supersonic-anti-ship-missiles-china-2026-02-24/  
+[20] https://x.com/CENTCOM/status/2054909856092471405?s=20
+
+============================================================
+Article date: May 15, 2026
+Original file: iran-update-special-report-may-15-2026.md
+============================================================
+
+# Iran Update Special Report, May 15, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-15-2026/>*
+
+## Key Takeaways
+
+1. Senior Iranian officials continue to demand guarantees against future US-Israeli attacks as a precondition for negotiations, and the Iranian regime likely views recognized control over the Strait of Hormuz as one such guarantee.
+2. The People’s Republic of China (PRC) does not appear to have made a clear commitment to support US efforts to secure freedom of navigation through the Strait of Hormuz. Iran’s assertion of control over the strait is inconsistent with the long-stated PRC position, however.
+3. Iran may have decided to deprioritize certain restrictive measures in the Strait of Hormuz, such as toll collection, in order to encourage states such as the PRC to cooperate with Iran and implicitly recognize its control over the strait.
+4. The Iranian regime is attempting to ease economic pressures that the US naval blockade on Iranian ports is imposing upon the Iranian economy by taking measures to preserve necessary economic resources, while attempting to keep the Iranian public calm ahead of expected shortages.
+5. The United Arab Emirates (UAE) announced on May 15 that it will accelerate efforts to double the export capacity in Fujairah to bypass the Strait of Hormuz and reduce the UAE’s strategic vulnerability. This reflects a broader strategy that Gulf states are adopting to safeguard energy exports from future disruption through chokepoints like the Strait of Hormuz.
+6. Unspecified Western diplomats told Western media on May 14 that Saudi Arabia is discussing pursuing a potential non-aggression pact with Iran after the war, but it is unclear how much meaningful progress there has been towards such a pact. Iran could theoretically attack Gulf states under the guise of targeting US assets in each country, even under such a pact.
+7. The recent war has showcased the UAE’s adoption of a more assertive posture against Iran amid its deepening security ties with Israel.
+8. The US State Department announced on May 15 that Israel and Lebanon have agreed to extend the temporary ceasefire for an additional 45 days.
+9. Iranian-backed Iraqi militia leaders and political figures are threatening to withdraw their support for new Iraqi Prime Minister Ali al Zaidi’s government amid US pressure to deny Iranian-backed figures positions of influence in the Iraqi government.
+10. US authorities charged senior Iranian-backed Iraqi militia Kataib Hezbollah commander Mohammad Baqer Saad Dawoud al Saadi with planning attacks targeting civilians in the United States, Canada, and Europe.
+
+## Toplines
+
+**Senior Iranian officials continue to demand guarantees against future US-Israeli attacks as a precondition for negotiations, and the Iranian regime likely views recognized control over the Strait of Hormuz as one such guarantee.** Islamic Revolutionary Guards Corps (IRGC) Baghiyatollah Sociocultural Headquarters Commander Major General Mohammad Ali Jafari stated on May 14 that the United States must satisfy Iranian “confidence-building” measures before Iran will negotiate.[1] The regime has consistently pursued recognition for its control over the strait and likely views recognized control over the strait as a deterrent against future US or Israeli military action, which means that recognition effectively serves as a “confidence-building” measure.
+
+Jafari’s statements likely reflect the Iranian regime’s position and decision-making, given his position and relative influence within the regime at this time. The Baghiyatollah Sociocultural Headquarters oversees the regime’s internal messaging and cognitive warfare apparatus, which means it is the principal mechanism through which the IRGC shapes political discourse, including by suppressing opposition to hardline factions.[2] ISW-CTP previously assessed that Jafari’s statements likely reflect the negotiating position of IRGC Commander Ahmad Vahidi, who appears to currently be playing a central decision-making role in Iran.[3] Jafari has a close relationship with Vahidi that dates to the Iran-Iraq War, and Jafari previously served as IRGC commander from 2007 to 2019.[4] Jafari and other senior IRGC officials, including Vahidi, also reportedly supported Supreme Leader Mojtaba Khamenei’s succession after the death of Ali Khamenei.[5]
+
+**The People’s Republic of China (PRC) does not appear to have made a clear commitment to support US efforts to secure freedom of navigation through the Strait of Hormuz.** US President Donald Trump asserted that the PRC “would like to be of help” in reopening the strait after meetings with Chinese Communist Party (CCP) General Secretary Xi Jinping from May 13 to 15.[6] US Treasury Secretary Scott Bessent said that he is expecting the PRC to work “behind the scenes” to influence Iran to open the strait because reopening the strait would serve PRC interests.[7] PRC readouts and statements on the summit downplayed discussions on Iran, however, and reiterated standard rhetoric on the issue.[8]
+
+Iran’s assertion of control over the strait is inconsistent with the stated PRC position. PRC Ambassador to the United Nations Fu Cong emphasized in April that the safety and security of shipping lanes must be secured.[9] He added that the PRC does not support Iranian attacks on Gulf states or the ”blockade“ on the Strait of Hormuz and expressed hope that “normal” navigation will resume soon. The PRC likely recognizes that any Iranian authority over transit through the strait would increase PRC dependence on Iran and establish a problematic precedent for international maritime law and freedom of navigation. The PRC appears unwilling to involve itself in a manner necessary to reopen and secure the strait, however.
+
+**Iran may have decided to deprioritize certain restrictive measures in the Strait of Hormuz, such as toll collection, in order to encourage states such as the PRC to cooperate with Iran and implicitly recognize its control over the strait.** Iranian officials previously emphasized their ability to impose tolls on vessels transiting the strait, but Iran only announced its first toll payment on April 23.[10] Iran has exempted so-called “friendly” countries, including Iraq, Pakistan, and Malaysia, from toll requirements, which suggests that Iran now prioritizes securing international recognition of its control over the strait over toll collection.[11] The PRC has explicitly opposed the toll system, and its vessels have continued to transit the strait via the Iranian-approved route through the strait, although it is unclear if these vessels paid any tolls.[12] ISW-CTP previously assessed that Iran is likely prioritizing the implementation of the protocol over the tolls at this time in order to present itself as a reasonable actor that is willing to “open” the strait to “free” travel without tolls.[13] Iran may calculate that reducing overtly problematic measures such as tolls will encourage more states to cooperate with Iranian procedures and, therefore, strengthen Iranian authority over the strait. Legitimizing any aspect of Iranian control over the strait, with or without tolls, is extremely detrimental to global shipping. Iranian officials have not indicated any willingness to relinquish control over the strait. Officials claim that Iran will “open” the strait while preserving Iran’s authority to regulate and permit vessel transit, which would leave Iran with the ability to restrict international shipping at its discretion and target any country, including through attacks on civilian vessels.[14]
+
+**The Iranian regime is attempting to ease economic pressures that the US naval blockade on Iranian ports is imposing upon the Iranian economy.** The United States has continued to enforce the blockade, which will continue to impose economic pressure on Iran. The US Navy redirected three vessels between 4:00 PM ET on May 14 and 9:00 AM ET on May 15.[15] US Central Command (CENTCOM) announced that US forces have redirected 75 commercial vessels and disabled four since the blockade began on April 13.[16]
+
+The Iranian regime is simultaneously taking measures to preserve necessary economic resources, such as foreign currency and raw materials, while attempting to keep the Iranian public calm ahead of expected shortages. The regime remains concerned that prolonged economic strain could trigger social unrest in Iran. The Agricultural Jihad Ministry introduced a new foreign exchange ceiling and updated the official price references within its import system for rice and oil-based products on May 15 in an attempt to evade food shortages and avoid mass price inflation.[17] An official from Mobarakeh Steel Company emphasized in a statement on May 15 that Iran has sufficient domestic steel supplies, even though the combined force destroyed the facilities responsible for about 25 to 30 percent of Iran’s annual steel output.[18] The combined force struck the Mobarakeh Steel Company’s facilities during the war. Mobarakeh Steel Company also recently shut down a project that led to the cutting of 1,000 jobs, according to a contractor employee who partnered with the company.[19] Iran’s Energy Consumption Optimization Director also asserted on May 15 that 76 petrochemical complexes remain operational with a combined capacity of 100 million tons of petrochemicals annually, and Iran has continued efforts to import raw materials to offset shortages.[20] Israeli strikes on at least two Iranian petrochemical complexes rendered ”more than 85 percent of Iran’s petrochemical export capacity inoperable” during the most recent war, according to the Israel Defense Forces (IDF).[21] The Iranian government is also designing a support package for firms affected by internet disruptions.[22]
+
+Iranian leaders also appear to be emphasizing internal unity as economic pressures mount. Supreme Leader Mojtaba Khamenei’s social media accounts called for national unity in resisting external pressure in a statement made in celebration of Persian Language Day on May 15.[23] Foreign Affairs Ministry spokesperson Esmail Baghaei attempted to reinforce domestic cohesion by thanking Kurdish communities for safeguarding Iran’s borders on a visit to Kurdistan Province in western Iran on May 15.[24] These regime efforts come after an Iranian intelligence assessment warned that worsening economic conditions could trigger renewed unrest during a Supreme National Security Council meeting in April 2026, according to informed sources speaking to anti-regime media.[25]
+
+**The United Arab Emirates (UAE) announced on May 15 that it will accelerate efforts to double the export capacity in Fujairah in order to bypass the Strait of Hormuz and reduce the UAE’s strategic vulnerability.[26]** Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed directed the Abu Dhabi National Oil Company (ADNOC) to fast-track the West–East Pipeline project, which would increase the UAE’s crude export capacity from Fujairah to as much as 3.6 million barrels per day by 2027.[27] This increases the export capacity from Fujairah by an additional 1.8 million barrels per day. The UAE currently exports 1.8 million barrels per day through the Strait of Hormuz. Iran launched several drone and missile attacks targeting the Fujairah oil field and pipeline during the most recent war.[28] The UAE’s initiative reflects a broader strategy that Gulf states are adopting to safeguard energy exports from future disruption through chokepoints like the Strait of Hormuz. Saudi Arabia is similarly leaning on its East-West pipeline to Yanbu on its Red Sea coast.[29]
+
+**Unspecified Western diplomats told Western media on May 14 that Saudi Arabia is discussing pursuing a potential non-aggression pact with Iran after the war.[30]** It is unclear how much meaningful progress there has been towards such a pact.[31] Iran repeatedly attacked Gulf states’ civilian infrastructure while claiming to target US military assets.[32] Iran could theoretically attack Gulf states under the guise of targeting US assets in each country, even under such a pact.
+
+**The recent war has showcased the UAE’s adoption of a more assertive posture against Iran amid its deepening security ties with Israel.** Bloomberg reported on May 15 that the UAE unsuccessfully attempted to persuade fellow Gulf states, including Saudi Arabia, to participate in a coordinated attack on Iran shortly after the US-Israeli campaign began.[33] The UAE’s efforts to rally the other Gulf states ultimately failed, and the UAE and Saudi Arabia conducted strikes on Iran independently.[34] The UAE also appears to have blocked a joint statement that Iran sought to issue at the BRICS Foreign Ministers summit that would have condemned the US-Israeli war against Iran.[35] A representative from India, the summit‘s host, cited ”differing views among some members,” likely in reference to the UAE’s blocking of the statement.[36] Iranian Foreign Affairs Minister Abbas Araghchi suggested that certain countries prevented consensus on portions of the statement and reiterated that Iran’s military actions have targeted US bases, even when located in other regional countries.[37] Araghchi’s statement is false: the Iranian military targeted civilian infrastructure across the Gulf countries and fired into major cities.[38] The UAE is showcasing a more aggressive diplomatic and military posture towards Iran as it has deepened security ties with Israel during the war. A senior Israeli official characterized the UAE-Israeli relationship as a “tightening alliance” to Israeli media on May 14.[39] Israel and the UAE have been expanding their defense cooperation since the UAE normalized its relations with Israel by signing the Abraham Accords in 2020.[40]
+
+## Maritime Development
+
+*See the topline section.*
+
+## US and Israeli Air Campaign
+
+*Nothing significant to report.*
+
+## Iranian Internal Dynamics
+
+*Nothing significant to report.*
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+**The US State Department announced on May 15 that Israel and Lebanon have agreed to extend the temporary ceasefire for an additional 45 days.[41]** US State Department spokesperson Tommy Pigott stated that the two sides agreed to extend the ceasefire to “enable further progress.”[42] The announcement appears to be the result of the US-hosted high-level talks between Israeli and Lebanese officials in Washington, DC, on May 14 and 15.[43]
+
+## Other Axis of Resistance Response
+
+**Iranian-backed Iraqi militia leaders and political figures are threatening to withdraw their support for new Iraqi Prime Minister Ali al Zaidi’s government amid US pressure to deny Iranian-backed figures positions of influence in the Iraqi government.[44]** The Iraqi parliament rejected several cabinet nominees affiliated with Iranian-backed militias and political parties during a vote of confidence to confirm Zaidi’s premiership and government on May 14.[45] The Iraqi parliament has routinely formed governments without confirming a full cabinet due to competition among political parties for influential cabinet positions, including the defense and interior ministries.[46] An unnamed official within the Shia Coordination Framework, which is a loose coalition of Shia political parties, told US-funded Arabic-language media that the parliament rejected several Iranian-backed nominees due to US objections to the participation of figures linked to armed factions.[47] The National Contract bloc, affiliated with Popular Mobilization Forces (PMF) chairman Faleh al Fayyadh, and the Sumerian Movement, led by former Iraqi Labor Minister Ahmed al Asadi, announced their withdrawal from former Prime Minister Mohammed Shia al Sudani’s Reconstruction and Development Coalition because of perceived bias against their parties within Sudani’s coalition.[48] An unnamed Iraqi political source told Iraqi media on May 15 that Iranian-backed militia Badr Organization leader Hadi al Ameri, former Iraqi Prime Minister and State of Law Coalition head Nouri al Maliki, and Islamic Supreme Council of Iraq (ISCI) head Humam Hamoudi also intend to establish a rival political alliance within the framework.[49] Ameri previously aligned with Sudani and Zaidi on framework-backed initiatives to disarm Iranian-backed Iraqi militias, which has also inflamed tensions among framework-aligned militias.[50]
+
+**US authorities charged senior Iranian-backed Iraqi militia Kataib Hezbollah commander Mohammad Baqer Saad Dawoud al Saadi with planning attacks targeting civilians in the United States, Canada, and Europe.[51]** Turkey detained and then handed over Saadi to the United States. US prosecutors have charged Saadi with planning attacks on at least 20 civilian targets in Europe and Canada, and conspiracy to conduct attacks on Jewish civilians in the United States.[52] The US government identified Kataib Hezbollah as the group that abducted US journalist Shelly Kittleson in Baghdad on March 31.[53]
+
+Endnotes
+
+[1] https://t.me/Tasnimnews/415398
+
+[2] https://www.aei.org/wp-content/uploads/2023/10/The-Soft-War-Understanding-Irans-Domestic-Ideological-Crisis.pdf?x85095
+
+[3] https://www.criticalthreats.org/analysis/iran-update-evening-special-report-may-11-2026
+
+[4] https://www.reuters.com/world/middle-east/iran-doesnt-expect-major-israeli-retaliation-revolutionary-guards-ex-chief-says-2024-10-22/ ; https://iranwire.com/en/features/65973/
+
+[5] https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html
+
+[6] https://www.foxnews.com/live-news/iran-war-trump-news-strait-hormuz-blockade-ceasefire-tensions-may-15?msockid=31724c4845486561027c583141486b0b#post-99d17a1
+
+[7] https://www.cnbc.com/2026/05/14/china-xi-trump-iran-war-oil-strait-hormuz-bessent.html
+
+[8] https://www.fmprc.gov dot cn/fyrbt\_673021/202605/t20260514\_11910530.shtml
+
+[9] https://un.china-mission.gov dot cn/eng/chinaandun/securitycouncil/202604/t20260408\_11887987.htm
+
+[10] https://www.forbes.com/sites/siladityaray/2026/04/23/us-navy-seizes-another-iranian-oil-tanker-after-iran-said-it-banked-first-tolls-from-ships-crossing-hormuz/ ; https://www.lloydslist.com/LL1156694/Zombie-tankers-take-Tehran-Toll-Booth-route-as-more-vessels-make-detour ; https://www.iranintl.com/en/202604162208
+
+[11] https://www.news18 dot com/world/beyond-friendly-ties-why-iran-allowed-free-hormuz-passage-to-5-countries-amid-war-ws-l-9998462.html ; https://www.reuters.com/business/energy/fourth-malaysia-linked-ship-transits-strait-hormuz-shipping-data-shows-2026-05-15/ ; https://www.reuters.com/business/energy/iraq-pakistan-strike-energy-deals-with-iran-tehran-flexes-hormuz-control-2026-05-12/
+
+[12] https://un.china-mission dot gov.cn/eng/chinaandun/securitycouncil/202604/t20260408\_11887987.htm; https://t.me/farsna/435564
+
+[13] https://www.criticalthreats.org/analysis/iran-update-evening-special-report-may-14-2026
+
+[14] https://t.me/farsna/434872 ; https://t.me/Nournews\_ir/356132 ; https://t.me/defapress\_ir/58867 ; https://understandingwar.org/research/middle-east/iran-must-not-rule-the-strait-of-hormuz/
+
+[15] https://x.com/CENTCOM/status/2055272839700267091?s=20; https://x.com/CENTCOM/status/2055017115405390272?s=20
+
+[16] https://x.com/CENTCOM/status/2055272839700267091?s=20; https://x.com/CENTCOM/status/2055017115405390272?s=20
+
+[17] https://t.me/iribnews/339089
+
+[18] https://t.me/iribnews/339085; https://understandingwar.org/research/middle-east/iran-update-special-report-april-28-2026/; https://www.reuters.com/world/middle-east/iran-suspends-exports-steel-slabs-sheets-until-end-may-2026-04-27/
+
+[19] https://understandingwar.org/research/middle-east/iran-update-special-report-april-28-2026/; https://apnews.com/article/iran-us-israel-war-economy-blockade-steel-exports-7d3c6c63ec432e57325814d48938ccfe
+
+[20] https://t.me/iribnews/339115
+
+[21] https://x.com/IDF/status/2041188465803407774?s=20
+
+[22] https://t.me/iribnews/339092
+
+[23] https://t.me/rahbar\_enghelab\_ir/388
+
+[24] https://t.me/iribnews/339057
+
+[25] https://understandingwar.org/research/middle-east/iran-update-special-report-april-28-2026/ https://www.iranintl.com/202604277990?source=share-link
+
+[26] https://www.reuters.com/business/energy/uae-accelerate-oil-pipeline-project-help-bypass-hormuz-2026-05-15/
+
+[27] https://www.reuters.com/business/energy/uae-accelerate-oil-pipeline-project-help-bypass-hormuz-2026-05-15/
+
+[28] https://www.bbc.com/news/articles/crl4gxgkkylo; https://x.com/FjMediaoffice/status/2033447777850609784?s=20; https://x.com/EGYOSINT/status/2035729342194384927?s=20; https://x.com/FjMediaoffice/status/2051320742726566284?s=20
+
+[29] https://www.wsj.com/world/middle-east/the-new-route-around-hormuz-involves-a-massive-convoy-of-trucks-fdc306c3?mod=middle-east\_news\_article\_pos1
+
+[30] https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html; https://www.nytimes.com/2026/04/03/world/middleeast/infrastructure-attacked-gulf-kuwait-iran.html ; https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9?syn-25a6b1a6=1
+
+[31] https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9?syn-25a6b1a6=1
+
+[32] https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html; https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html; https://www.nytimes.com/2026/04/03/world/middleeast/infrastructure-attacked-gulf-kuwait-iran.html; https://www.pbs.org/newshour/world/uae-reports-iranian-drone-and-missile-attack-after-u-s-says-it-traded-fire-with-tehran
+
+[33] https://www.bloomberg.com/news/articles/2026-05-15/uae-tried-in-vain-to-get-saudis-to-coordinate-on-iran-response?embedded-checkout=true
+
+[34] https://www.bloomberg.com/news/articles/2026-05-15/uae-tried-in-vain-to-get-saudis-to-coordinate-on-iran-response?embedded-checkout=true
+
+[35] https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/
+
+[36] https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/
+
+[37] https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/
+
+[38] https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html; https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html; https://www.nytimes.com/2026/04/03/world/middleeast/infrastructure-attacked-gulf-kuwait-iran.html; https://www.pbs.org/newshour/world/uae-reports-iranian-drone-and-missile-attack-after-u-s-says-it-traded-fire-with-tehran
+
+[39] https://www.ynetnews dot com/article/byqvgrmjze
+
+[40] https://www.washingtoninstitute.org/policy-analysis/israel-uae-defense-cooperation-grows-under-abraham-accords
+
+[41] https://www.reuters.com/world/middle-east/israel-lebanon-agree-extend-ceasefire-by-45-days-us-state-dept-says-2026-05-15/ ; https://x.com/statedeptspox/status/2055349600211312889
+
+[42] https://x.com/statedeptspox/status/2055349600211312889
+
+[43] https://x.com/statedeptspox/status/2055349600211312889
+
+[44] https://shafaq dot com/ar/سیاسة/خاص-انشطار-داخل-ال-طار-خمس-قوى-شيعية-تتحرك-لتشكيل-تحالف-جديد ; https://shafaq dot com/ar/سیاسة/كتلتا-الفياض-و-ال-سدي-تنسحبان-من-تلاف-السوداني-اعتمدوا-التهميش-والاقصا ; https://alhurra.com/en/20583
+
+[45] https://alhurra.com/en/20533 ; https://alhurra.com/en/20583
+
+[46] https://alhurra.com/en/20583 ; https://understandingwar.org/research/middle-east/iraq-forms-government-without-defense/ ; https://www.washingtoninstitute.org/policy-analysis/minister-allocation-iraqs-new-government
+
+[47] https://alhurra.com/en/20533 ; https://alhurra.com/en/20583
+
+[48] https://shafaq dot com/ar/سیاسة/خاص-انشطار-داخل-ال-طار-خمس-قوى-شيعية-تتحرك-لتشكيل-تحالف-جديد ; https://shafaq dot com/ar/سیاسة/كتلتا-الفياض-و-ال-سدي-تنسحبان-من-تلاف-السوداني-اعتمدوا-التهميش-والاقصا
+
+[49] https://shafaq dot com/ar/سیاسة/خاص-انشطار-داخل-ال-طار-خمس-قوى-شيعية-تتحرك-لتشكيل-تحالف-جديد
+
+[50] https://understandingwar.org/research/middle-east/iran-update-special-report-may-7-2026/ ; https://alhurra.com/19824 ; https://shafaq dot com/ar/سیاسة/خاص-انشطار-داخل-ال-طار-خمس-قوى-شيعية-تتحرك-لتشكيل-تحالف-جديد
+
+[51] https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html?smid=nytcore-ios-share
+
+[52] https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html?smid=nytcore-ios-share
+
+[53] https://www.cbsnews.com/news/shelly-kittleson-journalist-released-kidnap-iraq-iran-war-khataib-hezbollah/ ; https://x.com/SecRubio/status/2041676716343509184?s=20
+
+============================================================
+Article date: May 16, 2026
+Original file: iran-update-special-report-may-16-2026.md
+============================================================
+
+# Iran Update Special Report, May 16, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-16-2026/>*
+
+## Key Takeaways
+
+1. The Iranian regime is introducing a formalized toll system under the guise of maritime insurance policies and continuing to deploy incentives and threats to vessels in the Persian Gulf as part of their efforts to normalize and solidify Iranian control over the strait. This system appears designed to be more palatable than an outright “toll” by framing it as a “maritime insurance policy.” The insurance presumably insures the vessel against an Iranian attack.
+2. Iran is trying to circumvent the US naval blockade by expanding alternative overland and rail trade routes through the People’s Republic of China (PRC), Pakistan, and Iraq. These alternative trade routes are unlikely to replace the scale and efficiency of maritime trade through the Persian Gulf and the Strait of Hormuz, however.
+3. Israel and Lebanon have agreed to continue dialogue and extend the ceasefire but appear to remain at odds over key issues surrounding Hezbollah and its status. Israeli and Lebanese officials have long disagreed on the implementation mechanism, timing, and other political details related to Hezbollah’s disarmament and Israel’s military presence in southern Lebanon.
+
+## Toplines
+
+**The Iranian regime is introducing a formalized toll system under the guise of maritime insurance policies and continuing to deploy incentives and threats to vessels in the Persian Gulf as part of their efforts to normalize and solidify Iranian control over the strait.** This system appears designed to be more palatable than an outright “toll” by framing it as a “maritime insurance policy.” The insurance presumably insures the vessel against an Iranian attack. Iran’s Economy Ministry is pursuing a new scheme to force shipping companies to pay “verifiable insurance policies,” according to a document viewed by Islamic Revolutionary Guards Corps (IRGC) affiliated media outlet Fars on May 16.[1] Iranian Parliament National Security Committee Chairman Ebrahim Azizi also stated on May 16 that Iran has prepared a “professional mechanism” to manage traffic along Iran’s designated route “within the framework of its [Iranian] national sovereignty while guaranteeing international trade security.”[2] Azizi said that the details of the plan will be revealed soon.[3] Azizi’s comments are consistent with the document that Fars cites.[4] Iran would collect fees for unspecified “specialized services” as part of the scheme that Azizi described.[5] These ”specialized services” may be ”insurance.” Azizi clarified that “only commercial vessels and parties cooperating with Iran” would benefit from the new mechanism, which likely means countries that cooperate with Iranian protocols and have ”friendly” or ”non-hostile” relations with Iran. The IRGC Navy is permitting the passage of ships from East Asian countries such as the People’s Republic of China (PRC), Japan, and Pakistan, according to Iranian state media on May 16. Iranian regime media also reported that the IRGC Navy has begun negotiations with unspecified European actors for passage through the strait.[6]
+
+Access would remain restricted for actors associated with the US-led Project Freedom, however, which demonstrates that Iran seeks to retain the ability to coerce other states into adopting policies palatable to Iran by withholding access to the strait.[7] The United States launched Project Freedom to secure traffic through the internationally recognized traffic separation scheme in the strait.[8] US President Donald Trump temporarily paused Project Freedom on May 5 amid ongoing negotiations with Iran.[9]
+
+Iran continues to employ both incentives and threats in order to solidify its control over the strait. The Iranian Port and Maritime Organization announced on May 6 that it would provide fuel, medical, and mechanical assistance to vessels operating in regional and Iranian waters.[10] Armed Forces General Staff-run outlet Defa Press on May 16 also continued to highlight Iran’s capability to interdict shipping through fast attack craft swarm tactics designed to intimidate larger vessels, however.[11]
+
+[[![Map Thumbnail](https://understandingwar.org/wp-content/uploads/2026/05/Maritime-Traffic-in-the-Strait-of-Hormuz-Between-May-15-2026-at-200-PM-ET-and-May-16-2026-at-200-PM-ET.webp)](https://understandingwar.org/map/maritime-traffic-in-the-strait-of-hormuz-between-may-15-2026-at-200-pm-et-and-may-16-2026-at-200-pm-et-2/)](https://understandingwar.org/map/maritime-traffic-in-the-strait-of-hormuz-between-may-15-2026-at-200-pm-et-and-may-16-2026-at-200-pm-et-2/ "Maritime Traffic in the Strait of Hormuz Between May 15, 2026 at 2:00 PM ET and May 16, 2026 at 2:00 PM ET")
+
+**Iran is trying to circumvent the US naval blockade by expanding alternative overland and rail trade routes through the PRC, Pakistan, and Iraq. These alternative trade routes are unlikely to replace the scale and efficiency of maritime trade through the Persian Gulf and the Strait of Hormuz, however.** IRGC-affiliated Fars News Agency reported on May 16 that Iran-PRC rail trade has tripled since the start of the US naval blockade on Iranian ports.[12] Fars stated that Pakistan has launched a new transit route with Iran that allows third-country goods to transit through Pakistani territory into Iran.[13] Fars added that new Iraqi Prime Minister Ali al Zaidi directed Iraqi customs authorities in northern, central, western, and southern Iraq, in addition to Baghdad International Airport customs and air cargo authorities, to activate transit transport and re-export operations with Iran.[14]
+
+US Central Command (CENTCOM) reported on May 16 that US forces have redirected 78 commercial ships and disabled four ships “to ensure compliance” with the blockade.[15]
+
+## Maritime Development
+
+*See the topline section.*
+
+## US and Israeli Air Campaign
+
+*Nothing significant to report.*
+
+## Iranian Internal Dynamics
+
+*Nothing significant to report.*
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+**Israel and Lebanon have agreed to continue dialogue and extend the ceasefire but appear to remain at odds over key issues surrounding Hezbollah and its status.[16]** Israeli and Lebanese officials participated in high-level political and security talks in Washington, DC, on May 14 and 15.[17] The officials agreed upon a framework for negotiations that aims to advance “lasting peace” and full recognition of each other’s territorial integrity, according to the US State Department.[18] Israeli and Lebanese officials agreed to launch security talks, which will begin on May 29.[19] The May 29 meeting will reportedly focus on disarming Hezbollah, strengthening and deploying the Lebanese Armed Forces, and withdrawing Israeli forces from Lebanon.[20] The United States will work to facilitate dialogue and enhance military coordination channels between the two countries in the meantime.[21] Both sides also agreed to reconvene on June 2 and June 3 to continue political discussions.[22]  US sources told Lebanese media on May 15 that the United States believes that Israel and Lebanon both acknowledge the need to address the issue of Hezbollah, but noted that the two sides see the issue in ”different ways.”[23] Israeli and Lebanese officials have long disagreed on the implementation mechanism, timing, and other political details related to Hezbollah’s disarmament and Israel’s military presence in southern Lebanon.[24]
+
+## Other Axis of Resistance Response
+
+*Nothing significant to report.*
+
+Endnotes
+
+[1] https://t.me/farsna/435989; https://farsnews dot ir/Sadeghi/1778951656940377575  
+[2] https://x.com/Ebrahimazizi33/status/2055593855081165062?s=20  
+[3] https://x.com/Ebrahimazizi33/status/2055593855081165062?s=20  
+[4] https://understandingwar.org/research/middle-east/iran-update-special-report-april-20-2026/ ; https://x.com/FarsNews\_Agency/status/2045935260970488223?s=20; https://x.com/no\_itsmyturn/status/2046050956865945627?s=20  
+[5] https://t.me/Nournews\_ir/356592  
+[6] https://t.me/Nournews\_ir/356592  
+[7] https://x.com/Ebrahimazizi33/status/2055593855081165062?s=20;  
+[8] https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4476318/us-military-supports-launch-of-project-freedom-in-strait-of-hormuz/  
+[9] https://www.bbc.com/news/articles/clypekl71gdo  
+[10] https://t.me/farsna/434038; https://t.me/farsna/435938  
+[11] https://t.me/defapress\_ir/58934  
+[12] https://t.me/farsna/435843  
+[13] https://t.me/farsna/435843  
+[14] https://t.me/farsna/435843  
+[15] https://x.com/CENTCOM/status/2055640538917884056?s=20  
+[16] https://www.state.gov/releases/office-of-the-spokesperson/2026/05/second-meeting-between-the-governments-of-the-united-states-lebanon-and-israel/  
+[17] https://www.state.gov/releases/office-of-the-spokesperson/2026/05/second-meeting-between-the-governments-of-the-united-states-lebanon-and-israel/  
+[18] https://www.state.gov/releases/office-of-the-spokesperson/2026/05/second-meeting-between-the-governments-of-the-united-states-lebanon-and-israel/  
+[19] https://www.state.gov/releases/office-of-the-spokesperson/2026/05/second-meeting-between-the-governments-of-the-united-states-lebanon-and-israel/  
+[20] https://x.com/ariel\_oseran/status/2055706907667558852  
+[21] https://www.skynewsarabia dot com/middle-east/1869788-جولة-المفاوضات-إسرائيل-أعلن-الوفد-اللبناني  
+[22] https://www.state.gov/releases/office-of-the-spokesperson/2026/05/second-meeting-between-the-governments-of-the-united-states-lebanon-and-israel/  
+[23] https://t.me/MTVLebanoNews/69777  
+[24] https://understandingwar.org/research/middle-east/iran-update-special-report-april-17-2026/
+
+============================================================
+Article date: May 17, 2026
+Original file: iran-update-special-report-may-17-2026.md
+============================================================
+
+# Iran Update Special Report, May 17, 2026
+
+*Source: <https://understandingwar.org/research/middle-east/iran-update-special-report-may-17-2026/>*
+
+## Key Takeaways
+
+1. The United States and Iran continue to pursue fundamentally incompatible negotiating positions. Unspecified sources familiar with the US response to the latest Iranian counterproposal told Islamic Revolutionary Guards Corps (IRGC)-affiliated Fars News Agency on May 17 that the United States laid out its five main conditions in response to the latest Iranian proposal.
+2. Likely Iranian or Iranian-backed forces launched three drones targeting the Barakah Nuclear Power Plant in Abu Dhabi, the United Arab Emirates (UAE), on May 17. Radiation levels at the plant remain normal. The drones approached the target from the west. Iran has previously used drones to approach a target from an unexpected direction to obscure its responsibility and create challenges for air defenses. IRGC-affiliated media used the attack to attempt to drive a wedge between the UAE and other Gulf States by blaming Saudi Arabia for the attack.
+
+## Toplines
+
+**The United States and Iran continue to pursue fundamentally incompatible negotiating positions.** Unspecified sources familiar with the US response to the latest Iranian counterproposal told Islamic Revolutionary Guards Corps (IRGC)-affiliated Fars News Agency on May 17 that the United States laid out its five main conditions in response to the latest Iranian proposal.[1] The reported US response rejected war reparations, required Iran to transfer 400 kilograms of uranium to the United States, limited Iran to one operational nuclear facility, and refused to release more than 25 percent of frozen Iranian assets. The war would only end if negotiations were successful, and there would be no guarantees that the United States or Israel would not attack Iran in the future.[2]
+
+Iran sent its most recent counterproposal to the United States on May 10, which US President Donald Trump later called “totally unacceptable.”[3] IRGC Baghiyatollah Sociocultural Headquarters Commander and former IRGC commander Major General Mohammad Ali Jafari stated on May 11 that Iran will not enter negotiations with the United States until the United States accepts Iran’s terms.[4] Jafari stated that Iran’s terms include an end to the war on “all fronts,” the lifting of sanctions, the release of frozen Iranian assets, compensation for war-related damages, and recognition of Iran’s sovereignty over the Strait of Hormuz.[5]
+
+The reported US conditions directly conflict with the demands that Iranian officials and senior IRGC officials publicly outlined on May 11.[6] CTP-ISW previously assessed that Iranian officials sought terms that would result in the loss of US leverage before meaningful negotiations could begin, which would likely make it more difficult for the United States to secure major nuclear concessions from Iran.[7]
+
+**Likely Iranian or Iranian-backed forces launched three drones targeting the Barakah Nuclear Power Plant in Abu Dhabi, the United Arab Emirates (UAE), on May 17.[8] Regime media attempted to drive a wedge between the UAE and Saudi Arabia by blaming Saudi Arabia for the attack.[9] Radiation levels at the plant remain normal.** The Emirati Defense Ministry announced that its air defenses intercepted two drones while the other struck an electrical generator at the Barakah Nuclear Power Plant in Abu Dhabi, causing a fire.[10] The Ministry noted that the attacks came from the direction of “the western border.”[11] The International Atomic Energy Agency stated that the radiation levels at Barakah remained normal and that no casualties were reported.[12]
+
+Iran has previously used drones to approach a target from an unexpected direction to obscure its responsibility and create challenges for air defenses. Iranian forces attacked Saudi oil facilities at Abqaiq in 2019 using several drones that Iranian forces fired from Iranian territory, but approached the target from the west, not the east.[13] The Houthi movement claimed the 2019 attack, even though there was little evidence of Houthi culpability.[14]
+
+**IRGC-affiliated media used the attack to attempt to drive a wedge between the UAE and other Gulf States by blaming Saudi Arabia for the attack.** IRGC-affiliated media suggested on May 17 that Saudi Arabia launched the drones because it is the country to the west of the UAE.[15] Armed Forces General Staff-affiliated Defa Press Agency claimed on May 17 that the United States and Israel launched attacks against ”regional countries” and then attributed the attacks to Iran.[16] Iran has previously launched attacks against the UAE in an attempt to drive a wedge between the UAE and other Gulf states, likely in response to growing cooperation between the United States, Israel, and the UAE.[17]
+
+## Maritime Development
+
+**US Central Command (CENTCOM) said on May 17 that US forces have redirected 81 commercial vessels and disabled four since the blockade on Iranian ports began on April 13.[18]**
+
+## US and Israeli Air Campaign
+
+*Nothing significant to report.*
+
+## Iranian Internal Dynamics
+
+**IRGC-affiliated Tasnim News Agency reported on May 17 that Iranian Parliament Speaker Mohammad Bagher Ghalibaf became Iran’s special representative for the People’s Republic of China (PRC) affairs.**[19] Tasnim reported that Iranian President Masoud Pezeshkian proposed appointing Ghalibaf to the position, and Supreme Leader Mojtaba Khamenei approved the appointment.[20] Tasnim highlighted that Ghalibaf’s appointment differs from previous PRC-related representative roles in terms of “level of authority.”[21] Iranian Ambassador to the PRC Abdolreza Rahmani Fazli previously served only as the president’s representative for PRC affairs, while former Supreme National Security Council Secretary Ali Larijani served as the Supreme Leader’s special representative for PRC affairs.[22]
+
+## **Israeli Campaign Against Hezbollah and Hezbollah Response**
+
+*Nothing significant to report.*
+
+## Other Axis of Resistance Response
+
+**Iraqi officials told** ***the New York Times*** **on May 17 that Israel built two clandestine outposts in the Iraqi desert in late 2024.**[23] Western media previously reported on May 9 that the Israel Defense Forces (IDF) built one outpost near al Nukhayb, Anbar Province.[24] The IDF used this outpost for air support, refueling, and “medical treatment” during the 12-day war in June 2025, according to two regional officials speaking to the *New York Times* on May 17.[25] Israeli and Western media also reported in May 2026 that the IDF deployed commando units and search-and-rescue teams to this outpost before the start of the recent US-Israeli campaign in Iran to recover Israeli pilots if Iranian forces shot down Israeli fighter jets.[26] The *New York Times* reported that the outpost near al Nukhayb is no longer operational.[27] Two Iraqi officials, including senior Wisdom Movement official Hassan Fadaam, told the *New York Times* on May 17 that there is a second undisclosed Israeli outpost in the Iraqi desert.[28] The status and location of this second outpost were not specified, however.[29]
+
+**Two Iraqi security officials also told the** ***New York Times*** **on May 17 that the United States “compelled” Iraq to shut down its radars to protect US aircraft during the 12-day war in June 2025 and the recent conflict.**[30] Iranian-backed Iraqi actors will likely use this report, in conjunction with the reports of Israeli bases in Iraq, to pressure the Iraqi government to pursue the purchase of advanced air defense systems. Several Iranian-backed Iraqi parliamentarians previously called on the Iraqi government to modernize its air defenses and diversify its arms supplies in June 2025.[31]
+
+Endnotes
+
+[1] https://t.me/farsna/436095  
+[2] https://t.me/farsna/436095  
+[3] https://defapress dot ir/fa/news/833203/ ;  
+https://truthsocial.com/@realDonaldTrump/posts/116552102914488206  
+[4] https://t.me/farsna/434872  
+[5] https://t.me/farsna/434872  
+[6] https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/ ;  
+https://understandingwar.org/research/middle-east/iran-update-special-report-may-12-2026/  
+[7] https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/  
+[8] https://x.com/modgovae/status/2056014348993360147?s=20  
+[9] https://t.me/Tasnimnews/416030  
+[10] https://x.com/modgovae/status/2056014348993360147?s=20 ; https://x.com/ADMediaOffice/status/2055953520302682178?s=20  
+[11] https://x.com/modgovae/status/2056014348993360147?s=20  
+[12] https://x.com/iaeaorg/status/2055974241313361927?s=20  
+[13] https://www.npr.org/2019/09/19/762065119/what-we-know-about-the-attack-on-saudi-oil-facilities  
+[14] https://www.criticalthreats.org/wp-content/uploads/2019/10/RPT-Kagan\_Attribution-Intent-and-Response-3.pdf  
+[15] https://t.me/Tasnimnews/416030  
+[16] https://defapress dot ir/fa/news/834848/  
+[17] https://x.com/modgovae/status/2051666783627555127 ;  
+https://x.com/modgovae/status/2051377907034157477 ;  
+https://x.com/modgovae/status/2051377052998332472 ;  
+https://x.com/modgovae/status/2052710247979250031;  
+https://www.reuters.com/world/middle-east/us-envoy-says-israel-sent-iron-dome-battery-personnel-uae-2026-05-12/  
+[18] https://x.com/CENTCOM/status/2056014991078158472  
+[19] https://t.me/Tasnimnews/415917  
+[20] https://t.me/Tasnimnews/415917  
+[21] https://t.me/Tasnimnews/415917  
+[22] https://t.me/Tasnimnews/415917  
+[23] https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html  
+[24] https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a?mod=middle-east\_news\_article\_pos2 ; https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a?mod=middle-east\_news\_article\_pos2  
+[25] https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html  
+[26] https://understandingwar.org/research/middle-east/iran-update-special-report-may-10-2026/ https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a?mod=middle-east\_news\_article\_pos2 ; https://www.maariv dot co.il/news/military/article-1319336  
+[27] https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html  
+[28] https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html ; https://shafaq dot com/en/Iraq/Iraq-s-al-Hikma-bloc-New-US-Envoy-a-Standard-Practice  
+[29] https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html  
+[30] https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html  
+[31] https://understandingwar.org/research/middle-east/iran-update-special-report-iraq-after-the-israel-iran-war-june-13-july-3-2025/
