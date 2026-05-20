@@ -624,18 +624,302 @@
             color: var(--muted);
         }
 
+        /* ─── NAV SCROLL HINT ──────────────────────── */
+        .nav-wrap {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(10, 12, 16, 0.95);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .nav-wrap .nav {
+            position: static;
+            background: transparent;
+            backdrop-filter: none;
+            border-bottom: none;
+        }
+
+        .nav-wrap::before,
+        .nav-wrap::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 24px;
+            pointer-events: none;
+            z-index: 1;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+
+        .nav-wrap::before {
+            left: 0;
+            background: linear-gradient(to right, rgba(10, 12, 16, 0.95), rgba(10, 12, 16, 0));
+        }
+
+        .nav-wrap::after {
+            right: 0;
+            background: linear-gradient(to left, rgba(10, 12, 16, 0.95), rgba(10, 12, 16, 0));
+        }
+
+        .nav-wrap.scroll-start::after,
+        .nav-wrap.scroll-mid::before,
+        .nav-wrap.scroll-mid::after,
+        .nav-wrap.scroll-end::before {
+            opacity: 1;
+        }
+
+        /* ─── BACK TO TOP ───────────────────────────── */
+        .to-top {
+            position: fixed;
+            right: 18px;
+            bottom: 18px;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            font-size: 18px;
+            font-weight: 800;
+            cursor: pointer;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+            opacity: 0;
+            transform: translateY(8px);
+            transition: opacity 0.2s, transform 0.2s;
+            pointer-events: none;
+            z-index: 90;
+        }
+
+        .to-top.visible {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+
+        .to-top:focus-visible {
+            outline: 2px solid #fff;
+            outline-offset: 3px;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .to-top {
+                transition: none;
+            }
+        }
+
         /* ─── RESPONSIVE ────────────────────────────── */
+        @media (max-width: 680px) {
+            .stat-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+                margin-bottom: 24px;
+            }
+
+            .stat-box {
+                padding: 14px 10px;
+            }
+
+            .stat-box .num {
+                font-size: 1.45rem;
+            }
+
+            .stat-box .label {
+                font-size: 10px;
+                letter-spacing: 0.6px;
+            }
+
+            .card-grid {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+
+            .nav-btn {
+                padding: 14px 14px;
+                font-size: 12px;
+            }
+        }
+
         @media (max-width: 600px) {
+            body {
+                font-size: 14.5px;
+                line-height: 1.65;
+            }
+
             .hero {
-                padding: 60px 16px 40px;
+                padding: 44px 16px 32px;
+            }
+
+            .hero-eyebrow {
+                font-size: 10px;
+                letter-spacing: 2px;
+                padding: 3px 12px;
+                margin-bottom: 16px;
+            }
+
+            .hero h1 {
+                font-size: clamp(1.55rem, 7.5vw, 2.4rem);
+                line-height: 1.2;
+                margin-bottom: 12px;
+            }
+
+            .hero-sub {
+                font-size: 0.95rem;
+                margin-bottom: 22px;
             }
 
             .hero-meta {
-                gap: 20px;
+                gap: 12px 18px;
+            }
+
+            .hero-meta-item .val {
+                font-size: 1.2rem;
+            }
+
+            .hero-meta-item .lbl {
+                font-size: 9.5px;
+                letter-spacing: 1px;
+            }
+
+            .hero-provenance {
+                font-size: 0.72rem;
+                margin-top: 18px;
+                line-height: 1.55;
             }
 
             .container {
                 padding: 0 16px;
+            }
+
+            section {
+                padding: 32px 0 48px;
+            }
+
+            .section-title {
+                font-size: 1.3rem;
+            }
+
+            .section-desc {
+                margin-bottom: 22px;
+                font-size: 0.92rem;
+            }
+
+            .card {
+                padding: 18px;
+            }
+
+            .card-title {
+                font-size: 0.98rem;
+            }
+
+            .alert {
+                padding: 12px 14px;
+                font-size: 0.88rem;
+            }
+
+            .timeline {
+                padding-left: 24px;
+            }
+
+            .timeline::before {
+                left: 7px;
+            }
+
+            .tl-dot {
+                left: -22px;
+                top: 5px;
+                width: 11px;
+                height: 11px;
+            }
+
+            .tl-item {
+                margin-bottom: 22px;
+                padding: 4px 0;
+            }
+
+            .tl-title {
+                font-size: 0.95rem;
+            }
+
+            .tl-body {
+                font-size: 0.88rem;
+                padding: 10px 12px;
+            }
+
+            .tl-toggle {
+                display: inline-block;
+                padding: 6px 0;
+                margin-top: 2px;
+            }
+
+            .faction-body {
+                padding: 14px 16px;
+            }
+
+            .faction-body ul li {
+                font-size: 0.85rem;
+            }
+
+            footer {
+                padding: 18px 16px;
+                font-size: 0.78rem;
+            }
+
+            .to-top {
+                right: 14px;
+                bottom: 14px;
+                width: 42px;
+                height: 42px;
+            }
+
+            /* Kills table → stacked cards */
+            .kills-table thead {
+                display: none;
+            }
+
+            .kills-table,
+            .kills-table tbody,
+            .kills-table tr,
+            .kills-table td {
+                display: block;
+                width: 100%;
+            }
+
+            .kills-table tr {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: 10px;
+                padding: 14px;
+                margin-bottom: 10px;
+            }
+
+            .kills-table tr:hover td {
+                background: transparent;
+            }
+
+            .kills-table td {
+                padding: 6px 0;
+                border-bottom: none;
+            }
+
+            .kills-table td::before {
+                content: attr(data-label);
+                display: block;
+                font-size: 10px;
+                text-transform: uppercase;
+                color: var(--muted);
+                letter-spacing: 1px;
+                margin-bottom: 2px;
+            }
+
+            .kills-table td[data-label="Name"]::before {
+                display: none;
+            }
+
+            .kills-table .name {
+                font-size: 1rem;
             }
         }
 
@@ -773,18 +1057,20 @@
     </div>
 
     <!-- ───────────────── NAV ─────────────────────────── -->
-    <nav class="nav" id="mainNav" role="navigation" aria-label="War explainer sections">
-        <button type="button" class="nav-btn active" data-section="overview" aria-current="page">Overview</button>
-        <button type="button" class="nav-btn" data-section="timeline">Timeline</button>
-        <button type="button" class="nav-btn" data-section="campaign">Air Campaign</button>
-        <button type="button" class="nav-btn" data-section="iran-response">Iran's Response</button>
-        <button type="button" class="nav-btn" data-section="strait">Strait of Hormuz</button>
-        <button type="button" class="nav-btn" data-section="proxies">Proxy War</button>
-        <button type="button" class="nav-btn" data-section="leaders">Leaders &amp; Kills</button>
-        <button type="button" class="nav-btn" data-section="economy">Economy</button>
-        <button type="button" class="nav-btn" data-section="diplomacy">Diplomacy</button>
-        <button type="button" class="nav-btn" data-section="status">Current Status</button>
-    </nav>
+    <div class="nav-wrap" id="navWrap">
+        <nav class="nav" id="mainNav" role="navigation" aria-label="War explainer sections">
+            <button type="button" class="nav-btn active" data-section="overview" aria-current="page">Overview</button>
+            <button type="button" class="nav-btn" data-section="timeline">Timeline</button>
+            <button type="button" class="nav-btn" data-section="campaign">Air Campaign</button>
+            <button type="button" class="nav-btn" data-section="iran-response">Iran's Response</button>
+            <button type="button" class="nav-btn" data-section="strait">Strait of Hormuz</button>
+            <button type="button" class="nav-btn" data-section="proxies">Proxy War</button>
+            <button type="button" class="nav-btn" data-section="leaders">Leaders &amp; Kills</button>
+            <button type="button" class="nav-btn" data-section="economy">Economy</button>
+            <button type="button" class="nav-btn" data-section="diplomacy">Diplomacy</button>
+            <button type="button" class="nav-btn" data-section="status">Current Status</button>
+        </nav>
+    </div>
     <div class="nav-current" id="navCurrent" aria-live="polite">
         <span class="here-label">Viewing</span>
         <span class="here-title" id="navCurrentTitle">Overview</span>
@@ -1248,6 +1534,36 @@
                         enrichment and highly enriched uranium.</p>
                     <div class="tags"><span class="tag red">Fundamental impasse</span></div>
                 </div>
+                <div class="card">
+                    <div class="card-title">Undersea Cables — A New Front</div>
+                    <p>The Strait of Hormuz also carries critical subsea data infrastructure. Three of the seven cables
+                        in the region — <strong>FALCON, GBICS, and OMRAN/EPEG</strong> — terminate in Iran and run
+                        through the strait; the AAE-1 (Asia–Africa–Europe 1) cable also passes through and connects
+                        digital traffic between Asia, the Gulf, and Europe.</p>
+                    <p>On May 18, IRGC-affiliated Fars News floated permits, oversight measures, and sovereign fees on
+                        fiber-optic cables transiting the strait. IRGC-linked Javan News previously warned that
+                        "deliberate actions" against several cables at once could cause widespread digital disruption —
+                        a thinly veiled threat that extends Iran's coercion strategy beyond shipping.</p>
+                    <div class="tags"><span class="tag red">Escalation threat</span></div>
+                </div>
+                <div class="card">
+                    <div class="card-title">UAE Builds a Hormuz Bypass</div>
+                    <p>In response to Iranian coercion, the UAE has accelerated work on infrastructure that would route
+                        oil and gas exports around the strait — reducing dependence on the chokepoint Iran is trying to
+                        formalize control over. The bypass reframes the dispute: even if Iran wins a legal claim, Gulf
+                        states are working to make that claim commercially less valuable over time.</p>
+                    <p>Iran has begun reframing transit tolls as "maritime insurance" — likely an attempt to disguise
+                        a coercive regime as a market service before US Treasury sanctions can target the payments.</p>
+                    <div class="tags"><span class="tag gold">Bypass underway</span></div>
+                </div>
+            </div>
+
+            <div class="alert info">
+                <strong>Legal frame:</strong> Iran claims its control is permitted under the UN Convention on the Law
+                of the Sea (UNCLOS) because the strait lies within Iranian territorial waters. UNCLOS Article 37 in
+                fact classifies straits used for international navigation as international straits, Article 38
+                guarantees transit passage for "all ships and aircraft," and Article 44 bars bordering states from
+                "hampering" or suspending that passage. The PGSA framework runs against this text.
             </div>
 
             <div class="card">
@@ -1513,6 +1829,25 @@
             </div>
 
             <div class="card">
+                <div class="card-title">US 5-Condition Response (May 17)</div>
+                <p>After Iran's May 10 counterproposal — which Trump called "totally unacceptable" — sources told
+                    IRGC-affiliated Fars News on May 17 that the US response narrowed to five non-negotiable
+                    conditions:</p>
+                <ul style="padding-left:18px; margin-top:8px; font-size:0.9rem; line-height:1.9;">
+                    <li><strong>No war reparations</strong> — explicit rejection of Iran's compensation demand</li>
+                    <li><strong>Transfer of 400 kg of uranium</strong> to the United States</li>
+                    <li><strong>Iran limited to one operational nuclear facility</strong> only</li>
+                    <li><strong>No more than 25% of frozen Iranian assets</strong> released</li>
+                    <li><strong>No security guarantees</strong> — the US and Israel will not foreclose future strikes,
+                        and the war only ends if negotiations actually succeed</li>
+                </ul>
+                <p style="margin-top:10px;">These terms directly conflict with Iran's May 11 public demands (end the
+                    war on "all fronts," lift sanctions, release frozen assets, pay damages, recognize Iranian
+                    sovereignty over Hormuz), leaving the two sides on opposite ends of every line item.</p>
+                <div class="tags" style="margin-top:12px;"><span class="tag red">Wide gap remains</span></div>
+            </div>
+
+            <div class="card">
                 <div class="card-title">Iran's Counter-Demands</div>
                 <p>Iran proposed five conditions for a ceasefire and has continued to signal inflexibility on core
                     issues:</p>
@@ -1643,12 +1978,16 @@
                 <div class="card">
                     <div class="card-title">Gulf States Under Pressure</div>
                     <div class="tags" style="margin-bottom:12px;"><span class="tag red">Active targeting</span></div>
-                    <p>Likely Iranian or Iranian-backed forces launched three drones at the Barakah Nuclear Power Plant
-                        in Abu Dhabi on May 17, and likely Iranian-backed Iraqi militias launched three drones toward
-                        Saudi Arabia the same day.</p>
-                    <p>Those attacks help explain why Qatar, Saudi Arabia, and the UAE pressed Trump to suspend the
-                        planned May 19 strike: they feared Iran would retaliate directly against Gulf energy and oil
-                        infrastructure.</p>
+                    <p>On May 17, likely Iranian or Iranian-backed forces launched three drones at the <strong>Barakah
+                        Nuclear Power Plant</strong> in Abu Dhabi. UAE air defenses intercepted two; the third struck
+                        an electrical generator, igniting a fire. IAEA confirmed radiation levels at the plant remained
+                        normal and no casualties were reported. The drones approached from the west — a misdirection
+                        tactic Iran used at Abqaiq in 2019 — and IRGC-affiliated media used the geometry to falsely
+                        blame Saudi Arabia, attempting to drive a wedge between Gulf states.</p>
+                    <p>The same day, Saudi air defenses intercepted three drones launched from Iraq by likely
+                        Iranian-backed militias. Those attacks help explain why Qatar, Saudi Arabia, and the UAE pressed
+                        Trump to suspend the planned May 19 strike: they feared Iran would retaliate directly against
+                        Gulf energy infrastructure.</p>
                 </div>
                 <div class="card">
                     <div class="card-title">Hormuz Coercion</div>
@@ -1659,6 +1998,42 @@
                     <p>Iranian and IRGC-linked outlets are now threatening fees, permit systems, and even undersea
                         cable oversight as part of a broader push to make Iranian approval the price of normal commerce
                         through the strait.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Iraq Disclosures (NYT, May 17)</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag orange">Sovereignty fight</span></div>
+                    <p>Iraqi officials told <em>The New York Times</em> on May 17 that the IDF built <strong>two
+                        clandestine outposts</strong> in the Iraqi desert in late 2024. One near al Nukhayb (Anbar
+                        Province) was used during the June 2025 12-Day War for air support, refueling, and combat
+                        search-and-rescue staging; it is reportedly no longer operational. The location and status of
+                        a second outpost have not been disclosed.</p>
+                    <p>Two Iraqi security officials separately said the United States "compelled" Iraq to shut down its
+                        radars to protect US and Israeli aircraft during the 12-Day War and the current conflict.
+                        Iranian-backed Iraqi parliamentarians are expected to use these disclosures to push for advanced
+                        air defense purchases and diversification away from Western suppliers.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Iran Tilts Toward Beijing</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag gold">Strategic realignment</span></div>
+                    <p>On May 17, Parliament Speaker Mohammad Bagher Ghalibaf was appointed the Supreme Leader's
+                        <strong>special representative for People's Republic of China affairs</strong> — a more senior
+                        role than the standard ambassadorial portfolio. President Pezeshkian proposed the appointment;
+                        Supreme Leader Mojtaba Khamenei approved it. The previous holder of an equivalent role was Ali
+                        Larijani, killed by the IDF on March 17.</p>
+                    <p>The move signals that — even with talks with Washington ongoing — Tehran is institutionalizing a
+                        deeper political channel to Beijing, the country whose ships continue to transit the strait
+                        under Iran's coercive regime.</p>
+                </div>
+                <div class="card">
+                    <div class="card-title">Jordan in the Crosshairs</div>
+                    <div class="tags" style="margin-bottom:12px;"><span class="tag red">Pre-positioned threat</span></div>
+                    <p>Kataib Hezbollah spokesperson Abu Mujahid al Aasaf warned on May 18 that the militia will
+                        retaliate if US and Israeli strikes resume on Iranian-backed groups in Iraq. He claimed most US
+                        and Israeli "reconnaissance operations" originate from Jordan, and warned the Jordanian
+                        government to "learn from the events of the recent conflict" — a clear attempt to deter Amman
+                        from hosting future US strikes.</p>
+                    <p>Iranian-backed Iraqi militias conducted repeated drone attacks against US bases in Jordan before
+                        the April ceasefire, making the warning more than rhetorical.</p>
                 </div>
             </div>
 
@@ -1690,6 +2065,8 @@
             posts through May 19, 2026 | The Institute for the Study of War &amp; The Critical Threats Project at AEI</p>
         <p style="margin-top:6px;">This site is for informational and educational purposes only.</p>
     </footer>
+
+    <button type="button" class="to-top" id="toTop" aria-label="Back to top" title="Back to top">↑</button>
 
     <script>
         const SECTION_LABELS = {
@@ -1967,7 +2344,10 @@
         const tbody = document.getElementById('killsTableBody');
         kills.forEach(k => {
             const tr = document.createElement('tr');
-            tr.innerHTML = `<td><span class="name">${k.name}</span></td><td>${k.role}</td><td>${k.date}</td><td>${k.sig}</td>`;
+            tr.innerHTML = `<td data-label="Name"><span class="name">${k.name}</span></td>` +
+                `<td data-label="Position">${k.role}</td>` +
+                `<td data-label="Date Killed">${k.date}</td>` +
+                `<td data-label="Significance">${k.sig}</td>`;
             tbody.appendChild(tr);
         });
 
@@ -1978,6 +2358,56 @@
                 const w = el.style.width;
                 el.style.width = '0';
                 requestAnimationFrame(() => { el.style.width = w; });
+            });
+        }
+
+        // ─── BACK TO TOP BUTTON ─────────────────────────────
+        const toTopBtn = document.getElementById('toTop');
+        if (toTopBtn) {
+            const updateToTop = () => {
+                toTopBtn.classList.toggle('visible', window.scrollY > 480);
+            };
+            window.addEventListener('scroll', updateToTop, { passive: true });
+            updateToTop();
+            toTopBtn.addEventListener('click', () => {
+                window.scrollTo({
+                    top: 0,
+                    behavior: prefersReducedMotion() ? 'auto' : 'smooth'
+                });
+            });
+        }
+
+        // ─── NAV HORIZONTAL SCROLL FADES ────────────────────
+        const navWrap = document.getElementById('navWrap');
+        const navEl = document.getElementById('mainNav');
+        if (navWrap && navEl) {
+            const updateNavFade = () => {
+                const max = navEl.scrollWidth - navEl.clientWidth;
+                if (max <= 1) {
+                    navWrap.classList.remove('scroll-start', 'scroll-mid', 'scroll-end');
+                    return;
+                }
+                const left = navEl.scrollLeft;
+                navWrap.classList.toggle('scroll-start', left <= 2);
+                navWrap.classList.toggle('scroll-end', left >= max - 2);
+                navWrap.classList.toggle('scroll-mid', left > 2 && left < max - 2);
+            };
+            navEl.addEventListener('scroll', updateNavFade, { passive: true });
+            window.addEventListener('resize', updateNavFade);
+            updateNavFade();
+
+            // Keep the active nav button visible after section switch
+            navBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    requestAnimationFrame(() => {
+                        btn.scrollIntoView({
+                            behavior: prefersReducedMotion() ? 'auto' : 'smooth',
+                            inline: 'center',
+                            block: 'nearest'
+                        });
+                        updateNavFade();
+                    });
+                });
             });
         }
     </script>
